@@ -1,0 +1,87 @@
+---
+import { CldImage } from 'astro-cloudinary';
+import Stats from './stats.astro';
+import PageIllustration from './page-illustration.astro';
+---
+
+<section class="relative">
+  <!-- Bg -->
+  <div
+    class="pointer-events-none absolute inset-0 -z-12 bg-gradient-to-b from-gray-950/10 to-transparent mx-auto"
+    aria-hidden="true"
+  >
+  </div>
+  <div
+    class="pointer-events-none absolute inset-0 -z-10 rounded-bl-[100px] bg-gray-50 max-w-7xl mx-auto border-double border-4 border-gray-200"
+    aria-hidden="true"
+  >
+  </div>
+  <PageIllustration />
+  <div class="mx-auto max-w-7xl pl-4 sm:pl-6">
+    <div class="pt-32 md:pt-40">
+      <!-- Hero content -->
+      <div
+        class="relative mx-auto flex max-w-xl flex-col text-center md:max-w-none md:flex-row md:text-left md:items-end"
+      >
+        <!-- Content -->
+        <div class="md:w-[750px] md:pb-20 pb-12">
+          <!-- Copy -->
+          <h1 class="h1 font-cabinet-grotesk mb-6">
+            Jsem realitní makléř, na kterého se můžete{' '}
+            <span class="relative inline-flex text-blue-500">
+              <svg
+                class="absolute left-0 top-full -z-10 -mt-4 max-w-full"
+                width="220"
+                height="24"
+                viewBox="0 0 220 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M134.66 13.107c-10.334-.37-20.721-.5-31.12-.291l-2.6.06c-4.116.04-8.193.602-12.3.749-14.502.43-29.029 1.196-43.514 2.465-6.414.63-12.808 1.629-19.04 2.866-7.93 1.579-16.113 3.71-23.367 5.003-2.211.374-3.397-1.832-2.31-4.906.5-1.467 1.838-3.456 3.418-4.813a16.047 16.047 0 0 1 6.107-3.365c16.88-4.266 33.763-6.67 51.009-7.389C71.25 3.187 81.81 1.6 92.309.966c11.53-.65 23.097-.938 34.66-.96 7.117-.054 14.25.254 21.36.318l16.194.803 4.62.39c3.85.32 7.693.618 11.53.813 8.346.883 16.673.802 25.144 2.159 1.864.276 3.714.338 5.566.873l.717.225c6.162 1.977 7.92 3.64 7.9 7.197l-.003.203c-.017.875.05 1.772-.112 2.593-.581 2.762-4.066 4.12-8.637 3.63-13.696-1.06-27.935-3.332-42.97-4.168-11.055-.83-22.314-1.459-33.596-1.603l-.022-.332Z"
+                  fill="#D1D5DB"
+                  fill-rule="evenodd"></path>
+              </svg>
+              spolehnout
+            </span>.
+          </h1>
+          <p class="mb-10 text-xl text-slate-500">
+            Potřebujete koupit či prodat nemovitost? Rád Vám pomohu. Neváhejte se na mě obrátit.
+          </p>
+          <!-- Buttons -->
+          <div
+            class="mx-auto mb-12 max-w-xs space-y-4 sm:flex sm:max-w-none sm:justify-center sm:space-x-4 sm:space-y-0 md:mb-20 md:justify-start"
+          >
+            <div>
+              <a
+                class="btn w-full bg-gray-950 text-white shadow-xs hover:bg-gray-800"
+                href="/nemovitosti"
+              >
+                Katalog nemovitostí
+              </a>
+            </div>
+            <div>
+              <a
+                class="btn w-full bg-white text-gray-600 shadow-xs hover:bg-gray-100 hover:text-gray-600"
+                href="/kontakt"
+              >
+                Kontaktovat mě
+              </a>
+            </div>
+          </div>
+          <!-- Stats -->
+          <Stats />
+        </div>
+        <!-- Image -->
+        <div class="relative self-center md:self-end md:ml-8 lg:ml-16">
+          <CldImage
+            src="DZF_4387_dzprvn_sqxo0p"
+            alt="Hero Illustration"
+            width={800}
+            height={1200}
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 80vw"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

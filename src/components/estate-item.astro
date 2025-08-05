@@ -1,0 +1,84 @@
+---
+import { CldImage } from 'astro-cloudinary';
+import { Image } from 'astro:assets';
+
+interface Props {
+  estate: {
+    title: string;
+    type: string;
+    date: Date;
+    tags: string[];
+    thumbnail: any;
+    images: string[];
+    price: string;
+    location: string;
+    mapy_link: string;
+    youtube_link?: string;
+    slug: string;
+  };
+  isHidden: boolean;
+}
+
+const { estate, isHidden } = Astro.props;
+---
+
+<article
+  class:list={[
+    'flex h-full flex-col border-4 border-double bg-linear-to-bl from-gray-100 to-transparent p-6 transition-opacity',
+    { 'pointer-events-none opacity-15': isHidden },
+  ]}
+>
+  <header>
+    <div class="group relative mb-6 overflow-hidden border border-blue-300">
+      <a href={`/${estate.slug}`} tabindex="-1">
+        <span
+          class="aspect-101/64 w-full object-cover transition ease-out group-hover:scale-[1.02]"
+        >
+          <CldImage src={estate.thumbnail} width={347} height={220} alt={estate.title} />
+        </span>
+      </a>
+    </div>
+    <div class="mb-3">
+      <ul class="flex flex-wrap gap-2">
+        <li>
+          <a
+            class="btn-sm relative rounded-full bg-blue-200 px-2.5 py-0.5 text-xs font-normal"
+            href="#0"
+          >
+            <span
+              class="bg-linear-to-r from-indigo-950 to-indigo-600 bg-clip-text text-sm text-transparent"
+            >
+              {estate.type}
+            </span>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <h3 class="mb-2 font-cabinet-grotesk text-lg font-semibold">
+      <a class="text-black transition hover:text-black" href={`/${estate.slug}`}>
+        {estate.title}
+      </a>
+    </h3>
+  </header>
+  <footer class="flex items-center gap-3">
+    <div class="text-sm font-medium text-gray-900">
+      <span>{estate.location}</span>
+      <div class="flex flex-wrap gap-2 mt-2">
+        {
+          estate.tags.map(tag => (
+            <span class="text-sm font-medium text-gray-900 bg-blue-200 rounded-full px-2 py-1">
+              {tag}
+            </span>
+          ))
+        }
+      </div>
+      <div class="mt-2 flex items-center">
+        <span
+          class="relative inline-flex text-xl text-blue-500 before:absolute before:inset-0 before:-z-10 before:translate-y-1/4 before:-rotate-2 before:bg-sky-200 before:opacity-30 dark:before:bg-sky-500"
+        >
+          {estate.price}
+        </span>
+      </div>
+    </div>
+  </footer>
+</article>

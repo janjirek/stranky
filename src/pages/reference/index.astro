@@ -1,0 +1,49 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import References from '@/components/references.tsx';
+import Hero from './hero.astro';
+import { getCollection } from 'astro:content';
+
+const testimonials = await getCollection('references');
+export const metadata = {
+  title: 'Ing. Jan Jírek - Reference',
+  description: 'Reference od spokojených klientů Ing. Jana Jírka',
+};
+---
+
+<Layout
+  title="Ing. Jan Jírek - Reference"
+  description="Reference od spokojených klientů Ing. Jana Jírka"
+>
+  <Hero />
+  {/* Google reviews */}
+  <div class="max-w-7xl mx-auto px-4 pb-12 md:px-12">
+    <div class="flex flex-col gap-4">
+      <h2 class="text-2xl font-bold">Reference</h2>
+      <p class="text-gray-600">Reference od spokojených klientů Ing. Jana Jírka</p>
+      <div class="flex gap-4 flex-col items-center">
+        <div class="border-2 border-gray-300 rounded-lg w-1/2 h-96 p-4">
+          <iframe
+            class="w-full h-full"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2562.533892059754!2d15.767335677478632!3d50.03882921691461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6cf9f1714980ad9f%3A0xdd1b1a4edf8b4964!2zSW5nLiBKYW4gSsOtcmVrIOKAkyByZWFsaXRuw60gbWFrbMOpxZk!5e0!3m2!1scs!2scz!4v1753173552483!5m2!1scs!2scz"
+            style="border:0;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <div class="border-2 border-gray-300 rounded-lg w-60 p-2">
+          <a
+            href="https://www.firmy.cz/detail/13674362-ing-jan-jirek-realitni-makler-pardubice.html#hodnoceni"
+            target="_blank"
+            rel="noopener"
+            ><img
+              src="https://www.firmy.cz/img-stars/light-13674362.svg"
+              alt="Ing. Jan Jírek – realitní makléř na Firmy.cz"
+            /></a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+  <References testimonials={testimonials} />
+</Layout>

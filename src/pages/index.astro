@@ -1,0 +1,20 @@
+---
+import Hero from '@/components/hero.astro';
+import ServicesOverview from '@/components/services-overview.astro';
+import Layout from '../layouts/Layout.astro';
+import ReferencesOverview from '@/components/references-overview.astro';
+
+export const metadata = {
+  title: 'Ing. Jan Jírek - Realitní makléř',
+  description: 'Ing. Jan Jírek - Realitní makléř v Pardubicích, Hradci Králové a okolí',
+};
+---
+
+<Layout
+  title="Ing. Jan Jírek - Realitní makléř"
+  description="Ing. Jan Jírek - Realitní makléř v Pardubicích, Hradci Králové a okolí"
+>
+  <Hero />
+  <ServicesOverview />
+  <div class="w-full bg-slate-200"><ReferencesOverview /></div>
+</Layout>

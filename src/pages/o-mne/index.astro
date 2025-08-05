@@ -1,0 +1,23 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import Hero from './hero.astro';
+import Content from './content.astro';
+import Location from '@/components/locations.astro';
+import Cta from '@/components/cta-02.astro';
+
+export const metadata = {
+  title: 'Ing. Jan Jírek - O mně',
+  description: 'Ing. Jan Jírek - Informační stránka o mně a mém působení',
+};
+---
+
+<Layout
+  title="Ing. Jan Jírek - O mně"
+  description="Ing. Jan Jírek - Informační stránka o mně a mém působení"
+>
+  <Hero />
+  <Content />
+  <Location />
+  <Cta />
+</Layout>
+

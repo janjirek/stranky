@@ -1,0 +1,73 @@
+---
+import RentIcon from "@/assets/icons/RentIcon.png";
+import EstateIcon from "@/assets/icons/EstateIcon.png";
+import HeritageIcon from "@/assets/icons/HeritageIcon.png";
+import { Image } from "astro:assets";
+---
+
+<section>
+  <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    <div class="py-12 md:py-28 md:pb-20">
+      <!-- Items -->
+      <div class="mx-auto grid max-w-sm items-start gap-12 md:-mx-9 md:max-w-none md:grid-cols-3 md:gap-0">
+        <!-- 1st item -->
+        <div
+          class="relative after:absolute after:right-0 after:top-1/2 after:hidden after:h-16 after:w-px after:-translate-y-1/2 after:bg-slate-200 last:after:hidden md:px-9 md:after:block"
+        >
+          <div class="mb-3">
+            <Image
+              src={EstateIcon}
+              alt="EstateIcon"
+              width={100}
+              height={100}
+            />
+          </div>
+          <h4 class="mb-1 font-cabinet-grotesk text-4xl font-bold">
+            Prodej Nemovitosti
+          </h4>
+          <p class="text-slate-500">
+            Zajistím rychlý a hlavně bezstarostný prodej Vaší nemovitosti.
+            Postarám se o všechny náležitosti a formality.
+          </p>
+        </div>
+
+        <!-- 2nd item -->
+        <div
+          class="relative after:absolute after:right-0 after:top-1/2 after:hidden after:h-16 after:w-px after:-translate-y-1/2 after:bg-slate-200 last:after:hidden md:px-9 md:after:block"
+        >
+          <div class="mb-3">
+            <Image src={RentIcon} alt="RentIcon" width={100} height={100} />
+          </div>
+          <h4 class="mb-1 font-cabinet-grotesk text-4xl font-bold">
+            Pronájem Nemovitosti
+          </h4>
+          <p class="text-slate-500">
+            Zajistím bezstarostný pronájem Vaší nemovitosti. Pomohu Vám
+            vytvořit atraktivní nabídku a vybrat vhodného nájemce.
+          </p>
+        </div>
+
+        <!-- 3rd item -->
+        <div
+          class="relative after:absolute after:right-0 after:top-1/2 after:hidden after:h-16 after:w-px after:-translate-y-1/2 after:bg-slate-200 last:after:hidden md:px-9 md:after:block"
+        >
+          <div class="mb-3">
+            <Image
+              src={HeritageIcon}
+              alt="HeritageIcon"
+              width={100}
+              height={100}
+            />
+          </div>
+          <h4 class="mb-1 font-cabinet-grotesk text-4xl font-bold">
+            Dědické Řízení
+          </h4>
+          <p class="text-slate-500">
+            Potřebujete zjistit hodnotu vaší nemovitosti? Rád Vám s tím
+            pomohu.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> 

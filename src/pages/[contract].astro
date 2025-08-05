@@ -1,0 +1,159 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+import { getCldImageUrl } from 'astro-cloudinary/helpers';
+import PageIllustration from '@/components/page-illustration.astro';
+import PhotoGallery from '@/components/photo-gallery';
+import Stripes from '@/assets/images/stripes-dark.svg';
+import Map from '@/assets/images/undraw_map-dark_g9xq.svg';
+import { Image } from 'astro:assets';
+
+export const prerender = true;
+
+// Generate static paths for all blog posts
+export async function getStaticPaths() {
+  // Get all blog entries
+  const contractsEntries = await getCollection('contracts');
+  return contractsEntries.map((entry: any) => {
+    return {
+      params: { contract: entry.data.slug },
+      props: { entry },
+    };
+  });
+}
+
+const photoGalleryData = [];
+const fullSizeImages = [];
+
+// Get the blog post data from props
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+for (const image of entry.data.images) {
+  const url = getCldImageUrl({ src: image, width: 600, height: 400 });
+  const fullSizeUrl = getCldImageUrl({ src: image });
+  photoGalleryData.push({
+    src: url,
+    width: 600,
+    height: 400,
+  });
+  fullSizeImages.push({
+    src: fullSizeUrl,
+  });
+}
+---
+
+<Layout
+  title={entry.data.title}
+  description={entry.data.description}
+  image={getCldImageUrl({ src: entry.data.thumbnail, width: 1200, height: 630 })}
+  canonicalURL={`https://janjirek.cz/zakazky/${entry.data.slug}`}
+  type="real-estate"
+  publishedTime={entry.data.date.toISOString()}
+  modifiedTime={entry.data.date.toISOString()}
+  author="Ing. Jan Jírek"
+  section="Zakázky"
+>
+  <section class="relative">
+    <PageIllustration />
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <div class="flex flex-col justify-between pb-12 pt-32 md:pb-20 md:pt-40">
+        <article>
+          {/* Section header */}
+          <header class="pb-8">
+            <div class="mb-6">
+              <a
+                class="text-sm font-medium text-blue-500 transition-colors hover:text-blue-600"
+                href="/zakazky"
+              >
+                <span class="tracking-normal text-blue-300">&lt;-</span>{' '}
+                Zpět na zakázky
+              </a>
+            </div>
+            <h1 class="mb-5 text-5xl font-bold">
+              {entry.data.title}
+            </h1>
+            <div class="flex items-center gap-3">
+              <Image src={Map} alt="Map" class="h-16 w-16" />
+              <div class="text-sm font-bold bg-blue-400 text-white px-2 py-1 rounded-md">
+                {entry.data.location}
+              </div>
+            </div>
+          </header>
+          <div class="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
+            <div class="flex flex-col gap-4 w-full items-center">
+              {/* Content */}
+              <div
+                class="b-8 prose md:prose-lg prose-headings:font-bold prose-img:rounded-xl prose-img:shadow-lg prose-headings:text-gray-900 prose-a:font-medium prose-a:text-blue-500 prose-a:no-underline hover:prose-a:underline prose-blockquote:border-l-2 prose-blockquote:border-gray-300 prose-blockquote:pl-4 prose-blockquote:font-medium prose-blockquote:italic prose-blockquote:text-gray-900 prose-strong:font-bold prose-strong:text-gray-900 prose-code:rounded prose-code:bg-transparent prose-code:px-1 prose-code:py-0.5 prose-code:font-mono prose-code:text-gray-900 prose-code:before:content-[''] prose-code:after:content-[''] prose-pre:border prose-pre:border-gray-700 prose-pre:bg-gray-900 prose-blockquote:xl:-ml-4"
+              >
+                <Content />
+              </div>
+            </div>
+          </div>
+          <hr class="mt-8 mb-14" />
+          {/* Virtual tour */}
+          <section>
+            <div class="mx-auto max-w-6xl px-4 sm:px-6">
+              <div
+                class="relative overflow-hidden rounded-2xl text-center shadow-xl before:pointer-events-none before:absolute before:inset-0 before:-z-10 before:rounded-2xl before:bg-gray-900"
+                data-aos="zoom-y-out"
+              >
+                {/* Glow */}
+                <div
+                  class="absolute bottom-0 left-1/2 -z-10 -translate-x-1/2 translate-y-1/2"
+                  aria-hidden="true"
+                >
+                  <div
+                    class="h-56 w-[480px] rounded-full border-[20px] border-blue-500 blur-3xl will-change-[filter]"
+                  >
+                  </div>
+                </div>
+                {/* Stripes illustration */}
+                <div
+                  class="pointer-events-none absolute left-1/2 top-0 -z-10 -translate-x-1/2 transform"
+                  aria-hidden="true"
+                >
+                  <Image class="max-w-none" src={Stripes} alt="Stripes" />
+                </div>
+                <div class="px-4 py-12 md:px-12 md:py-20">
+                  <h2
+                    class="mb-6 border-y text-3xl font-bold text-gray-200 [border-image:linear-gradient(to_right,transparent,--theme(--color-slate-700/.7),transparent)1] md:mb-12 md:text-4xl"
+                  >
+                    Galerie
+                  </h2>
+                  <div class="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
+                    <div class="flex flex-col gap-4 w-full">
+                      {
+                        entry.data.youtube_link && (
+                          <div class="bg-gray-100 rounded-lg p-2 self-center w-[75%]">
+                            <iframe
+                              width="100%"
+                              height="315"
+                              src={entry.data.youtube_link}
+                              title="YouTube video player"
+                              frameborder="0"
+                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                              referrerpolicy="strict-origin-when-cross-origin"
+                              allowfullscreen
+                            />{' '}
+                          </div>
+                        )
+                      }
+                      <div>
+                        <PhotoGallery
+                          images={photoGalleryData}
+                          fullSizeImages={fullSizeImages}
+                          client:load
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </article>
+      </div>
+    </div>
+  </section>
+</Layout>

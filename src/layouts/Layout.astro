@@ -1,0 +1,91 @@
+---
+import Header from '@/components/ui/header.astro';
+import '@/styles/global.css';
+import Footer from '@/components/ui/footer.astro';
+import Animate from '@/components/animate.tsx';
+import SEO from '@/components/SEO.astro';
+
+import { AnimatedGridPattern } from '@/components/magicui/animated-grid-pattern';
+import { cn } from '@/components/lib/utils';
+
+// Import fonts using Astro's way
+import '@fontsource/inter/500.css';
+import '@fontsource/inter/700.css';
+import '@fontsource/inter/800.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  canonicalURL?: string;
+  type?: 'website' | 'article' | 'real-estate';
+  publishedTime?: string;
+  modifiedTime?: string;
+  author?: string;
+  section?: string;
+  tags?: string[];
+  propertyType?: string;
+  location?: string;
+  price?: string;
+}
+
+const {
+  title = 'Realitní Makléř Ing. Jan Jírek',
+  description = 'Prodej a pronájem bytů, domů a pozemků v Pardubicích, Hradci Králové a okolí. Profesionální realitní služby s osobním přístupem.',
+  image,
+  canonicalURL,
+  type = 'website',
+  publishedTime,
+  modifiedTime,
+  author,
+  section,
+  tags,
+  propertyType,
+  location,
+  price,
+} = Astro.props;
+---
+
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <SEO
+      title={title}
+      description={description}
+      image={image}
+      canonicalURL={canonicalURL}
+      type={type}
+      publishedTime={publishedTime}
+      modifiedTime={modifiedTime}
+      author={author}
+      section={section}
+      tags={tags}
+      propertyType={propertyType}
+      location={location}
+      price={price}
+    />
+  </head>
+  <body class="bg-white font-inter tracking-tight text-gray-800 antialiased">
+    <div
+      class="flex min-h-screen flex-col overflow-hidden supports-[overflow:clip]:overflow-clip relative"
+    >
+      <Animate client:load />
+      <AnimatedGridPattern
+        client:load
+        numSquares={30}
+        maxOpacity={0.1}
+        duration={3}
+        repeatDelay={1}
+        className={cn(
+          '[mask-image:linear-gradient(to_right,white_0%,white_10%,transparent_20%,transparent_80%,white_90%,white_100%)]',
+          'inset-x-0 inset-y-[-30%] h-[200%] skew-y-12  xl:opacity-60 opacity-0'
+        )}
+      />
+      <Header />
+      <main class="grow">
+        <slot />
+      </main>
+      <Footer />
+    </div>
+  </body>
+</html>

@@ -1,0 +1,133 @@
+---
+export interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  canonicalURL?: string;
+  type?: 'website' | 'article' | 'real-estate';
+  publishedTime?: string;
+  modifiedTime?: string;
+  author?: string;
+  section?: string;
+  tags?: string[];
+  // Real estate specific
+  propertyType?: string;
+  location?: string;
+  price?: string;
+}
+
+const {
+  title = 'Realitní Makléř Ing. Jan Jírek',
+  description = 'Prodej a pronájem bytů, domů a pozemků v Pardubicích, Hradci Králové a okolí. Profesionální realitní služby s osobním přístupem.',
+  image = '/src/assets/images/header-logo.svg',
+  canonicalURL = Astro.url.href,
+  type = 'website',
+  publishedTime,
+  modifiedTime,
+  author = 'Ing. Jan Jírek',
+  section,
+  tags = [],
+  propertyType,
+  location,
+  price,
+} = Astro.props;
+
+const siteName = 'Realitní Makléř Ing. Jan Jírek';
+const siteURL = 'https://janjirek.cz';
+const fullImageURL = image.startsWith('http') ? image : `${siteURL}${image}`;
+const fullCanonicalURL = canonicalURL.startsWith('http')
+  ? canonicalURL
+  : `${siteURL}${canonicalURL}`;
+
+// Generate structured data for real estate
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': type === 'real-estate' ? 'RealEstateListing' : 'WebPage',
+  name: title,
+  description: description,
+  url: fullCanonicalURL,
+  publisher: {
+    '@type': 'Organization',
+    name: siteName,
+    url: siteURL,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${siteURL}/src/assets/header-logo.svg`,
+    },
+  },
+  ...(type === 'real-estate' && {
+    offers: {
+      '@type': 'Offer',
+      price: price,
+      priceCurrency: 'CZK',
+    },
+    address: {
+      '@type': 'PostalAddress',
+      addressLocality: location,
+    },
+  }),
+  ...(type === 'article' && {
+    datePublished: publishedTime,
+    dateModified: modifiedTime,
+    author: {
+      '@type': 'Person',
+      name: author,
+    },
+    articleSection: section,
+    keywords: tags.join(', '),
+  }),
+};
+---
+
+<!-- Primary Meta Tags -->
+<title>{title}</title>
+<meta name="title" content={title} />
+<meta name="description" content={description} />
+<meta name="author" content={author} />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href={fullCanonicalURL} />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content={type} />
+<meta property="og:url" content={fullCanonicalURL} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={fullImageURL} />
+<meta property="og:site_name" content={siteName} />
+<meta property="og:locale" content="cs_CZ" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content={fullCanonicalURL} />
+<meta property="twitter:title" content={title} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={fullImageURL} />
+
+<!-- Additional SEO Meta Tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="theme-color" content="#ffffff" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-title" content={siteName} />
+
+<!-- Real Estate Specific Meta Tags -->
+{propertyType && <meta property="og:property:type" content={propertyType} />}
+{location && <meta property="og:property:location" content={location} />}
+{price && <meta property="og:property:price" content={price} />}
+
+<!-- Structured Data -->
+<script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+
+<!-- Preconnect to external domains for performance -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
+<!-- Manifest -->
+<link rel="manifest" href="/site.webmanifest" />

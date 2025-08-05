@@ -1,0 +1,113 @@
+---
+import { CldImage } from 'astro-cloudinary';
+---
+
+<section class="bg-slate-100">
+  <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    <div class="pt-12 md:pt-20">
+      <!-- Section header -->
+      <div class="mx-auto max-w-3xl pb-12 text-center md:pb-20">
+        <h2 class="h2 font-cabinet-grotesk text-slate-800">
+          Provedu Vás celým proceses nákupu či prodeje nemovitosti
+        </h2>
+      </div>
+    </div>
+  </div>
+
+  <!-- Images container -->
+  <div class="-ml-28 -mr-28 mb-8 md:mb-16">
+    <div class="mx-auto flex max-w-[1652px] items-center space-x-2 md:space-x-4">
+      <div class="relative w-1/3" data-aos="fade-right">
+        <CldImage
+          src="location-01_kxtxb3_mssgcg"
+          width={540}
+          height={360}
+          alt="illustration1"
+          sizes="100vw"
+          crop="fill"
+        />
+        <div class="absolute inset-0 bg-linear-to-r from-slate-100" aria-hidden="true"></div>
+      </div>
+      <div class="relative w-1/3" data-aos="fade">
+        <CldImage
+          src="location-02_jal6kx_nnlov2"
+          width={540}
+          height={360}
+          alt="illustration2"
+          sizes="100vw"
+          crop="fill"
+        />
+      </div>
+      <div class="relative w-1/3" data-aos="fade-left">
+        <CldImage
+          src="location-03_ijldg1_fvmqww"
+          width={540}
+          height={360}
+          alt="illustration3"
+          sizes="100vw"
+          crop="fill"
+        />
+        <div class="absolute inset-0 bg-linear-to-l from-slate-100" aria-hidden="true"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="relative mx-auto max-w-6xl px-4 sm:px-6">
+    <div class="py-12 md:py-20">
+      <!-- Line -->
+      <div
+        class="absolute left-1/2 top-0 -ml-px -mt-4 hidden h-12 w-0.5 bg-slate-300 md:block"
+        aria-hidden="true"
+      >
+      </div>
+
+      <!-- Locations -->
+      <div
+        class="mx-auto mb-12 grid max-w-sm items-start gap-12 md:mb-20 md:max-w-none md:grid-cols-3 md:gap-x-16"
+      >
+        <!-- 1st Location -->
+        <div class="flex h-full flex-col items-center text-center" data-aos="fade-up">
+          <div class="mb-4 inline-flex h-[62px] w-[62px]">
+            <svg class="fill-blue-600" width="60" height="61" viewBox="0 0 60 61">
+              <path
+                d="M10 59V23h26v36h22V12.705L32 3.419V19h-2V.581l30 10.714V61H0V33h6v2H2v24h8Zm8-13v-2h10v2H18Zm0-6v-2h10v2H18Zm0 12v-2h10v2H18Zm0-18v-2h10v2H18Zm16 25V25H12v34h22Zm8-7h-2V13h2v39Zm6 0h-2V15h2v37Zm6 0h-2V17h2v35Z"
+              ></path>
+            </svg>
+          </div>
+          <h4 class="h4 mb-2 font-cabinet-grotesk text-slate-800">Pardubice</h4>
+        </div>
+
+        <!-- 2nd Location -->
+        <div
+          class="flex h-full flex-col items-center text-center"
+          data-aos="fade-up"
+          data-aos-delay="100"
+        >
+          <div class="mb-4 inline-flex h-[62px] w-[62px]">
+            <svg class="fill-blue-600" width="60" height="61" viewBox="0 0 60 61">
+              <path
+                d="M10 59V23h26v36h22V12.705L32 3.419V19h-2V.581l30 10.714V61H0V33h6v2H2v24h8Zm8-13v-2h10v2H18Zm0-6v-2h10v2H18Zm0 12v-2h10v2H18Zm0-18v-2h10v2H18Zm16 25V25H12v34h22Zm8-7h-2V13h2v39Zm6 0h-2V15h2v37Zm6 0h-2V17h2v35Z"
+              ></path>
+            </svg>
+          </div>
+          <h4 class="h4 mb-2 font-cabinet-grotesk text-slate-800">Hradec Králové</h4>
+        </div>
+        <!-- 3rd Location -->
+        <div
+          class="flex h-full flex-col items-center text-center"
+          data-aos="fade-up"
+          data-aos-delay="200"
+        >
+          <div class="mb-4 inline-flex h-[62px] w-[62px]">
+            <svg class="fill-blue-600" width="62" height="62" viewBox="0 0 62 62">
+              <path
+                d="M10 59V23h26v36h22V12.705L32 3.419V19h-2V.581l30 10.714V61H0V33h6v2H2v24h8Zm8-13v-2h10v2H18Zm0-6v-2h10v2H18Zm0 12v-2h10v2H18Zm0-18v-2h10v2H18Zm16 25V25H12v34h22Zm8-7h-2V13h2v39Zm6 0h-2V15h2v37Zm6 0h-2V17h2v35Z"
+              ></path>
+            </svg>
+          </div>
+          <h4 class="h4 mb-2 font-cabinet-grotesk text-slate-800">Okolí</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,141 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import ContactForm from '@/components/contactForm.tsx';
+import { Image } from 'astro:assets';
+import Stripes from '@/assets/images/stripes.svg';
+import { CldImage } from 'astro-cloudinary';
+import { render, getEntry } from 'astro:content';
+
+const about = await getEntry('about', 'about');
+if (!about) {
+  throw new Error('About entry not found');
+}
+const { Content: AboutContent } = await render(about);
+
+const terms = await getEntry('terms', 'terms');
+if (!terms) {
+  throw new Error('Terms entry not found');
+}
+const { Content: TermsContent } = await render(terms);
+
+export const metadata = {
+  title: 'Ing. Jan Jírek - Kontaktní Formulář',
+  description: 'Kontaktní formulář pro zaslání zprávy makléři Ing. Janu Jírkovi',
+};
+---
+
+<Layout
+  title="Ing. Jan Jírek - Kontaktní Formulář"
+  description="Kontaktní formulář pro zaslání zprávy makléři Ing. Janu Jírkovi"
+>
+  <section class="relative mx-auto mb-8 max-w-7xl">
+    <!-- Circles -->
+    <div
+      class="pointer-events-none absolute -top-32 left-1/2 ml-[580px] -translate-x-1/2"
+      aria-hidden="true"
+    >
+      <div
+        class="h-80 w-80 rounded-full bg-linear-to-tr from-blue-500 opacity-50 blur-[160px] will-change-[filter]"
+      >
+      </div>
+    </div>
+    <div
+      class="pointer-events-none absolute left-1/2 top-[420px] ml-[380px] -translate-x-1/2"
+      aria-hidden="true"
+    >
+      <div
+        class="h-80 w-80 rounded-full bg-linear-to-tr from-blue-500 to-gray-900 opacity-50 blur-[160px] will-change-[filter]"
+      >
+      </div>
+    </div>
+    <div
+      class="pointer-events-none absolute left-1/2 top-[640px] -ml-[300px] -translate-x-1/2"
+      aria-hidden="true"
+    >
+      <div
+        class="h-80 w-80 rounded-full bg-linear-to-tr from-blue-500 to-gray-900 opacity-50 blur-[160px] will-change-[filter]"
+      >
+      </div>
+    </div>
+    <div class="flex flex-col lg:flex-row-reverse">
+      <div class="relative w-full lg:w-1/2">
+        <div
+          class="pointer-events-none absolute left-1/2 top-0 -z-10 -translate-x-1/2 transform"
+          aria-hidden="true"
+        >
+          <Image class="max-w-none" src={Stripes} width={768} alt="Stripes" />
+        </div>
+        <div class="mt-20 h-full">
+          <div class="mx-auto flex h-full w-full max-w-md flex-col px-6 after:mt-auto after:flex-1">
+            <!-- Site header -->
+            <header class="mb-auto flex flex-1">
+              <div class="flex h-16 items-center justify-between md:h-20"></div>
+            </header>
+
+            <div class="flex-1 py-8">
+              <ContactForm client:load termsTitle={terms.data.title}>
+                <TermsContent />
+              </ContactForm>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right side -->
+      <div class="relative mt-20 lg:w-1/2" aria-hidden="true">
+        <!-- Bg -->
+        <div
+          class="pointer-events-none absolute inset-0 -top-20 -z-10 bg-linear-to-b from-blue-100 to-white"
+          aria-hidden="true"
+        >
+        </div>
+
+        <!-- About -->
+        <div class="flex flex-col justify-end items-center h-full px-5 py-8 sm:px-6">
+          <!-- Photo -->
+          <div class="mx-auto">
+            <CldImage
+              src="DZF_4387_PortraitHero_zjebu9_vunbdr"
+              class="md:max-w-none"
+              width={360}
+              height={500}
+              alt="Hero Illustration"
+              sizes="100vw"
+              crop="fill"
+            />
+          </div>
+          <!-- Testimonial -->
+          <div
+            class="rounded-xl border border-sky-200 bg-sky-50 p-4 transition duration-150 ease-in-out hover:opacity-100 w-full"
+          >
+            <div class="flex items-center space-x-5">
+              <div class="relative shrink-0">
+                <svg
+                  class="absolute right-0 top-0 fill-blue-400"
+                  width="26"
+                  height="17"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 16.026h8.092l6.888-16h-4.592L0 16.026Zm11.02 0h8.092L26 .026h-4.65l-10.33 16Z"
+                  ></path>
+                </svg>
+              </div>
+              <figure>
+                <blockquote class="m-0 pb-1 font-bold">
+                  <p>{about.data.name}</p>
+                </blockquote>
+                <figcaption class="text-sm font-medium">Telefon: {about.data.phone}</figcaption>
+                <figcaption class="text-sm font-medium">Email: {about.data.email}</figcaption>
+                <figcaption class="text-sm font-medium">IČO: {about.data.ico}</figcaption>
+                <figcaption class="text-sm font-medium">
+                  Oblasti působení: {about.data.area}
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

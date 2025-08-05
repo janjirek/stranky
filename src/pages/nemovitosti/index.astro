@@ -1,0 +1,18 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import EstatesCatalogue from "@/components/estates-catalogue.astro";
+import Hero from "./hero.astro";
+
+export const metadata = {
+  title: "Nemovitosti - Katalog",
+  description: "Katalog nemovitostí na prodej a pronájem od makléře Jana Jírka",
+};
+---
+
+<Layout 
+  title="Nemovitosti - Katalog"
+  description="Katalog nemovitostí na prodej a pronájem od makléře Jana Jírka"
+>
+  <Hero />
+  <EstatesCatalogue />
+</Layout> 

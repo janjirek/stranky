@@ -1,0 +1,32 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import Hero from './hero.astro';
+import { getCollection } from 'astro:content';
+import ContractsCatalogue from '@/components/contracts-catalogue';
+import { getCldImageUrl } from 'astro-cloudinary/helpers';
+
+export const metadata = {
+  title: 'Ing. Jan Jírek - Realizované Zakázky',
+  description: 'Ing. Jan Jírek - Realizované Zakázky',
+};
+
+const contracts = (await getCollection('contracts')).sort((a, b) => {
+  return b.data.date.valueOf() - a.data.date.valueOf();
+});
+const contractsWithThumbnail = contracts.map((entry: any) => {
+  return {
+    ...entry,
+    thumbnail_url: getCldImageUrl({ src: entry.data.thumbnail, width: 600, height: 400 }),
+  };
+});
+---
+
+<Layout
+  title="Ing. Jan Jírek - Realizované Zakázky"
+  description="Ing. Jan Jírek - Realizované Zakázky"
+>
+  <Hero />
+  <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    <ContractsCatalogue contracts={contractsWithThumbnail} postsPerPage={3} client:load />
+  </div>
+</Layout>

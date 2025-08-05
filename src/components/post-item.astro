@@ -1,0 +1,40 @@
+---
+import { Image } from 'astro:assets';
+import PostImage from '@/assets/images/undraw_add-files_d04y.svg';
+
+interface PostItemProps {
+  metadata: {
+    author: string;
+    title: string;
+    description: string;
+    slug: string;
+  };
+}
+
+const { metadata } = Astro.props;
+---
+
+<article class="pl-6 sm:pl-10">
+  <header class="mb-2">
+    <div
+      class="relative mb-2 flex items-center gap-2 before:absolute before:inset-y-0 before:-left-6 before:-ml-px before:w-px before:bg-blue-500 sm:before:-left-10"
+    >
+      <Image src={PostImage} width="64" height="64" alt="Nový článek" />
+      <div class="text-sm text-gray-500">{metadata.author}</div>
+    </div>
+    <h2 class="text-2xl font-bold">
+      <a href={`/blog/${metadata.slug}`} class="hover:underline">
+        {metadata.title}
+      </a>
+    </h2>
+  </header>
+  <p class="mb-4 text-gray-700">{metadata.description}</p>
+  <footer>
+    <a
+      class="text-sm font-medium text-blue-500 transition-colors hover:text-blue-600"
+      href={`/blog/${metadata.slug}`}
+    >
+      Číst více <span class="tracking-normal text-blue-300">-&gt;</span>
+    </a>
+  </footer>
+</article>
