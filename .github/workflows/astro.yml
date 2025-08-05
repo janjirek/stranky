@@ -2,7 +2,7 @@
 #
 # To get started with Astro see: https://docs.astro.build/en/getting-started/
 #
-name: Deploy Astro site to mrecz.github.io
+name: Deploy Astro site to GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -30,7 +30,6 @@ env:
   PUBLIC_CLOUDINARY_CLOUD_NAME: 'dgnpeadbj'
   PUBLIC_CLOUDINARY_API_KEY: '259289114924435'
   CLOUDINARY_API_SECRET: 'XA5Rwd35rJWFU0VKq5O1vtuWf5g'
-  API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
 
 jobs:
   build:
@@ -71,11 +70,9 @@ jobs:
         run: |
           ${{ steps.detect-package-manager.outputs.runner }} astro build
         working-directory: ${{ env.BUILD_PATH }}
-      - name: Deploy to mrecz.github.io
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ env.API_TOKEN_GITHUB }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          external_repository: janjirek/janjirek.github.io
-          publish_branch: main
-          force_orphan: true
+          publish_branch: gh-pages
