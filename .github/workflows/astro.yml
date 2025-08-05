@@ -2,7 +2,7 @@
 #
 # To get started with Astro see: https://docs.astro.build/en/getting-started/
 #
-name: Deploy Astro site to GitHub Pages
+name: Deploy Astro site to janjirek.github.io
 
 on:
   # Runs on pushes targeting the default branch
@@ -30,6 +30,7 @@ env:
   PUBLIC_CLOUDINARY_CLOUD_NAME: 'dgnpeadbj'
   PUBLIC_CLOUDINARY_API_KEY: '259289114924435'
   CLOUDINARY_API_SECRET: 'XA5Rwd35rJWFU0VKq5O1vtuWf5g'
+  API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }} # This is a personal access token for the GitHub Actions bot
 
 jobs:
   build:
@@ -70,9 +71,11 @@ jobs:
         run: |
           ${{ steps.detect-package-manager.outputs.runner }} astro build
         working-directory: ${{ env.BUILD_PATH }}
-      - name: Deploy to GitHub Pages
+      - name: Deploy to janjirek.github.io
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ env.API_TOKEN_GITHUB }}
           publish_dir: ./dist
-          publish_branch: gh-pages
+          external_repository: janjirek/janjirek.github.io
+          publish_branch: main
+          force_orphan: true
