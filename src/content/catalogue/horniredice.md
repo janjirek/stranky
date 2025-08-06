@@ -1,5 +1,5 @@
 ---
-title: Prodej rodinného domu 600 m², pozemek 5320 m² Horní Ředice
+title: Prodej víceúčelového domu s rozsáhlými pozemky, Horní Ředice
 type: prodej
 date: 2025-05-31
 tags: [dům, prodej, Horní Ředice, podnikání, bydlení]
@@ -76,9 +76,7 @@ Pravou část objektu utváří dům pro rodinné bydlení o dispozici 3+kk a ob
 
 ![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508166/horni_redice-50.jpg)
 
- V zadní části budovy na  vás čeká terasa s venkovním bazénem.
-
-![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508166/horni_redice-45.jpg)    
+ V zadní části budovy na  vás čeká terasa s venkovním bazénem.![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508166/horni_redice-45.jpg) 
 Protější části objektu byly užívány jako prostory pro podnikání a pro tento účel byly zkolaudovány. 
 
 ![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508166/horni_redice-48.jpg)
@@ -88,6 +86,7 @@ Zde najdete menší sklad, archív, kancelář se sociálním zařízením a spr
 Nechybí ani rozsáhlá skladová budova s prostornými vraty, která nabízí potenciál pro další rozvoj a komerční využití.
 
 ![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508166/horni_redice-55.jpg)   
+
 Celý objekt prošel v letech 2006 – 2007 rekonstrukcí včetně nových střech, oken, topení, elektroinstalace, rozvodů vody, kanalizace, zámkové dlažby, apod. Nemovitosti jsou napojeny k veškerým inženýrským sítím (kanalizace – tlaková, dešťová), voda, plyn i elektřina. 
     ‌
 Každá z hlavních budov je vybavena vlastním plynovým kotlem a systémem radiátorů, doplněnými o krbové vložky s výměníky, tudíž byl celý objekt většinu času vytápěn dřevem. Na pozemku je studna.
