@@ -1,6 +1,6 @@
 ---
 author: Jan Jírek
-title: Byt 2+1 – Pospíšilova, Hradec Králové
+title: Prodej bytu 2+1 – Pospíšilova, Hradec Králové
 date: 2025-08-06
 location: Pospíšilova 1159/41, 500 03 Hradec Králové 3
 description: Prodej původního zděného bytu 2+1 v centru města Hradce Králové. 
