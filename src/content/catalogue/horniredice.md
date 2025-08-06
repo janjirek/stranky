@@ -3,7 +3,7 @@ title: Prodej rodinného domu 600 m², pozemek 5320 m² Horní Ředice
 type: prodej
 date: 2025-05-31
 tags: [dům, prodej, Horní Ředice, podnikání, bydlení]
-thumbnail: horni_redice-45
+thumbnail: horni_redice-54
 images:
 - horni_redice
 - horni_redice-10
@@ -44,10 +44,19 @@ images:
 - horni_redice-42
 - horni_redice-43
 - horni_redice-44
+- horni_redice-45
 - horni_redice-46
 - horni_redice-47
 - horni_redice-48
+- horni_redice-49
 - horni_redice-5
+- horni_redice-50
+- horni_redice-51
+- horni_redice-52
+- horni_redice-53
+- horni_redice-55
+- horni_redice-56
+- horni_redice-57
 - horni_redice-6
 - horni_redice-7
 - horni_redice-8
@@ -60,13 +69,27 @@ slug: horni-redice
 ---
 
 Pokud hledáte místo, kde můžete kombinovat bydlení s podnikáním, nebo chcete velký pozemek a dostatek soukromí, tak vás může zaujmout rodinný dům, který se nachází v klidné obci Horní Ředice, v blízkosti Pardubic a Hradce Králové. Objekt tvoří soubor nemovitostí zkolaudovaných pro bydlení i podnikání a rozprostírá se na rozsáhlém pozemku o celkové rozloze 5320 m².
-    ‌
-Pravou část objektu utváří dům pro rodinné bydlení o dispozici 3+kk a obytné ploše 66 m2 a k němu přináležící společenská místnost  vybavená krbovými kamny, vlastním sociálním zařízením, technickou místností a letní kuchyní s posezením. V zadní části budovy na  vás čeká terasa s venkovním bazénem. 
-    ‌
-Protější části objektu byly užívány jako prostory pro podnikání a pro tento účel byly zkolaudovány. Zde najdete menší sklad, archív, kancelář se sociálním zařízením a sprchou, kuchyňku a tři pokoje v podkroví. K těmto prostorům patří i kryté stání a dílna. Nechybí ani rozsáhlá skladová budova s prostornými vraty, která nabízí potenciál pro další rozvoj a komerční využití.
-    ‌
+
+<img src="https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508108/horni_redice-9.jpg" title="" alt="Rodinný dům Horní Ředice" width="721">
+
+Pravou část objektu utváří dům pro rodinné bydlení o dispozici 3+kk a obytné ploše 66 m2 a k němu přináležící společenská místnost vybavená krbovými kamny, vlastním sociálním zařízením, technickou místností a letní kuchyní s posezením.
+
+![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508166/horni_redice-50.jpg)
+
+ V zadní části budovy na  vás čeká terasa s venkovním bazénem.
+
+![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508166/horni_redice-45.jpg)    
+Protější části objektu byly užívány jako prostory pro podnikání a pro tento účel byly zkolaudovány. 
+
+![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508166/horni_redice-48.jpg)
+
+Zde najdete menší sklad, archív, kancelář se sociálním zařízením a sprchou, kuchyňku a tři pokoje v podkroví. K těmto prostorům patří i kryté stání a dílna.
+
+Nechybí ani rozsáhlá skladová budova s prostornými vraty, která nabízí potenciál pro další rozvoj a komerční využití.
+
+![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754508166/horni_redice-55.jpg)   
 Celý objekt prošel v letech 2006 – 2007 rekonstrukcí včetně nových střech, oken, topení, elektroinstalace, rozvodů vody, kanalizace, zámkové dlažby, apod. Nemovitosti jsou napojeny k veškerým inženýrským sítím (kanalizace – tlaková, dešťová), voda, plyn i elektřina. 
     ‌
 Každá z hlavních budov je vybavena vlastním plynovým kotlem a systémem radiátorů, doplněnými o krbové vložky s výměníky, tudíž byl celý objekt většinu času vytápěn dřevem. Na pozemku je studna.
     ‌
-Nemovitost nabízí dobré napojení na dálniční síť._
+Nemovitost nabízí dobré napojení na dálniční síť.
