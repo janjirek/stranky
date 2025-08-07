@@ -98,7 +98,6 @@ Těším se na vás na prohlídce!
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754513105/pospisilova-51.png)
 
-Elektroinstalace je původní (1x 15A).
-Orientace bytu je na jih.
+**Kde se nemovitost nachází?:**
 
-<iframe style="border:none" src="https://mapy.com/s/hobafafecu" width="400" height="280" frameborder="0"></iframe>
+<iframe style="border:none" src="https://mapy.com/s/dunopuvopu" width="700" height="466" frameborder="0"></iframe>
