@@ -54,7 +54,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({
       <img
         src={TestemonialBadge.src}
         alt="Jan Jirek Reality"
-        className="mb-4 h-16 w-12 bg-muted object-cover object-top"
+        className="mb-4 h-10 w-10 bg-muted object-cover object-top"
         style={{
           boxShadow: '3px 3px 0px hsl(var(--background))',
         }}

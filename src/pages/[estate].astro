@@ -79,7 +79,7 @@ const canonicalURL = `https://janjirek.cz/nemovitosti/${entry.data.slug}`;
         <div class="md:flex md:justify-between" data-sticky-container>
           {/* Sidebar */}
           <aside class="mb-8 md:mb-0 md:w-64 lg:w-72 md:ml-12 lg:ml-20 md:shrink-0 md:order-1">
-            <div data-sticky data-margin-top="32" data-sticky-for="768" data-sticky-wrap>
+            <div data-sticky data-margin-top="100" data-sticky-for="768" data-sticky-wrap>
               <div class="relative bg-gray-50 rounded-xl border border-gray-200 p-5">
                 <div class="text-center mb-6">
                   <h2 class="text-lg font-bold text-gray-800 font-cabinet-grotesk">
@@ -159,6 +159,7 @@ const canonicalURL = `https://janjirek.cz/nemovitosti/${entry.data.slug}`;
               >
                 <Content />
               </div>
+            </div>
           </div>
         </div>
         <hr class="mt-8 mb-14" />
@@ -227,3 +228,9 @@ const canonicalURL = `https://janjirek.cz/nemovitosti/${entry.data.slug}`;
     </div>
   </section>
 </Layout>
+
+<script>
+  // @ts-ignore
+  import Sticky from 'sticky-js';
+  const sticky = new Sticky('[data-sticky]');
+</script>

@@ -5,7 +5,6 @@ import { getCldImageUrl } from 'astro-cloudinary/helpers';
 import PageIllustration from '@/components/page-illustration.astro';
 import PhotoGallery from '@/components/photo-gallery';
 import Stripes from '@/assets/images/stripes-dark.svg';
-import Map from '@/assets/images/undraw_map-dark_g9xq.svg';
 import { Image } from 'astro:assets';
 
 export const prerender = true;
@@ -73,12 +72,6 @@ for (const image of entry.data.images) {
             <h1 class="mb-5 text-5xl font-bold">
               {entry.data.title}
             </h1>
-            <div class="flex items-center gap-3">
-              <Image src={Map} alt="Map" class="h-16 w-16" />
-              <div class="text-sm font-bold bg-blue-400 text-white px-2 py-1 rounded-md">
-                {entry.data.location}
-              </div>
-            </div>
           </header>
           <div class="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
             <div class="flex flex-col gap-4 w-full items-center">

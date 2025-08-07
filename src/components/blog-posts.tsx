@@ -8,7 +8,9 @@ interface BlogPost {
     description: string;
     slug: string;
     youtube_link?: string;
+    thumbnail?: string;
   };
+  thumbnail_url?: string;
 }
 
 interface BlogPostsProps {
@@ -32,14 +34,19 @@ export default function BlogPosts({ posts, postsPerPage = 3 }: BlogPostsProps) {
   const hasMorePosts = visiblePosts < posts.length;
 
   return (
-    <div className="space-y-10 border-l [border-image:linear-gradient(to_bottom,var(--color-slate-200),var(--color-slate-300),transparent)1] bg-blue-50 rounded-r-2xl p-6 mb-8">
+    <div className="mb-8">
       {posts.slice(0, visiblePosts).map((post, postIndex) => (
-        <article key={post.id} className="pl-6 sm:pl-10">
-          <header className="mb-2">
-            <div className="relative mb-2 flex items-center gap-2 before:absolute before:inset-y-0 before:-left-6 before:-ml-px before:w-px before:bg-blue-500 sm:before:-left-10">
+        <article
+          key={post.id}
+          className="space-y-10 border-l [border-image:linear-gradient(to_bottom,var(--color-slate-200),var(--color-slate-300),transparent)1] bg-slate-100 rounded-r-2xl p-6 mb-10"
+        >
+          <div className="relative mb-2 flex flex-col md:flex-row items-center md:items-start gap-4">
+            {post.thumbnail_url ? (
+              <img src={post.thumbnail_url} alt={post.data.title} className="w-1/3 rounded-lg" />
+            ) : (
               <svg
+                className="w-1/3"
                 xmlns="http://www.w3.org/2000/svg"
-                height="64"
                 viewBox="0 0 782.04441 701.88002"
                 xmlnsXlink="http://www.w3.org/1999/xlink"
                 role="img"
@@ -161,23 +168,26 @@ export default function BlogPosts({ posts, postsPerPage = 3 }: BlogPostsProps) {
                   fill="#007ef1"
                 />
               </svg>
-              <div className="text-sm text-gray-500">{post.data.author}</div>
+            )}
+            <div className="flex flex-col gap-2">
+              <header className="mb-2">
+                <h2 className="text-2xl font-bold">
+                  <a href={post.data.slug} className="hover:underline">
+                    {post.data.title}
+                  </a>
+                </h2>
+              </header>
+              <p className="mb-4 text-gray-700">{post.data.description}</p>
+              <footer>
+                <a
+                  className="text-sm font-medium text-blue-500 transition-colors hover:text-blue-600"
+                  href={post.data.slug}
+                >
+                  Číst více <span className="tracking-normal text-blue-300">-&gt;</span>
+                </a>
+              </footer>
             </div>
-            <h2 className="text-2xl font-bold">
-              <a href={post.data.slug} className="hover:underline">
-                {post.data.title}
-              </a>
-            </h2>
-          </header>
-          <p className="mb-4 text-gray-700">{post.data.description}</p>
-          <footer>
-            <a
-              className="text-sm font-medium text-blue-500 transition-colors hover:text-blue-600"
-              href={post.data.slug}
-            >
-              Číst více <span className="tracking-normal text-blue-300">-&gt;</span>
-            </a>
-          </footer>
+          </div>
         </article>
       ))}
 

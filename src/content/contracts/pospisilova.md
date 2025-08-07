@@ -1,25 +1,24 @@
 ---
-author: Jan Jírek
 title: Prodej bytu 2+1 – Pospíšilova, Hradec Králové
 date: 2025-08-06
 location: Pospíšilova 1159/41, 500 03 Hradec Králové 3
-description: Prodej původního zděného bytu 2+1 v centru města Hradce Králové. 
+description: Prodej původního zděného bytu 2+1 v centru města Hradce Králové.
 images:
-- pospisilova-10
-- pospisilova-11
-- pospisilova-12
-- pospisilova-13
-- pospisilova-14
-- pospisilova-15
-- pospisilova-16
-- pospisilova-17
-- pospisilova-18
-- pospisilova-19
-- pospisilova-4
-- pospisilova-5
-- pospisilova-6
-- pospisilova-8
-- pospisilova-9
+  - pospisilova-10
+  - pospisilova-11
+  - pospisilova-12
+  - pospisilova-13
+  - pospisilova-14
+  - pospisilova-15
+  - pospisilova-16
+  - pospisilova-17
+  - pospisilova-18
+  - pospisilova-19
+  - pospisilova-4
+  - pospisilova-5
+  - pospisilova-6
+  - pospisilova-8
+  - pospisilova-9
 slug: /pospisilova
 thumbnail: pospisilova-7
 youtube_link: https://www.youtube.com/embed/kGbZQnxSDZA?si=nYmw1LjzdJZhdrYQ
@@ -35,11 +34,11 @@ Byt v původním stavu v posledním, pátém patře cihlového domu, do kterého
 
 vám nabídne nejen dostatek prostoru, ale i příjemné množství světla díky jižní orientaci.
 
- O teplotní komfort se bát nemusíte – klimatizace...
+O teplotní komfort se bát nemusíte – klimatizace...
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754510894/pospisilova-15.jpg)
 
- a venkovní žaluzie jsou již připraveny.
+a venkovní žaluzie jsou již připraveny.
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754510898/pospisilova-17.jpg)
 
@@ -47,7 +46,7 @@ Prostor je tu řešen prakticky – dva neprůchozí pokoje o velikosti 15 m²
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754510893/pospisilova-13.jpg)
 
- a 19 m²,
+a 19 m²,
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754510888/pospisilova-9.jpg)
 
@@ -59,11 +58,11 @@ a koupelna s oddělenou toaletou.
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754510891/pospisilova-11.jpg)
 
- Nechybí ani lodžie, která díky umístění v nejvyšším patře nabídne příjemný výhled.
+Nechybí ani lodžie, která díky umístění v nejvyšším patře nabídne příjemný výhled.
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754510895/pospisilova-16.jpg)
 
- A co parkování? To lze pohodlně řešit jak před domem, tak za domem za krytou závorou, a to za roční poplatek 1200 Kč.
+A co parkování? To lze pohodlně řešit jak před domem, tak za domem za krytou závorou, a to za roční poplatek 1200 Kč.
 
 Cihlový dům v centru města znamená vše na dosah – MHD, lékárnu nebo oblíbenou pekárnu Sázava, kam můžete ráno klidně v pyžamu vyběhnout pro čerstvou snídani.
 

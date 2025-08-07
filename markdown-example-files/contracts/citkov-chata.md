@@ -1,8 +1,10 @@
 ---
-author: Jan Jírek
 title: Zakázka na Prodej Chaty v Cítkově
+type: prodej
 date: 2025-05-31
+tags: [byt, prodej, 3+1, Pardubice]
 location: Cítkov
+price: 4.470.000 Kč
 description: Prodej zděné chaty s malebným umístěním do 20 minut od Pardubic či Chrudimy. Kouzelné umístění chaty si rychle našlo své zájemce.
 images:
   - _DSC9214_q2hcis
@@ -11,9 +13,10 @@ images:
   - _DSC9211_byvv8u
   - _DSC9206-Edit_xc8fyh
   - _DSC9201-Edit_zxpwdu
-slug: /chata-citkov
+slug: chata-citkov
 thumbnail: _DSC9214_q2hcis
 youtube_link: https://www.youtube.com/embed/qk6rhYXi36U?si=q6i2MeoGsEbx1AYR
+mapy_link: https://mapy.com/s/benakobeme
 ---
 
 Hledáte chatu na klidném místě, v krásné přírodě a ještě k tomu v dojezdové vzálenosti do 20 minut od Chrudimi či Pardubic?

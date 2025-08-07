@@ -1,6 +1,7 @@
 ---
 title: Prodej bytu 3+1 – Jilemnického 2217
 type: prodej
+description: Snad jen poctivý cihlový byt na dobré adrese. A právě takový na vás čeká na Dukle, v ulici Jilemnického č.p. 2217. Co je na něm zvláštní? Z prostorné dvajedničky se šikovnými úpravami stal byt 3+1. Jednotka se nachází ve zvýšeném přízemí revitalizovaného domu.
 date: 2025-05-31
 tags: [byt, prodej, 3+1, Pardubice]
 thumbnail: _DSC2370_fubbga

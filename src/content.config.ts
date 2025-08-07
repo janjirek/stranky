@@ -45,10 +45,11 @@ const catalogueCollection = defineCollection({
     title: z.string(),
     type: z.string(),
     thumbnail: z.string(),
+    date: z.date(),
+    description: z.string(),
     location: z.string(),
     slug: z.string(),
     price: z.string(),
-    date: z.date(),
     mapy_link: z.string(),
     youtube_link: z.string().optional(),
     tags: z.array(z.string()),
@@ -63,6 +64,7 @@ const blogCollection = defineCollection({
     title: z.string(),
     date: z.date(),
     description: z.string(),
+    thumbnail: z.string().optional(),
     youtube_link: z.string().optional(),
     slug: z.string(),
   }),
@@ -71,14 +73,17 @@ const blogCollection = defineCollection({
 const contractsCollection = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/contracts' }),
   schema: z.object({
-    author: z.string(),
     title: z.string(),
+    type: z.string().optional(),
+    thumbnail: z.string(),
     date: z.date(),
     description: z.string(),
-    youtube_link: z.string().optional(),
+    location: z.string().optional(),
     slug: z.string(),
-    thumbnail: z.string(),
-    location: z.string(),
+    price: z.string().optional(),
+    mapy_link: z.string().optional(),
+    youtube_link: z.string().optional(),
+    tags: z.array(z.string()).optional(),
     images: z.array(z.string()).optional(),
   }),
 });
@@ -86,7 +91,7 @@ const contractsCollection = defineCollection({
 export const images = {
   assets: defineCollection({
     loader: cldAssetsLoader({
-      folder: 'jan-jirek-reality', // Optional, without loads root directory
+      folder: 'stranky', // Optional, without loads root directory
     }),
   }),
 };
