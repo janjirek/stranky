@@ -87,7 +87,6 @@ Těším se na vás na prohlídce!
 
 <u>Fond oprav: 2515 Kč – čerstvě navýšeno s ohledem na plánovanou revitalizaci střechy, lodžií a celé obálky domu v následujících letech. SVJ je aktuálně ve fázi projektování.</u>
 
-
 **Prohlášení vlastníka:**
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754510882/pospisilova-2.png)
 
@@ -101,3 +100,5 @@ Těším se na vás na prohlídce!
 
 Elektroinstalace je původní (1x 15A).
 Orientace bytu je na jih.
+
+<iframe style="border:none" src="https://mapy.com/s/hobafafecu" width="400" height="280" frameborder="0"></iframe>
