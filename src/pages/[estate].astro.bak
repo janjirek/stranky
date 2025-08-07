@@ -159,6 +159,53 @@ const canonicalURL = `https://janjirek.cz/nemovitosti/${entry.data.slug}`;
               >
                 <Content />
               </div>
+              {/* Social share */}
+              <div class="flex items-center justify-end space-x-4">
+                <div class="text-xl font-cabinet-grotesk text-gray-400">Sdílet nemovitost</div>
+                <ul class="inline-flex space-x-3">
+                  <li>
+                    <a
+                      class="flex justify-center items-center text-blue-500 bg-blue-100 hover:text-white hover:bg-blue-500 rounded-full transition duration-150 ease-in-out"
+                      href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(
+                        Astro.url.toString()
+                      )}&text=${encodeURIComponent(entry.data.title)}`}
+                      aria-label="Twitter"
+                      rel="noopener noreferrer"
+                    >
+                      <svg
+                        class="w-8 h-8 fill-current"
+                        viewBox="0 0 32 32"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="m13.063 9 3.495 4.475L20.601 9h2.454l-5.359 5.931L24 23h-4.938l-3.866-4.893L10.771 23H8.316l5.735-6.342L8 9h5.063Zm-.74 1.347h-1.457l8.875 11.232h1.36l-8.778-11.232Z"
+                        ></path>
+                      </svg>
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      class="flex justify-center items-center text-blue-500 bg-blue-100 hover:text-white hover:bg-blue-500 rounded-full transition duration-150 ease-in-out"
+                      href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+                        Astro.url.toString()
+                      )}`}
+                      aria-label="Facebook"
+                      rel="noopener noreferrer"
+                    >
+                      <svg
+                        class="w-8 h-8 fill-current"
+                        viewBox="0 0 32 32"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M14.023 24 14 17h-3v-3h3v-2c0-2.7 1.672-4 4.08-4 1.153 0 2.144.086 2.433.124v2.821h-1.67c-1.31 0-1.563.623-1.563 1.536V14H21l-1 3h-2.72v7h-3.257Z"
+                        ></path>
+                      </svg>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
         <hr class="mt-8 mb-14" />
