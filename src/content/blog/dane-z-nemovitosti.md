@@ -1,4 +1,5 @@
 ---
+author: Jan Jírek
 title: Jak na Daně z Nájmu Bytu
 date: 2025-08-05
 description: Investování do nemovitostí je žhavým trendem a počet majitelů, kteří pronajímají byty, rychle roste. Jenže s investicí do nájemního bytu přichází i otázka, jak správně zdanit příjmy z nájmu. Abych vám to co nejlépe vysvětlil, konzultoval jsem tento proces s daňovým poradcem Ing. Pavlem Říhou a připravil pro vás jasný a praktický návod.
