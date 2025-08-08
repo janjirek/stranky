@@ -35,12 +35,9 @@ slug: /chotovice
 thumbnail: chotovice-20
 youtube_link: https://www.youtube.com/embed/gsgxSretaoQ?si=D9LSkHIkY17EWt5i
 ---
-
-## Praktické informace
-
 Nabízím vám k prodeji jednopodlažní rodinný dům, který se nachází přímo v srdci obce Choťovice u Kolína, 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gsgxSretaoQ?si=f4A2StQqeo3z-KUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/gsgxSretaoQ?si=wVr7S_XsMyjVxEFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 v blízkostí vyhledávané lokality Žehuňského rybníka.
 
