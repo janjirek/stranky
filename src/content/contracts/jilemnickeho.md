@@ -27,7 +27,7 @@ images:
 - jilemnickeho2217-9
 slug: /3-1-jilemnickeho
 thumbnail: jilemnickeho2217-30
-youtube_link: https://www.youtube.com/embed/Ky4L0PCL-2E?si=UKSawXpzVLpQzLq4
+youtube_link: https://www.youtube.com/embed/Ky4L0PCL-2E?si=NQQU_0MtF0QmII8_
 ---
 
 Škola, školka, obchody, sportovní stadion a skvělá dopravní dostupnost. Co víc si přát? Snad jen poctivý cihlový byt na dobré adrese. A právě takový na vás čeká na Dukle, v ulici Jilemnického č.p. 2217. 
