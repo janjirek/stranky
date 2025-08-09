@@ -3,6 +3,7 @@ title: Pronájem bytu 2+kk – Ve Stromovce, Hradec Králové
 date: 2025-03-01
 location: Ve Stromovce 670/11, Hradec Králové
 description: Pronájem bytu 2+kk v oblíbené lokalitě, blízko cyklostezky, Hradec Králové
+images:
 - pronajem_stromovka
 - pronajem_stromovka-10
 - pronajem_stromovka-11
