@@ -1,11 +1,9 @@
 ---
-
 title: Prodej rodinného domu – Choťovice
 date: 2025-08-05
 location: Choťovice 64, 289 05 Choťovice
 description: Prodej rodinného domu v malebné obci Choťovice u Kolína
 images:
-
 - chotovice
 - chotovice-10
 - chotovice-11
