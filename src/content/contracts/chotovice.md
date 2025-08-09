@@ -31,9 +31,9 @@ images:
 - chotovice-7
 - chotovice-8
 - chotovice-9
-  slug: /chotovice
-  thumbnail: chotovice-20
-  youtube_link: https://www.youtube.com/embed/gsgxSretaoQ?si=D9LSkHIkY17EWt5i
+slug: /chotovice
+thumbnail: chotovice-20
+youtube_link: https://www.youtube.com/embed/gsgxSretaoQ?si=D9LSkHIkY17EWt5i
 
 ---
 
