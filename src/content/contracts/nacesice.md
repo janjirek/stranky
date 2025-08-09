@@ -1,7 +1,7 @@
 ---
 title: Prodej chaty – Načešice
 date: 2025-07-05
-location: Choťovice 64, 289 05 Choťovice
+location: Načešice č.ev. 7, 538 03 Načešice
 description: Prodej zděné chaty v malebném prostředí Načešic u Konopáče.
 images:
 - chata_hermanak
@@ -28,9 +28,9 @@ images:
 - chata_hermanak-7
 - chata_hermanak-8
 - chata_hermanak-9
- slug: /chata-nacesice
- thumbnail: chata_hermanak-20
- youtube_link: https://www.youtube.com/embed/JCuIEHqiqyc?si=dF4DV8aBQYfjZSwc
+slug: /chata-nacesice
+thumbnail: chata_hermanak-20
+youtube_link: https://www.youtube.com/embed/JCuIEHqiqyc?si=dF4DV8aBQYfjZSwc
 
 ---
 
