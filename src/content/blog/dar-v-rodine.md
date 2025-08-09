@@ -1,16 +1,13 @@
 ---
 author: Jan Jírek
-title: Jak na daně z nájmu bytu
+title: Problematika darování nemovitostí v rodině
 date: 2025-08-05
 description: Převod nemovitosti v rodině formou darovací smlouvy je, troufnu si říci, nejužívanějším právním aktem, který je užíván k převodům vlastnického práva v přímé dědické linii. Ale jak takový dar ovlivní budoucí nakládání s nemovitostí?  
 thumbnail: dar
 slug: /darovani-v-rodine
 ---
 
-# Úskalí darování nemovitosti v rodině z hlediska daní z příjmu
-
-Vážení přátelé a klienti,  
-v dnešním článku bych vás chtěl seznámit s problematikou darování nemovitosti z hlediska daní. Převod nemovitosti v rodině formou darovací smlouvy je, troufnu si říci, nejužívanějším právním aktem, který je užíván k převodům vlastnického práva v přímé dědické linii. Darovací daň byla v roce 2014 zrušena a tudíž rodina může svévolně a bezplatně převádět své nemovitosti v linii přímé. Ne vždy je však dar tou nejlepší volbou jak nemovitost v rodině předat. Od počátku roku již narážím na třetí případ, kde řeším problematiku daru z hlediska daní. Nejsem ani daňový poradce, ani právník, ale za 12 let praxe v realitách vám dokážu předat můj praktický pohled na věc. 
+V dnešním článku bych vás chtěl seznámit s problematikou darování nemovitosti z hlediska daní. Převod nemovitosti v rodině formou darovací smlouvy je, troufnu si říci, nejužívanějším právním aktem, který je užíván k převodům vlastnického práva v přímé dědické linii. Darovací daň byla v roce 2014 zrušena a tudíž rodina může svévolně a bezplatně převádět své nemovitosti v linii přímé. Ne vždy je však dar tou nejlepší volbou jak nemovitost v rodině předat. Od počátku roku již narážím na třetí případ, kde řeším problematiku daru z hlediska daní. Nejsem ani daňový poradce, ani právník, ale za 12 let praxe v realitách vám dokážu předat můj praktický pohled na věc. 
 
 **Celou problematiku uvedu na modelovém příkladu:**
 
