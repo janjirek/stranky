@@ -23,7 +23,6 @@ images:
 price: 6.950.000 Kč
 location: Na Okrajích 43, Spojil
 mapy_link: https://mapy.com/s/lacokebome
-youtube_link:
 slug: pozemek-spojil
 ---
 
