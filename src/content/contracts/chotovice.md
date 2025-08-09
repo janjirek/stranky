@@ -1,9 +1,11 @@
 ---
+
 title: Prodej rodinného domu – Choťovice
 date: 2025-08-05
 location: Choťovice 64, 289 05 Choťovice
 description: Prodej rodinného domu v malebné obci Choťovice u Kolína
 images:
+
 - chotovice
 - chotovice-10
 - chotovice-11
@@ -31,10 +33,12 @@ images:
 - chotovice-7
 - chotovice-8
 - chotovice-9
-slug: /chotovice
-thumbnail: chotovice-20
-youtube_link: https://www.youtube.com/embed/gsgxSretaoQ?si=D9LSkHIkY17EWt5i
+  slug: /chotovice
+  thumbnail: chotovice-20
+  youtube_link: https://www.youtube.com/embed/gsgxSretaoQ?si=D9LSkHIkY17EWt5i
+
 ---
+
 Nabízím vám k prodeji jednopodlažní rodinný dům, který se nachází přímo v srdci obce Choťovice u Kolína, 
 
 <iframe width="755" height="425" src="https://www.youtube.com/embed/gsgxSretaoQ?si=wVr7S_XsMyjVxEFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -73,18 +77,18 @@ Minutu od domu se nachází autobusová zastávka s perfektním spojením do Kol
 Školu či školku najdete v sousední vesnici Žehuň.
 Výhodou nemovitosti je její dostupnost, díky sjezdu na dálnici D11 (EXIT 50 – Kolín, Žehuň), po které se pohodlně dostanete jak do Prahy, tak do Hradce Králové.
 
-**Půdorys:**
+### Půdorys:
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754657673/chotovice-29.jpg)
 
-**LV:**
+### LV:
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754659741/chotovice-36.png)
 
-**PENB:**
+### PENB:
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754659728/chotovice-35.png)
 
-**Kde se nemovitost nachází?:**
+### Kde se nemovitost nachází?:
 
 <iframe style="border:none" src="https://mapy.com/s/fudevohuma" width="700" height="466" frameborder="0"></iframe>

@@ -26,7 +26,7 @@ youtube_link: https://www.youtube.com/embed/kGbZQnxSDZA?si=nYmw1LjzdJZhdrYQ
 
 Pokud hledáte prostornější dvajedničku s podlahovou plochou alespoň 50 metrů, jeden přesně takový pro vás mám v ulici Pospíšilova, přímo v centru Hradce Králové.
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754510886/pospisilova-6.jpg)
+<iframe width="755" height="425" src="https://www.youtube.com/embed/kGbZQnxSDZA?si=opOU_4xZYxOxTuD1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Byt v původním stavu v posledním, pátém patře cihlového domu, do kterého vás pohodlně vyveze nový výtah....
 
@@ -67,6 +67,8 @@ A co parkování? To lze pohodlně řešit jak před domem, tak za domem za kryt
 Cihlový dům v centru města znamená vše na dosah – MHD, lékárnu nebo oblíbenou pekárnu Sázava, kam můžete ráno klidně v pyžamu vyběhnout pro čerstvou snídani.
 
 Bude to váš nový domov, nebo výhodná investice? To už nechám na vás.
+
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754510886/pospisilova-6.jpg)
 
 Těším se na vás na prohlídce!
 

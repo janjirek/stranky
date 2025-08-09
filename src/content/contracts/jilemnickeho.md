@@ -86,29 +86,28 @@ Těším se na vás na prohlídce!
 
 ## Praktické informace
 
-**Půdorys:**
+### Půdorys:
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728905/jilemnickeho2217-21.jpg)
 
-**LV:**
+### LV:
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728906/jilemnickeho2217-22.png)
 
-**Poplatky:**
+### Poplatky:
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728909/jilemnickeho2217-26.png)
 
-**Prohlášení vlastníka:**
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728906/jilemnickeho2217-23.png)
+### Prohlášení vlastníka: ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728906/jilemnickeho2217-23.png)
 
-**Bezdlužnost:**
+### Bezdlužnost:
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728908/jilemnickeho2217-25.png)
 
-**PENB:**
+### PENB:
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728908/jilemnickeho2217-24.png)
 
-**Kde se nemovitost nachází?:**
+### Kde se nemovitost nachází?:
 
 <iframe style="border:none" src="https://mapy.com/s/kehemadohe" width="700" height="466" frameborder="0"></iframe>
