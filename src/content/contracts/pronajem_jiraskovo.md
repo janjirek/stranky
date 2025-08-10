@@ -23,7 +23,6 @@ images:
 - pronajem_jiraskovo-3
 - pronajem_jiraskovo-4
 - pronajem_jiraskovo-5
-- pronajem_jiraskovo-6
 - pronajem_jiraskovo-7
 - pronajem_jiraskovo-8
 - pronajem_jiraskovo-9
