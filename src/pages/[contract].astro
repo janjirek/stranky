@@ -118,8 +118,9 @@ for (const image of entry.data.images) {
                     <div class="flex flex-col gap-4 w-full">
                       {
                         entry.data.youtube_link && (
-                          <div class="bg-gray-100 rounded-lg p-2 self-center w-[75%]">
+                          <div class="bg-gray-100 rounded-lg p-2 self-center w-full">
                             <iframe
+                              class="responsive-iframe"
                               width="100%"
                               height="315"
                               src={entry.data.youtube_link}
