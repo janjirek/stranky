@@ -61,11 +61,12 @@ export default function TestimonialDetail({
 
   return (
     <article
-      className={`relative flex flex-col rounded-2xl bg-gradient-to-br from-blue-900/70 to-blue-900/50 p-5 shadow-lg shadow-black/[0.03] before:pointer-events-none before:absolute before:inset-0 before:rounded-[inherit] before:border before:border-transparent before:[background:linear-gradient(var(--color-gray-100),var(--color-gray-200))_border-box] before:[mask-composite:exclude_!important] before:[mask:linear-gradient(white_0_0)_padding-box,_linear-gradient(white_0_0)] ${className}`}
+      className={`relative  flex flex-col rounded-2xl bg-gradient-to-br from-gray-200 to-gray-50 p-5 shadow-lg shadow-black/[0.03] before:pointer-events-none before:absolute before:inset-0 before:rounded-[inherit] before:border before:border-transparent before:[background:linear-gradient(var(--color-gray-100),var(--color-gray-200))_border-box] before:[mask-composite:exclude_!important] before:[mask:linear-gradient(white_0_0)_padding-box,_linear-gradient(white_0_0)] ${className}`}
       style={rotation ? { transform: `rotate(${rotation}deg)` } : undefined}
     >
-      <header className="mb-4 flex flex-col items-center gap-3">
+      <header className="mb-4 flex flex-row items-center gap-3">
         <svg
+          className="w-1/4"
           xmlns="http://www.w3.org/2000/svg"
           height="100"
           viewBox="0 0 843.57946 640.51678"
@@ -230,9 +231,9 @@ export default function TestimonialDetail({
             fill="#007ef1"
           />
         </svg>
-        <div className="font-bold text-white md:text-2xl">{testimonial.fullname}</div>
+        <div className="font-bold text-gray-900 md:text-2xl">{testimonial.fullname}</div>
       </header>
-      <div className="grow text-sm text-white md:text-base">{children}</div>
+      <div className="grow text-sm text-gray-900 md:text-base">{children}</div>
       <footer className="mt-4 flex items-center gap-2.5 text-white">
         {testimonial.channel && channelIcon(testimonial.channel)}
         <div className="text-xs">{testimonial.date || ''}</div>

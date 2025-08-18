@@ -24,17 +24,21 @@ const { estate, isHidden } = Astro.props;
 
 <article
   class:list={[
-    'flex h-full flex-col border-4 border-double bg-linear-to-bl from-gray-100 to-transparent p-6 transition-opacity',
+    'flex h-full flex-col border-4 border-double bg-linear-to-bl from-gray-100 to-transparent p-6 transition-opacity max-w-[460px]',
     { 'pointer-events-none opacity-15': isHidden },
   ]}
 >
   <header>
     <div class="group relative mb-6 overflow-hidden border border-blue-300">
       <a href={`/${estate.slug}`} tabindex="-1">
-        <span
-          class="aspect-101/64 w-full object-cover transition ease-out group-hover:scale-[1.02]"
-        >
-          <CldImage src={estate.thumbnail} width={347} height={220} alt={estate.title} />
+        <span class="aspect-101/64 w-full object-cover transition ease-out">
+          <CldImage
+            src={estate.thumbnail}
+            width={404}
+            height={256}
+            alt={estate.title}
+            class="w-full h-full object-cover"
+          />
         </span>
       </a>
     </div>

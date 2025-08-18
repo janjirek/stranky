@@ -44,7 +44,7 @@ export default function ContractsCatalogue({
           className="space-y-10 border-l [border-image:linear-gradient(to_bottom,var(--color-slate-200),var(--color-slate-300),transparent)1] bg-slate-100 rounded-r-2xl p-6 mb-10"
         >
           <div className="relative mb-2 flex flex-col md:flex-row items-center md:items-start gap-4">
-            <img src={post.thumbnail_url} alt={post.data.title} className="w-1/3 rounded-lg" />
+            <img src={post.thumbnail_url} alt={post.data.title} className="md:w-1/3 rounded-lg" />
             <div className="flex flex-col gap-2">
               <header className="mb-2">
                 <h2 className="text-2xl font-bold">

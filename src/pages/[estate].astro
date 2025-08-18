@@ -197,8 +197,9 @@ const canonicalURL = `https://janjirek.cz/nemovitosti/${entry.data.slug}`;
                   <div class="flex flex-col gap-4 w-full">
                     {
                       entry.data.youtube_link && (
-                        <div class="bg-gray-100 rounded-lg p-2 self-center w-[75%] xl:h-[415px] h-[315px]">
+                        <div class="bg-gray-100 rounded-lg p-2 self-center w-full">
                           <iframe
+                            class="responsive-iframe"
                             width="100%"
                             height="100%"
                             src={entry.data.youtube_link}

@@ -14,7 +14,9 @@ const estates = entries.map(entry => {
 ---
 
 <section class="relative mx-auto mb-8 max-w-7xl">
-  <div class="mx-auto grid max-w-sm items-start gap-8 sm:max-w-none sm:grid-cols-2 lg:grid-cols-3">
+  <div
+    class={`mx-auto grid max-w-sm items-start gap-8 sm:max-w-none sm:mx-2  ${estates.length === 1 ? 'lg:grid-cols-1 justify-items-center' : estates.length === 2 ? 'lg:grid-cols-2 sm:grid-cols-2 justify-items-center' : 'lg:grid-cols-3 sm:grid-cols-2 justify-center'}`}
+  >
     {estates.map(estate => <EstateItem estate={estate} isHidden={false} />)}
   </div>
 </section>

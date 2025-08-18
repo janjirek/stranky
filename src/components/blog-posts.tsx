@@ -42,10 +42,10 @@ export default function BlogPosts({ posts, postsPerPage = 3 }: BlogPostsProps) {
         >
           <div className="relative mb-2 flex flex-col md:flex-row items-center md:items-start gap-4">
             {post.thumbnail_url ? (
-              <img src={post.thumbnail_url} alt={post.data.title} className="w-1/3 rounded-lg" />
+              <img src={post.thumbnail_url} alt={post.data.title} className="md:w-1/3 rounded-lg" />
             ) : (
               <svg
-                className="w-1/3"
+                className="md:w-1/3"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 782.04441 701.88002"
                 xmlnsXlink="http://www.w3.org/1999/xlink"
