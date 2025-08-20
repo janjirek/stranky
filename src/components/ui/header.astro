@@ -2,6 +2,7 @@
 import { Image } from 'astro:assets';
 import Logo from './logo.astro';
 import MobileMenu from './mobile-menu.tsx';
+import Dropdown from './dropdown.tsx';
 
 // Import fonts using Astro's way
 import '@fontsource/inter/500.css';
@@ -13,6 +14,13 @@ export const metadata = {
   title: 'Realitní Makléř Ing. Jan Jírek',
   description: 'Prodej a pronájem bytů, domů a pozemků v Pardubicích, Hradci Králové a okolí.',
 };
+
+// Define dropdown items for Služby
+const sluzbyItems = [
+  { href: '/sluzby', label: 'Přehled' },
+  { href: '/sluzby/prodej', label: 'Prodej Nemovitostí' },
+  { href: '/sluzby/pronajem', label: 'Pronájem Nemovitostí' },
+];
 ---
 
 <header class="fixed top-2 z-30 w-full md:top-6">
@@ -58,12 +66,7 @@ export const metadata = {
             </a>
           </li>
           <li class="px-3 py-1">
-            <a
-              href="/sluzby"
-              class="flex items-center text-gray-700 transition hover:text-gray-900"
-            >
-              Služby
-            </a>
+            <Dropdown client:load label="Služby" items={sluzbyItems} />
           </li>
           <li class="px-3 py-1">
             <a

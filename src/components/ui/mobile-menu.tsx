@@ -1,7 +1,20 @@
 import { useState, useRef, useEffect } from 'react';
 
+interface DropdownItem {
+  href: string;
+  label: string;
+}
+
 export default function MobileMenu() {
   const [mobileNavOpen, setMobileNavOpen] = useState<boolean>(false);
+  const [sluzbyOpen, setSluzbyOpen] = useState<boolean>(false);
+
+  // Define dropdown items for Služby
+  const sluzbyItems: DropdownItem[] = [
+    { href: '/sluzby', label: 'Přehled' },
+    { href: '/sluzby/prodej', label: 'Prodej Nemovitostí' },
+    { href: '/sluzby/pronajem', label: 'Pronájem Nemovitostí' },
+  ];
 
   const trigger = useRef<HTMLButtonElement>(null);
   const mobileNav = useRef<HTMLDivElement>(null);
@@ -115,13 +128,45 @@ export default function MobileMenu() {
               </a>
             </li>
             <li>
-              <a
-                href="/sluzby"
-                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-gray-100"
-                onClick={() => setMobileNavOpen(false)}
+              <button
+                className="flex w-full items-center justify-between rounded-lg px-2 py-1.5 text-gray-700 hover:bg-gray-100"
+                onClick={() => setSluzbyOpen(!sluzbyOpen)}
               >
                 Služby
-              </a>
+                <svg
+                  className={`h-4 w-4 transition-transform duration-200 ${
+                    sluzbyOpen ? 'rotate-180' : ''
+                  }`}
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 9l-7 7-7-7"
+                  />
+                </svg>
+              </button>
+              {sluzbyOpen && (
+                <ul className="ml-4 mt-1 space-y-1">
+                  {sluzbyItems.map((item, index) => (
+                    <li key={index}>
+                      <a
+                        href={item.href}
+                        className="flex rounded-lg px-2 py-1.5 text-sm text-gray-600 hover:bg-gray-100"
+                        onClick={() => {
+                          setMobileNavOpen(false);
+                          setSluzbyOpen(false);
+                        }}
+                      >
+                        {item.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </li>
             <li>
               <a

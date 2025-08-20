@@ -1,0 +1,20 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import Hero from './hero.astro';
+import Cta02 from '@/components/cta-02.astro';
+import RentContent from '@/components/rent-content.astro';
+
+export const metadata = {
+  title: 'Ing. Jan Jírek - Pronájem nemovitostí',
+  description: 'Jak pronajímám nemovitosti? Celý proces od A do Z.',
+};
+---
+
+<Layout
+  title="Ing. Jan Jírek - Pronájem nemovitostí"
+  description="Jak pronajímám nemovitosti? Celý proces od A do Z."
+>
+  <Hero />
+  <RentContent />
+  <Cta02 />
+</Layout>
