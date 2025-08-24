@@ -38,7 +38,7 @@ Rovinatý pozemek je přístupný z asfaltové obecní komunikace, která vede z
 
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-17.jpg)
 
-Na pozemku je několik vzrostlých ovocných stromů a stodola určena k demolici.    ‌
+Na pozemku je několik vzrostlých ovocných stromů a stodola určena k demolici. Máme několik nabídek na demolici současné stavby. **<u>Náklad na demolici bude odečten od kupní ceny</u>**.    ‌
 
 | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-12.jpg) | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-11.jpg) |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -87,7 +87,6 @@ Zajímá vás, jak by mohl vypadat váš nový domov? Třeba takto:
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-4.jpg)
 
 Pro relaxaci lze využít blízkou cyklotrasu a blízké lesy, případně dětské hřiště. V obci najdete obchod. Ostatní zázemí naleznete v prostředí města Lázně Bohdaneč – školy, školky, lékárny, pošta, lázeňský bazén, MHD do Pardubic a další služby. 
-    
 
 ### Lokalita:
 
