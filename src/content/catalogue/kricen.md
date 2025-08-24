@@ -1,9 +1,9 @@
 ---
 title: Prodej stavebního pozemku – Křičeň
 type: prodej
-description: Prodej stavebního pozemku nedaleko Lázní Bohdaneč, Pardubic, ale i dálnice s lukrativní velikosti 1045 m2.
+description: Prodej stavebního pozemku nedaleko Lázní Bohdaneč, Pardubic, ale i dálnice s lukrativní velikostí 1045 m2.
 date: 2025-08-18
-tags: [prodej, pozemkek, bydlení, Křičeň]
+tags: [prodej, pozemek, bydlení, Křičeň]
 thumbnail: kricen-6
 images:
 - kricen
@@ -24,7 +24,7 @@ images:
 - kricen-7
 - kricen-8
 - kricen-9
-price: 4.500.000 Kč
+price: 3.990.000 Kč
 location: Křičeň 56, 533 41 Křičeň 
 mapy_link: https://mapy.com/s/gahamenoje
 slug: pozemek-kricen
@@ -42,6 +42,20 @@ Na pozemku je několik vzrostlých ovocných stromů a stodola určena k demolic
 
 | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-12.jpg) | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-11.jpg) |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+
+Pozemek parc. č. 490/3 (ostatní komunikace) je v majetku obce a je využíván desítky let výlučně majiteli. To samé platí pro zadní část pozemku, kde je zaplocena malá část parcely č. 154/14 v majetku státu, rovněž tento pozemek není užíván nikým jiným než majitely a sousedy.
+
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-32.jpg)
+
+V současné době se dokončuje narovnání hranic se sousedem, aby zákres katastrální mapy odpovídal oplocení.
+
+**Původní stav:**![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-32-4.jpg)
+
+**Nový stav:**
+
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-32-3.jpg) 
+
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-32-2.jpg)
 
 Na pozemek je vyvedena obecní kanalizace, dále se zde nachází studna.
 
@@ -61,7 +75,7 @@ Obecní vodovod je na protější straně silnice.
 Výhodou nemovitosti je dobrá dopravní dostupnost – 100 m od zastávky autobusu, cca 5 km na dálnici D11. 
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-8.jpg)
 
-### Územmní plán
+### Územní plán
 
 Lokalita územním plánem spadá do Plochy smíšené obytné - venkovské - SV, kde je hlavní využití bydlení v rodinných domech.
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755544120/kricen-31-2.png)
@@ -69,12 +83,11 @@ Lokalita územním plánem spadá do Plochy smíšené obytné - venkovské - SV
 Regulativ je následující:
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755544120/kricen-31.png)
 
-Zajímá vás jak by mohl vypadat váš nový domov? Třeba takto: 
+Zajímá vás, jak by mohl vypadat váš nový domov? Třeba takto: 
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-4.jpg)
 
 Pro relaxaci lze využít blízkou cyklotrasu a blízké lesy, případně dětské hřiště. V obci najdete obchod. Ostatní zázemí naleznete v prostředí města Lázně Bohdaneč – školy, školky, lékárny, pošta, lázeňský bazén, MHD do Pardubic a další služby. 
-    ‌
-Poznámka: V současnosti probíhá úprava rozměrů pozemku geometrickým plánem pro narovnání hranic tak, aby odpovídaly stávajícímu oplocení. Uvedené rozměry již odpovídají novému geometrickému plánu.
+    
 
 ### Lokalita:
 
