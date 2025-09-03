@@ -6,20 +6,16 @@ location: tř. Edvarda Beneš 1534/62, Hradec Králové
 tags: [pronájem,byt,1+kk, Hradec Králové]
 description: Pronájem bytu 1+kk v centru města Hradce Králové
 images:
-- pronajem_santrochova
-- pronajem_santrochova-10
-- pronajem_santrochova-11
-- pronajem_santrochova-12
-- pronajem_santrochova-13
-- pronajem_santrochova-14
-- pronajem_santrochova-15
-- pronajem_santrochova-2
-- pronajem_santrochova-3
-- pronajem_santrochova-4
-- pronajem_santrochova-5
-- pronajem_santrochova-7
-- pronajem_santrochova-8
-- pronajem_santrochova-9
+- pronajem_benesovka
+- pronajem_benesovka-10
+- pronajem_benesovka-2
+- pronajem_benesovka-3
+- pronajem_benesovka-4
+- pronajem_benesovka-5
+- pronajem_benesovka-6
+- pronajem_benesovka-7
+- pronajem_benesovka-8
+- pronajem_benesovka-9
 slug: pronajem-benesovka
 price: 9.500 Kč
 mapy_link: https://mapy.com/s/lacokebome
