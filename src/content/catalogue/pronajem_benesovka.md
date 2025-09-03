@@ -1,5 +1,5 @@
 ---
-title: Pronájem bytu 1+kk, 31m² - tř. E. Beneše - Hradec Králové
+title: Pronájem bytu 1+kk, 31m² – tř. E. Beneše – Hradec Králové
 type: pronájem
 date: 2025-03-01
 location: tř. Edvarda Beneš 1534/62, Hradec Králové
@@ -20,16 +20,16 @@ images:
 - pronajem_santrochova-7
 - pronajem_santrochova-8
 - pronajem_santrochova-9
-slug: /pronajem-benesovka
+slug: pronajem-benesovka
 price: 9.500 Kč
 mapy_link: https://mapy.com/s/lacokebome
-thumbnail: pronajem_santrochova-8
+thumbnail: pronajem_benesovka-2
 
 
 ---
 
 Nabízíme Vám k pronájmu bytovou jednotku 1+kk, která je umístěna v 9. patře revitalizovaného panelového domu s dvěma výtahy v ulici tř. Edvarda Beneš 1534/62. 
-
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1756885603/pronajem_benesovka-2.jpg)
 Byt je v původním zachovalém stavu o podlahové ploše 29 m² + sklep a tudíž je ideální pro jednu či max dvě osoby.
 
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1756885603/pronajem_benesovka-8.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1756885603/pronajem_benesovka-6.jpg) |
