@@ -1,6 +1,5 @@
 ---
-title: Prodej rodinného domu 137 m², pozemek 846 m²
-Heřmanův Městec – Konopáč
+title: Prodej rodinného domu 137 m², pozemek 846 m², Heřmanův Městec – Konopáč
 type: prodej
 description: Nabízím vám k prodeji třípodlažní rodinný dům o dispozici 4+kk, který se nachází přímo v srdci rekreační oblasti Konopáč..
 date: 2025-09-06
@@ -116,10 +115,6 @@ Hranice pozemku jsme nechali zaměřit geodetem.
 ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-50.jpg)
 
 ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-50-2.jpg)
-
-
-
-
 
 ### Kde se nemovitost nachází?:
 
