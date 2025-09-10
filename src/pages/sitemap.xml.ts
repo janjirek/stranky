@@ -24,7 +24,7 @@ export async function GET() {
 
     // Estate pages
     ...estateEntries.map(entry => ({
-      url: `${baseUrl}/nemovitosti/${entry.data.slug}`,
+      url: `${baseUrl}/${entry.data.slug}`,
       lastmod: new Date(entry.data.date).toISOString(),
       changefreq: 'weekly' as const,
       priority: 0.9,
