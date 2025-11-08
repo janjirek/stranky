@@ -22,8 +22,8 @@ images:
 - pronajem_brezhrad-16
 - pronajem_brezhrad-17
 - pronajem_brezhrad-18
-  slug: /pronajem-brezhrad
-  thumbnail: pronajem_brezhrad-15
+slug: /pronajem-brezhrad
+thumbnail: pronajem_brezhrad-15
 
 ---
 
