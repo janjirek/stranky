@@ -19,7 +19,7 @@ youtube: https://www.youtube.com/@janjirekreality
 
 years: 13
 
-estates: 290
+estates: 300
 
 clients: 550
 ---
