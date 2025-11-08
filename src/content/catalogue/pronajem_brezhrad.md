@@ -3,6 +3,8 @@ title: Pronájem bytu 2+1 – Jiráskovo náměstí 1244/6, Hradec Králové
 date: 2025-11-08
 location: Březhradská 149/5, Hradec Králové
 description: Pronájem bytu 2+1 v logistické lokalitě – Březhrad, Hradec Králové
+type: pronájem
+tags: [byt,pronájem,bydlení,Březhrad]
 images:
 - pronajem_brezhrad
 - pronajem_brezhrad-2
@@ -23,6 +25,8 @@ images:
 - pronajem_brezhrad-17
 - pronajem_brezhrad-18
 slug: /pronajem-brezhrad
+price: 16.000 Kč
+mapy_link: https://mapy.com/s/mupezopato
 thumbnail: pronajem_brezhrad-15
 
 ---
