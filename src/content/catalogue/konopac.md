@@ -50,7 +50,7 @@ images:
 - konpac-rd-7
 - konpac-rd-8
 - konpac-rd-9
-price: 4.500.000 Kč
+price: 4.300.000 Kč
 location: Konopáč 31, 538 03 Heřmanův Městec - Konopáč, Česko
 mapy_link: https://mapy.com/s/fusohuruko
 youtube_link: https://www.youtube.com/embed/4F1JuIJb88I?si=lmWjrD8ZYGJD5ZHC
