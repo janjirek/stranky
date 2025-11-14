@@ -110,7 +110,7 @@ Pokud hledáte místo, kde si užijete klid, přírodu, sport i pohodové večer
 
 ### Hranice pozemku:
 
-Hranice pozemku jsme nechali zaměřit geodetem.
+Hranice pozemku u této nemovitosti jsme nechali v březnu 2025 odborně zaměřit geodetem (viz Protokol o zaměření Ing. Heleny Hamerníkové). Zaměření potvrdilo, že tak jako v celé lokalitě Konopáče dochází z historických důvodů a členitosti terénu k menším odchylkám mezi původním oplocením a kresbou v katastru. U prodávané nemovitosti dvě hranice vykazují nesoulad – je zde zaploceno přibližně o 50 m² více směrem na obecní pozemek a obdobná situace je i na severní hranici se sousedem. Nejde však o komplikaci bez řešení: stav lze jednoduše narovnat buď odkupem dotčené části pozemku od obce (v roce 2025 znalecky oceněno na cca 800 Kč/m²), nebo úpravou vedení oplocení; s celým procesem novému majiteli rád pomohu.
 
 ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-50.jpg)
 
