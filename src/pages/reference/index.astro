@@ -7,20 +7,20 @@ import { getCollection } from 'astro:content';
 const testimonials = await getCollection('references');
 export const metadata = {
   title: 'Ing. Jan Jírek - Reference',
-  description: 'Zde naleznete reference od mých spokojených klientů:',
+  description: 'Zde naleznete reference od mých klientů:',
 };
 ---
 
 <Layout
   title="Ing. Jan Jírek - Reference"
-  description="Zde naleznete reference od mých spokojených klientů:"
+  description="Zde naleznete reference od mých klientů:"
 >
   <Hero />
   {/* Google reviews */}
   <div class="max-w-7xl mx-auto px-4 pb-12 md:px-12">
     <div class="flex flex-col gap-4">
       <h2 class="text-2xl font-bold">Reference</h2>
-      <p class="text-gray-600">Reference od spokojených klientů Ing. Jana Jírka</p>
+      <p class="text-gray-600">Zde naleznete reference od mých klientů:</p>
       <div class="flex gap-4 flex-col items-center">
         <div class="border-2 border-gray-300 rounded-lg p-4 w-full">
           <iframe
