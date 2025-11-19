@@ -2,7 +2,7 @@
 title: Prodej víceúčelového domu s rozsáhlými pozemky, Horní Ředice
 type: prodej
 description: Pokud hledáte místo, kde můžete kombinovat bydlení s podnikáním, nebo chcete velký pozemek a dostatek soukromí, tak vás může zaujmout rodinný dům, který se nachází v klidné obci Horní Ředice, v blízkosti Pardubic a Hradce Králové. Objekt tvoří soubor nemovitostí zkolaudovaných pro bydlení i podnikání a rozprostírá se na rozsáhlém pozemku o celkové rozloze 5320 m².
-date: 2025-05-31
+date: 2025-11-19
 tags: [dům, prodej, Horní Ředice, podnikání, bydlení]
 thumbnail: horni_redice-54
 images:
