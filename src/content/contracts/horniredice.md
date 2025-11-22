@@ -71,22 +71,22 @@ slug: horni-redice
 
 Pokud hledáte místo, kde můžete kombinovat bydlení s podnikáním, nebo chcete velký pozemek a dostatek soukromí, tak vás může zaujmout rodinný dům, který se nachází v klidné obci Horní Ředice, v blízkosti Pardubic a Hradce Králové. Objekt tvoří soubor nemovitostí zkolaudovaných pro bydlení i podnikání a rozprostírá se na rozsáhlém pozemku o celkové rozloze 5320 m².
 
-<img src="https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754508108/horni_redice-9.jpg" title="" alt="Rodinný dům Horní Ředice" width="721">
+<img src="https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754508108/horni_redice-9.jpg" title="" alt="Rodinný dům Horní Ředice" width="721">
 
 Pravou část objektu utváří dům pro rodinné bydlení o dispozici 3+kk a obytné ploše 66 m2 a k němu přináležící společenská místnost vybavená krbovými kamny, vlastním sociálním zařízením, technickou místností a letní kuchyní s posezením.
 
-![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754508166/horni_redice-50.jpg)
+![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754508166/horni_redice-50.jpg)
 
-V zadní části budovy na vás čeká terasa s venkovním bazénem.![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754508166/horni_redice-45.jpg)
+V zadní části budovy na vás čeká terasa s venkovním bazénem.![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754508166/horni_redice-45.jpg)
 Protější části objektu byly užívány jako prostory pro podnikání a pro tento účel byly zkolaudovány.
 
-![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754508166/horni_redice-48.jpg)
+![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754508166/horni_redice-48.jpg)
 
 Zde najdete menší sklad, archív, kancelář se sociálním zařízením a sprchou, kuchyňku a tři pokoje v podkroví. K těmto prostorům patří i kryté stání a dílna.
 
 Nechybí ani rozsáhlá skladová budova s prostornými vraty, která nabízí potenciál pro další rozvoj a komerční využití.
 
-![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754508166/horni_redice-55.jpg)
+![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754508166/horni_redice-55.jpg)
 
 Celý objekt prošel v letech 2006 – 2007 rekonstrukcí včetně nových střech, oken, topení, elektroinstalace, rozvodů vody, kanalizace, zámkové dlažby, apod. Nemovitosti jsou napojeny k veškerým inženýrským sítím (kanalizace – tlaková, dešťová), voda, plyn i elektřina.
 ‌

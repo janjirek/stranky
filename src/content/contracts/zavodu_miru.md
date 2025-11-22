@@ -35,21 +35,21 @@ Pokud hledáte bydlení, kde budete mít naprosto vše na dosah ruky, tak už d�
 <iframe width="755" height="425" src="https://www.youtube.com/embed/Dq_qcgsIXVg?si=otUx9cuQiKr2_vjS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Tato adresa se nachází v naprosté blízkosti veškeré občanské vybavenosti. Za zmínku určitě stojí cyklostezka, dvě školky, základní škola, poliklinika, Palác Pardubice, apod.
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738510/zavodu_miru-23.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738510/zavodu_miru-23.jpg)
 Jak bytový dům, tak i byt prošly kompletní rekonstrukcí v roce 2024. Za zmínku stojí nové jádro, rozvody, okna, omítky (lepidlo - perlinka - lepidlo - štuk) a to včetně stropů, vylití podlah vč. pokládky vinylu, nová kuchyňská linka apod.
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738492/zavodu_miru-7.jpg)  | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738510/zavodu_miru-4.jpg)  |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738492/zavodu_miru-7.jpg)  | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738510/zavodu_miru-4.jpg)  |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738510/zavodu_miru-12.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738510/zavodu_miru-13.jpg) |
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738510/zavodu_miru-8.jpg)  | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738510/zavodu_miru-9.jpg)  |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738510/zavodu_miru-12.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738510/zavodu_miru-13.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738510/zavodu_miru-8.jpg)  | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738510/zavodu_miru-9.jpg)  |
 
 Celková výměra jednotky dle prohlášení vlastníka činí 58 m2 (včetně sklepa 1,2 m2 a prostorné lodžie 7,2 m2) a disponuje dvěma neprůchozími pokoji, kuchyní, chodbou, samostatnou koupelnou a WC (viz půdorys bytu). Kuchyň je vybavena kuchyňskou linkou s vestavěnými spotřebiči (el. trouba, indukční varná deska, odsavač par a myčka).
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738491/zavodu_miru-6.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738491/zavodu_miru-6.jpg)
 V koupelně naleznete sprchový kout značky Hüppe.
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738491/zavodu_miru-10.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738491/zavodu_miru-10.jpg)
 Z obývacího pokoje je vstup na prostornou lodžii o šířce téměř 6 m. Všechna okna jsou orientována na jih, mimo dopravní ruch.
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738491/zavodu_miru-14.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738491/zavodu_miru-15.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738491/zavodu_miru-14.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738491/zavodu_miru-15.jpg) |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
  Byt je vytápěn ústředním dálkovým vytápěním. K bytu náleží sklep v suterénu domu.
@@ -62,10 +62,10 @@ Prozatím neproběhla kolaudace zateplení budovy a tudíž není aktualizován 
 
 A jak by vypadal byt vybavený? Třeba takto:
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728903/zavodu_miru-2.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728905/zavodu_miru-26.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/zavodu_miru-2.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728905/zavodu_miru-26.jpg) |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728905/zavodu_miru-12.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728905/zavodu_miru-27.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728905/zavodu_miru-12.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728905/zavodu_miru-27.jpg) |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 Ať už hledáte rodinné bydlení, nebo investiční příležitost, tento byt vám nabídne skvělý základ. Jeho dispozice i možnosti úprav vám umožní vytvořit domov přesně podle vašich představ.
@@ -76,25 +76,25 @@ Těším se na vás na prohlídce!
 
 ### Půdorys:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738502/zavodu_miru-17.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738502/zavodu_miru-17.jpg)
 
 ### LV:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738511/zavodu_miru-24.png)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738511/zavodu_miru-24.png)
 
 ### Poplatky:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738504/zavodu_miru-18.png)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738504/zavodu_miru-18.png)
 
-### Prohlášení vlastníka: ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738512/zavodu_miru-25.png)
+### Prohlášení vlastníka: ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738512/zavodu_miru-25.png)
 
 ### Bezdlužnost:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738505/zavodu_miru-19.png)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738505/zavodu_miru-19.png)
 
 ### PENB:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754738506/zavodu_miru-20.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754738506/zavodu_miru-20.jpg)
 
 ### Kde se nemovitost nachází?:
 
