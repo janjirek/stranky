@@ -34,25 +34,25 @@ thumbnail: pronajem_jiraskovo-4
 
 Nabízím Vám k pronájmu bytovou jednotku 2+1, která je umístěna v 4. NP cihlového domu bez výtahu v ulici Jiráskovo náměstí 1244/6, kousek od známého řeznictví U Plota. 
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754809194/pronajem_jiraskovo-3.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754809194/pronajem_jiraskovo-3.jpg)
 
 Byt je po rekonstrukci o celkové ploše 62,7 m2 a pronajímá se nezařízený. Kuchyň je osazena novou kuchyňskou linkou s indukční deskou, el. troubou, lednicí s mrazákem a myčkou. 
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754809206/pronajem_jiraskovo-10.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754809206/pronajem_jiraskovo-10.jpg)
 
 Byt disponuje dvěma pokoji se západní orientací, z jednoho z nich je vstup na balkon. 
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754809223/pronajem_jiraskovo-18.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754809218/pronajem_jiraskovo-16.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754809223/pronajem_jiraskovo-18.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754809218/pronajem_jiraskovo-16.jpg) |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754809202/pronajem_jiraskovo-8.jpg)  | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754809204/pronajem_jiraskovo-9.jpg)  |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754809202/pronajem_jiraskovo-8.jpg)  | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754809204/pronajem_jiraskovo-9.jpg)  |
 
 Koupelna je osazena vanou.
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754809214/pronajem_jiraskovo-14.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754809214/pronajem_jiraskovo-14.jpg)
 
 K bytu náleží prostorný sklep v suterénu domu s rozměrem více jak 5 m2. Dispozice bytu je vyobrazena na půdorysu. Bytový dům se nachází pouhých 900 m od vlakového nádraží či OC Aupark. 
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754809197/pronajem_jiraskovo-5.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754809197/pronajem_jiraskovo-5.jpg)
 
 Zálohy na energie jsou nyní nastaveny na 3.000 Kč a to tak, že:
 
@@ -74,7 +74,7 @@ Majitel si vyhrazuje právo na výběr nájemce dle jím zvolených kritérií.
 
 ### Půdorys:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754809200/pronajem_jiraskovo-7.png)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754809200/pronajem_jiraskovo-7.png)
 
 ### Kde se nemovitost nachází?:
 

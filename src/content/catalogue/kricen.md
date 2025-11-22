@@ -32,59 +32,59 @@ slug: pozemek-kricen
 
 Nabízím vám pozemek v obci Křičeň (3 km od Lázní Bohdaneč) o celkové ploše 1045 m2.
 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-5.jpg)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-5.jpg)
 
 Rovinatý pozemek je přístupný z asfaltové obecní komunikace, která vede z centra obce směrem k vesnici Dolany.
 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-17.jpg)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-17.jpg)
 
 Na pozemku je několik vzrostlých ovocných stromů a stodola určena k demolici. Máme několik nabídek na demolici současné stavby. **<u>Náklad na demolici bude odečten od kupní ceny</u>**.    ‌
 
-| ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-12.jpg) | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-11.jpg) |
+| ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-12.jpg) | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-11.jpg) |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
 Pozemek parc. č. 490/3 (ostatní komunikace) je v majetku obce a je využíván desítky let výlučně majiteli. To samé platí pro zadní část pozemku, kde je zaplocena malá část parcely č. 154/14 v majetku státu, rovněž tento pozemek není užíván nikým jiným než majitely a sousedy.
 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-32.jpg)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-32.jpg)
 
 V současné době se dokončuje narovnání hranic se sousedem, aby zákres katastrální mapy odpovídal oplocení.
 
-**Původní stav:**![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-32-4.jpg)
+**Původní stav:**![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-32-4.jpg)
 
 **Nový stav:**
 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-32-3.jpg) 
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-32-3.jpg) 
 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-32-2.jpg)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-32-2.jpg)
 
 Na pozemek je vyvedena obecní kanalizace, dále se zde nachází studna.
 
-| ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-16.jpg) | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-15.jpg) |
+| ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-16.jpg) | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-15.jpg) |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
 Elektřina, plyn a CETIN vede při bližší straně silnice.
 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-30-2.jpg)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-30-2.jpg)
 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-30-3.jpg)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-30-3.jpg)
 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-30.jpg)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-30.jpg)
 
 Obecní vodovod je na protější straně silnice.
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-30-4.jpg)    ‌
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-30-4.jpg)    ‌
 Výhodou nemovitosti je dobrá dopravní dostupnost – 100 m od zastávky autobusu, cca 5 km na dálnici D11. 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-8.jpg)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-8.jpg)
 
 ### Územní plán
 
 Lokalita územním plánem spadá do Plochy smíšené obytné - venkovské - SV, kde je hlavní využití bydlení v rodinných domech.
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755544120/kricen-31-2.png)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755544120/kricen-31-2.png)
 
 Regulativ je následující:
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755544120/kricen-31.png)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755544120/kricen-31.png)
 
 Zajímá vás, jak by mohl vypadat váš nový domov? Třeba takto: 
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/v1755541183/kricen-4.jpg)
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1755541183/kricen-4.jpg)
 
 Pro relaxaci lze využít blízkou cyklotrasu a blízké lesy, případně dětské hřiště. V obci najdete obchod. Ostatní zázemí naleznete v prostředí města Lázně Bohdaneč – školy, školky, lékárny, pošta, lázeňský bazén, MHD do Pardubic a další služby. 
 

@@ -38,46 +38,46 @@ Co je na něm zvláštní? Z prostorné dvajedničky se šikovnými úpravami st
 
 Jednotka se nachází ve zvýšeném přízemí revitalizovaného domu. A díky tomu, že byt je rohový a obklopen zelení, budete zde mít dostatek soukromí.
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728903/jilemnickeho2217.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728903/jilemnickeho2217.jpg)
 
 Užitná plocha bytu bez sklepa činí 58,05 m². Byt se skládá ze dvou pokojů – prostorného obýváku a rohové ložnice. 
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728904/jilemnickeho2217-7.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728903/jilemnickeho2217-5.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728904/jilemnickeho2217-7.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728903/jilemnickeho2217-5.jpg) |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728904/jilemnickeho2217-9.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728903/jilemnickeho2217-8.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728904/jilemnickeho2217-9.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728903/jilemnickeho2217-8.jpg) |
 
  Třetí místnost vznikla oddělením od kuchyně, sádrokartonovou příčkou. Díky vestavným skříním a přítomnosti okna, sloužila jako plnohodnotný pokoj či pracovna.
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728905/jilemnickeho2217-20.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728905/jilemnickeho2217-20.jpg)
 
 Benefitem bytu jsou velká okna, čili o dostatek světla tu nebudete mít určitě nouzi. Byt je totiž orientován na jihozápad.
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728903/jilemnickeho2217-3.jpg) V suterénu domu se nachází prostorný sklep o velikosti 6,83 m², kde pohodlně uložíte vše, co je potřeba.
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728903/jilemnickeho2217-3.jpg) V suterénu domu se nachází prostorný sklep o velikosti 6,83 m², kde pohodlně uložíte vše, co je potřeba.
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728906/jilemnickeho2217-15.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728906/jilemnickeho2217-15.jpg)
 
 Kuchyň byla kolem roku 2010 osazena novou linkou a spotřebiči (vestavná lednice, el. trouba, plynový sporák). 
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728904/jilemnickeho2217-11.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728904/jilemnickeho2217-11.jpg)
 
 V té době se rekonstruovala i koupelna, kde na vás čeká rohová vana. 
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728904/jilemnickeho2217-14.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728904/jilemnickeho2217-14.jpg)
 
 Rozvody v kuchyni a koupelně jsou již v mědi, ale v pokojích jsou původní. Hlavní jistič je 1x 16A. Plyn je zde pouze na vaření. Vytápění je ústřední dálkové (Opatovice).
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728904/jilemnickeho2217-13.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728904/jilemnickeho2217-13.jpg)
 
 V pokojích se nachází původní parkety. V kuchyni a pracovně jsou podlahy betonové s linem. V koupelně je dlažba. Okna jsou dřevěná - eurookna. Byt je čistě bíle vymalován.
 
 A jak by vypadal byt po rekonstrukci? Třeba takto:
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728905/jilemnickeho2217-19.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728905/jilemnickeho2217-17.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728905/jilemnickeho2217-19.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728905/jilemnickeho2217-17.jpg) |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728903/jilemnickeho2217-8.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728905/jilemnickeho2217-18.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728903/jilemnickeho2217-8.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728905/jilemnickeho2217-18.jpg) |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728904/jilemnickeho2217-9.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728905/jilemnickeho2217-16.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728904/jilemnickeho2217-9.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728905/jilemnickeho2217-16.jpg) |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 Ať už hledáte rodinné bydlení, nebo investiční příležitost, tento byt vám nabídne skvělý základ. Jeho dispozice i možnosti úprav vám umožní vytvořit domov přesně podle vašich představ.
@@ -88,25 +88,25 @@ Těším se na vás na prohlídce!
 
 ### Půdorys:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728905/jilemnickeho2217-21.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728905/jilemnickeho2217-21.jpg)
 
 ### LV:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728906/jilemnickeho2217-22.png)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728906/jilemnickeho2217-22.png)
 
 ### Poplatky:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728909/jilemnickeho2217-26.png)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728909/jilemnickeho2217-26.png)
 
-### Prohlášení vlastníka: ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728906/jilemnickeho2217-23.png)
+### Prohlášení vlastníka: ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728906/jilemnickeho2217-23.png)
 
 ### Bezdlužnost:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728908/jilemnickeho2217-25.png)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728908/jilemnickeho2217-25.png)
 
 ### PENB:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754728908/jilemnickeho2217-24.png)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754728908/jilemnickeho2217-24.png)
 
 ### Kde se nemovitost nachází?:
 

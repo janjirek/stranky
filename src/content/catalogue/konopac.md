@@ -59,41 +59,41 @@ slug: rd-konopac
 
 Nabízím vám k prodeji třípodlažní rodinný dům o dispozici 4+kk, který se nachází přímo v srdci rekreační oblasti Konopáč.
 
-![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-4.jpg)Dům byl postaven v průběhu 80. let z kombinace plynosilikátu a cihel a nachází se na pozemku o velikosti 846 m².
+![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-4.jpg)Dům byl postaven v průběhu 80. let z kombinace plynosilikátu a cihel a nachází se na pozemku o velikosti 846 m².
 
-| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-11.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-15.jpg) |
+| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-11.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-15.jpg) |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 
 V přízemí se nachází prostorný obývací pokoj s jídelnou, kuchyň, spíž, samostatná toaleta a pracovna. Světlá výška místností je 2,55 m.
 
-| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-25.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-26.jpg) |
+| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-25.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-26.jpg) |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-27.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-30.jpg) |
+| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-27.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-30.jpg) |
 
 Schodiště na chodbě vás zavede do obytného podkroví,
 
-![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-28.jpg)
+![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-28.jpg)
 
 kde naleznete dvě menší ložnice, hlavní ložnici a koupelnu s toaletou. Světlá výška činí 2,5 m.
 
-| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-31.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-35.jpg) |
+| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-31.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-35.jpg) |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-32.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-33.jpg) |
+| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-32.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-33.jpg) |
 
 Terasy lemují jak přízemí, tak podkroví – s výhledem do klidné ulice i do zahrady.
 
-| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-23.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-21.jpg) |
+| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-23.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-21.jpg) |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-20.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-12.jpg) |
+| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-20.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-12.jpg) |
 
 Suterén domu tvoří členitý sklep, ve kterém jsou umístěny dva kotle (na tuhá paliva a plyn), dále koupelna a garáž. Světlá výška v suterénu je 2,2 m.
 
-| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-36.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-37.jpg) |
+| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-36.jpg) | ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-37.jpg) |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 
 Dům sousedí s městským pozemkem, na kterém bylo vybudováno nové hřiště s kurtem – ideální pro sportovní vyžití nebo rodinný čas.
 
-![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-5.jpg)
+![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-5.jpg)
 
 Dům je napojen na obecní vodovod, elektřinu a plyn. Odpady jsou svedeny do jímky. Město Heřmanův Městec navíc nabízí nevratnou půjčku ve výši 60 000 Kč na vybudování ČOV.
 Nejbližší obchod se nachází v Heřmanově Městci (1,5 km), kde najdete veškerou občanskou vybavenost. V sousední obci Načešice je k dispozici i mateřská škola.
@@ -104,17 +104,17 @@ Pokud hledáte místo, kde si užijete klid, přírodu, sport i pohodové večer
 
 ### Půdorys:
 
-![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-44.jpg)
-![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-42.jpg)
-![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-43.jpg)
+![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-44.jpg)
+![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-42.jpg)
+![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-43.jpg)
 
 ### Hranice pozemku:
 
 Hranice pozemku u této nemovitosti jsme nechali v březnu 2025 odborně zaměřit geodetem (viz Protokol o zaměření Ing. Heleny Hamerníkové). Zaměření potvrdilo, že tak jako v celé lokalitě Konopáče dochází z historických důvodů a členitosti terénu k menším odchylkám mezi původním oplocením a kresbou v katastru. U prodávané nemovitosti dvě hranice vykazují nesoulad – je zde zaploceno přibližně o 50 m² více směrem na obecní pozemek a obdobná situace je i na severní hranici se sousedem. Nejde však o komplikaci bez řešení: stav lze jednoduše narovnat buď odkupem dotčené části pozemku od obce (v roce 2025 znalecky oceněno na cca 800 Kč/m²), nebo úpravou vedení oplocení; s celým procesem novému majiteli rád pomohu.
 
-![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-50.jpg)
+![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-50.jpg)
 
-![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/v1757076368/konpac-rd-50-2.jpg)
+![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1757076368/konpac-rd-50-2.jpg)
 
 ### Kde se nemovitost nachází?:
 

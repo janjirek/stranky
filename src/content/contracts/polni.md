@@ -39,38 +39,38 @@ Předsíň (5,5 m²)
 Zasklená lodžie (3,0 m²)
 Sklep (1,1 m²)
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812825/polni-8.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812827/polni-9.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812825/polni-8.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812827/polni-9.jpg) |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812812/polni-2.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812811/polni.jpg)   |
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812817/polni-4.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812815/polni-3.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812812/polni-2.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812811/polni.jpg)   |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812817/polni-4.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812815/polni-3.jpg) |
 
 Rekonstrukce jádra proběhla v roce 2015. Minulý rok byla osazena nová kuchyňská linka s myčkou a plynovým sporákem.
 
-| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812819/polni-5.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812830/polni-10.jpg) |
+| ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812819/polni-5.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812830/polni-10.jpg) |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
 
 Rozvody elektřiny v pokojích jsou původní, jádro je již v mědi. Výhodou jsou modernější radiátory.
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812821/polni-6.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812821/polni-6.jpg)
 Dům je po revitalizaci - nový výtah, zateplení, plastová okna, kompletně nové stoupačky.
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812899/polni-12.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812899/polni-12.jpg)
 
 Lokalita disponuje kompletní občanskou vybaveností. Za zmínku určitě stojí obchodní centrum Orlice park, cyklostezka podél Orlice, MHD zastávka před domem, apod.
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812903/polni-14.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812903/polni-14.jpg)
 Převod bytu do osobního vlastnictví nebyl prozatím předmětem projednání.
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812903/polni-13.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812903/polni-13.jpg)
 
 ## Praktické informace
 
 ### Půdorys:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812907/polni-16.jpg)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812907/polni-16.jpg)
 
 ### Poplatky a rozměry:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754812905/polni-15.png)
+![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754812905/polni-15.png)
 
 ### Kde se nemovitost nachází?:
 

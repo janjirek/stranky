@@ -28,17 +28,17 @@ slug: pozemek-spojil
 
 Nabízím vám k prodeji stavební pozemek v původní zástavbě lukrativní lokality Spojil. 
 
-![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754723683/spojil-17.jpg)
+![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754723683/spojil-17.jpg)
 
 Pozemek má ideální velikost 800 m².
 
-![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754722348/spojil-9.jpg)Na pozemku je zřízena přípojka obecní vody. Elektřina, CETIN a kanalizace vedou přímo na hranici pozemku u přilehlé komunikace, viz situační výkres. Plyn vede na druhé straně silnice.
-![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754722347/spojil-2.jpg) 
+![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754722348/spojil-9.jpg)Na pozemku je zřízena přípojka obecní vody. Elektřina, CETIN a kanalizace vedou přímo na hranici pozemku u přilehlé komunikace, viz situační výkres. Plyn vede na druhé straně silnice.
+![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754722347/spojil-2.jpg) 
 A jak by mohl vypadat váš dům? Třeba takto:
-![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754722493/spojil-15.jpg) 
+![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754722493/spojil-15.jpg) 
 Spojil nabízí výbornou dostupnost do centra města, ať už MHD, či na kole po cyklostezce.
 
-![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/v1754722349/spojil-13.jpg)V obci najdete sportovní areál, statek APOLENKA a v letošním roce by měla být zahájena výstavba mateřské školy.
+![pozemek Spojil](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto/v1754722349/spojil-13.jpg)V obci najdete sportovní areál, statek APOLENKA a v letošním roce by měla být zahájena výstavba mateřské školy.
 
 **Lokalita:**
 
