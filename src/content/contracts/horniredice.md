@@ -69,7 +69,11 @@ youtube_link: https://www.youtube.com/embed/KrLUCkKXafk?si=N_TMF08EkzQ0sYuS
 slug: horni-redice
 ---
 
-Pokud hledáte místo, kde můžete kombinovat bydlení s podnikáním, nebo chcete velký pozemek a dostatek soukromí, tak vás může zaujmout rodinný dům, který se nachází v klidné obci Horní Ředice, v blízkosti Pardubic a Hradce Králové. Objekt tvoří soubor nemovitostí zkolaudovaných pro bydlení i podnikání a rozprostírá se na rozsáhlém pozemku o celkové rozloze 5320 m².
+Pokud hledáte místo, kde můžete kombinovat bydlení s podnikáním, nebo chcete velký pozemek a dostatek soukromí, tak vás může zaujmout rodinný dům, který se nachází v klidné obci Horní Ředice, v blízkosti Pardubic a Hradce Králové. 
+
+<iframe width="755" height="425" src="https://www.youtube.com/embed/KrLUCkKXafk?si=VYHQGOaRr-zOJ50N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Objekt tvoří soubor nemovitostí zkolaudovaných pro bydlení i podnikání a rozprostírá se na rozsáhlém pozemku o celkové rozloze 5320 m².
 
 <img src="https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754508108/horni_redice-9.jpg" title="" alt="Rodinný dům Horní Ředice" width="721">
 
