@@ -116,23 +116,20 @@ for (const image of entry.data.images) {
                   </h2>
                   <div class="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
                     <div class="flex flex-col gap-4 w-full">
-                      {
-                        entry.data.youtube_link && (
-                          <div class="bg-gray-100 rounded-lg p-2 self-center w-full">
-                            <iframe
-                              class="responsive-iframe"
-                              width="100%"
-                              height="315"
-                              src={entry.data.youtube_link}
-                              title="YouTube video player"
-                              frameborder="0"
-                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                              referrerpolicy="strict-origin-when-cross-origin"
-                              allowfullscreen
-                            />{' '}
-                          </div>
-                        )
-                      }
+                      { entry.data.youtube_link && (
+  <div class="bg-gray-100 rounded-lg p-2 self-center w-full">
+    <iframe
+      src={entry.data.youtube_link}
+      class="w-full aspect-video rounded-xl"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+  </div>
+)}
+
                       <div>
                         <PhotoGallery
                           images={photoGalleryData}
