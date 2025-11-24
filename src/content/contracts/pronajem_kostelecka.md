@@ -1,13 +1,12 @@
 ---
 title: Pronájem bytu 4+1, Kostelecká 1825 – Náchod
 type: pronájem
-date: 2025-11-16
+date: 2025-11-01
 location: Kostelecká 1825, Náchod
 tags: [pronájem,byt,4+1, Náchod]
 description: Pronájem bytu 4+1 s lodžií v klidné části Náchoda, na adrese Kostelecká 1825.
 images:
   - pronajem-kostelecka
-  - pronajem-kostelecka-1
   - pronajem-kostelecka-2
   - pronajem-kostelecka-3
   - pronajem-kostelecka-4
@@ -29,7 +28,7 @@ images:
 slug: /pronajem-kostelecka
 price: 13.500 Kč
 mapy_link: https://mapy.com/s/gapebagavo
-thumbnail: pronajem-kostelecka
+thumbnail: pronajem-kostelecka-13
 ---
 
 Nabízíme k pronájmu částečně zrekonstruovaný byt 4+1 s lodžií v klidné části Náchoda, na adrese Kostelecká 1825. Bytová jednotka o obytné ploše 70,7 m² se nachází ve 2. patře panelového domu s výtahem.
