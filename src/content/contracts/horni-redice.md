@@ -3,7 +3,6 @@ title: Prodej víceúčelového domu s rozsáhlými pozemky, Horní Ředice
 type: prodej
 description: Pokud hledáte místo, kde můžete kombinovat bydlení s podnikáním, nebo chcete velký pozemek a dostatek soukromí, tak vás může zaujmout rodinný dům, který se nachází v klidné obci Horní Ředice, v blízkosti Pardubic a Hradce Králové. Objekt tvoří soubor nemovitostí zkolaudovaných pro bydlení i podnikání a rozprostírá se na rozsáhlém pozemku o celkové rozloze 5320 m².
 date: 2025-11-19
-tags: [dům, prodej, Horní Ředice, podnikání, bydlení]
 thumbnail: horni_redice-54
 images:
   - horni_redice
@@ -62,16 +61,15 @@ images:
   - horni_redice-7
   - horni_redice-8
   - horni_redice-9
-price: 11.990.000 Kč
 location: Horní Ředice 7, 533 75 Horní Ředice
 mapy_link: https://mapy.com/s/nuvarakema
-youtube_link: https://www.youtube.com/embed/KrLUCkKXafk?si=N_TMF08EkzQ0sYuS
+youtube_link: https://www.youtube.com/embed/KrLUCkKXafk?si=t29vqR8lvWh6Y7Zx
 slug: /horni-redice
 ---
 
 Pokud hledáte místo, kde můžete kombinovat bydlení s podnikáním, nebo chcete velký pozemek a dostatek soukromí, tak vás může zaujmout rodinný dům, který se nachází v klidné obci Horní Ředice, v blízkosti Pardubic a Hradce Králové. 
 
-<iframe width="755" height="425" src="https://www.youtube.com/embed/KrLUCkKXafk?si=VYHQGOaRr-zOJ50N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrLUCkKXafk?si=t29vqR8lvWh6Y7Zx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Objekt tvoří soubor nemovitostí zkolaudovaných pro bydlení i podnikání a rozprostírá se na rozsáhlém pozemku o celkové rozloze 5320 m².
 
@@ -97,3 +95,8 @@ Celý objekt prošel v letech 2006 – 2007 rekonstrukcí včetně nových stře
 Každá z hlavních budov je vybavena vlastním plynovým kotlem a systémem radiátorů, doplněnými o krbové vložky s výměníky, tudíž byl celý objekt většinu času vytápěn dřevem. Na pozemku je studna.
 ‌
 Nemovitost nabízí dobré napojení na dálniční síť.
+
+## Praktické informace
+### Kde se nemovitost nachází?:
+
+<iframe style="border:none" src="https://mapy.com/s/badurecuma" width="700" height="466" frameborder="0"></iframe>
