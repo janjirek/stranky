@@ -75,7 +75,7 @@ Pokud hledáte místo, kde můžete kombinovat bydlení s podnikáním, nebo chc
 
 Objekt tvoří soubor nemovitostí zkolaudovaných pro bydlení i podnikání a rozprostírá se na rozsáhlém pozemku o celkové rozloze 5320 m².
 
-<img src="https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754508108/horni_redice-9.jpg" title="" alt="Rodinný dům Horní Ředice" width="721">
+![Rodinný dům — pohled na pozemek a stavby](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754508166/horni_redice-9.jpg)
 
 Pravou část objektu utváří dům pro rodinné bydlení o dispozici 3+kk a obytné ploše 66 m2 a k němu přináležící společenská místnost vybavená krbovými kamny, vlastním sociálním zařízením, technickou místností a letní kuchyní s posezením.
 
