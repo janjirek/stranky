@@ -26,12 +26,17 @@ clients: 550
 
 ## O mně
 
-Jmenuji se Jan Jírek a na trhu s nemovitostmi se pohybuji od roku 2012, kdy ještě jako student vysoké školy jsem hledal práci, která nebude jen o penězích, **ale hlavně o možnosti se někam posunout.**
+Jmenuji se **Jan Jírek** a v realitách pracuju od roku 2012. Za tu dobu jsem pomohl stovkám klientů s prodejem a pronájmem bytů, domů i rekreačních nemovitostí hlavně v Pardubicích, Hradci Králové a okolí.
 
-Postupnou prací jsem se naučil, že kvalitně odvedená realitní služba stojí na lidském přístupu, znalostech a vybudování pocitu důvěry.
+Nejsem makléř, který se bude tvářit jako „mág realit“ a přesvědčovat vás za každou cenu, jak je nejlepší. Neslibuju nemožné a netlačím na rychlá rozhodnutí. Místo toho raději věci poctivě připravím, srozumitelně vysvětlím a nechám vás v klidu se rozhodnout.
 
-Právě Vámi projevená důvěra, je pro mne velmi důležitou zpětnou vazbou, že to, co dělám, dělám správně.
+Svou práci stavím na třech věcech: **důkladné přípravě, kvalitní prezentaci a férovém jednání**. V praxi to znamená, že si na začátku projdeme nejen nemovitost, ale i vaše cíle a možnosti. Řeknu vám otevřeně, jak vidím cenu, jaké jsou reálné scénáře a co bude potřeba udělat, aby se nemovitost prodala nebo pronajala dobře – ne jen „nějak“.
 
-Bude mi ctí, pokud budu mít možnost Vám ukázat kvalitu své práce.
+Baví mě dávat nemovitostem „formu“, aby zaujaly ty správné lidi – od úprav a přípravy přes fotky, video a půdorysy až po texty a prezentaci na webu i sociálních sítích. Stejnou pečlivost ale věnuju i té méně viditelné části práce: smlouvám, kontrole dokumentů, komunikaci s bankami, katastrálním úřadem a všem formalitám kolem obchodu.
 
-Těším se na osobní setkání.
+Jako makléř jsem na vaší straně, ale zároveň respektuji i druhou stranu obchodu. Chci, aby měli dobrý pocit jak prodávající, tak kupující – jen tak má smysl mluvit o dlouhodobé spolupráci a doporučeních. Hodně klientů se ke mně vrací nebo mě doporučuje dál, což beru jako největší potvrzení toho, že svoji práci dělám správně.
+
+Pokud zvažujete prodej nebo pronájem nemovitosti a chcete vědět, jak by spolupráce se mnou vypadala v praxi, rád si s vámi sednu na nezávaznou schůzku.  
+
+
+Těším se na setkání.
