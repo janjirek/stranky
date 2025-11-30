@@ -36,4 +36,6 @@ Jako váš makléř stojím na vaší straně, ale hraju fér i vůči kupujíc�
 
 Mým cílem je, abyste **prodali za co nejlepší cenu** a zároveň měli jistotu, že je vše po právní i faktické stránce v pořádku.
 
-**Chci, aby pro vás byl prodej nemovitosti zážitkem, na který budete vzpomínat v dobrém, ne stresujícím procesem. Pokud to máte stejně, pojďme se nezávazně pobavit o prodeji vaší nemovitosti.****
+**Chci, aby pro vás byl prodej nemovitosti zážitkem, na který budete vzpomínat v dobrém, ne stresujícím procesem.**
+
+Pokud to máte stejně, pojďme se nezávazně pobavit o vaší nemovitosti.
