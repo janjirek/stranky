@@ -26,17 +26,14 @@ clients: 550
 
 ## O mně
 
-Jmenuji se **Jan Jírek** a v realitách pracuju od roku 2012. Za tu dobu jsem pomohl stovkám klientů s prodejem a pronájmem bytů, domů i rekreačních nemovitostí hlavně v Pardubicích, Hradci Králové a okolí.
+Jmenuji se **Jan Jírek**. V realitách se pohybuju od roku 2012 a za tu dobu jsem v Pardubicích, Hradci Králové a okolí pomohl stovkám klientů prodat nebo pronajmout jejich nemovitost. Začínal jsem už během studia vysoké školy **systémového inženýrství**, kde jsem se naučil přemýšlet systematicky, pracovat s daty a hledat řešení, která dávají smysl v praxi – dnes to využívám při nastavování cen, strategií prodeje i vyhodnocování zájmu o zakázky.
 
-Nejsem makléř, který se bude tvářit jako „mág realit“ a přesvědčovat vás za každou cenu, jak je nejlepší. Neslibuju nemožné a netlačím na rychlá rozhodnutí. Místo toho raději věci poctivě připravím, srozumitelně vysvětlím a nechám vás v klidu se rozhodnout.
+Svou práci stavím na tom, co opravdu rozhoduje: **důkladná příprava, kvalitní prezentace a dobře ošetřený právní servis**. Tahle práce mě upřímně baví – kombinace lidí, čísel, marketingu a konkrétního výsledku v podobě úspěšně uzavřeného obchodu je něco, co mi dává smysl i po letech. Nečekejte ode mě zběsilé skákání do bazénu u videoprohlídek ani přehnané herecké výkony před kamerou. Nejsem makléř, který se tváří jako „mág realit“ a slibuje nemožné.
 
-Svou práci stavím na třech věcech: **důkladné přípravě, kvalitní prezentaci a férovém jednání**. V praxi to znamená, že si na začátku projdeme nejen nemovitost, ale i vaše cíle a možnosti. Řeknu vám otevřeně, jak vidím cenu, jaké jsou reálné scénáře a co bude potřeba udělat, aby se nemovitost prodala nebo pronajala dobře – ne jen „nějak“.
+Baví mě dávat nemovitostem takovou formu, aby zaujaly ty správné zájemce. Při prodeji se nebojím **investovat nemalé částky do reklamy zakázek** – do profesionálního focení a videa, cílené inzerce na realitních serverech, sociálních sítích i vlastních webových stránek nemovitosti. Tyto náklady beru na sebe jako součást své práce, protože vím, že kvalitní prezentace a promyšlený marketing mají přímý vliv na rychlost prodeje i dosaženou cenu.
 
-Baví mě dávat nemovitostem „formu“, aby zaujaly ty správné lidi – od úprav a přípravy přes fotky, video a půdorysy až po texty a prezentaci na webu i sociálních sítích. Stejnou pečlivost ale věnuju i té méně viditelné části práce: smlouvám, kontrole dokumentů, komunikaci s bankami, katastrálním úřadem a všem formalitám kolem obchodu.
+Jako váš makléř stojím na vaší straně, ale hraju fér i vůči kupujícím. Stav nemovitosti nezveličuju a nesnažím se nikomu nic „nabulíkovat“. Upřímný obchod má mnohem větší šanci doběhnout v klidu do konce – bez couvnutí na poslední chvíli a bez zbytečných sporů po prodeji.
 
-Jako makléř jsem na vaší straně, ale zároveň respektuji i druhou stranu obchodu. Chci, aby měli dobrý pocit jak prodávající, tak kupující – jen tak má smysl mluvit o dlouhodobé spolupráci a doporučeních. Hodně klientů se ke mně vrací nebo mě doporučuje dál, což beru jako největší potvrzení toho, že svoji práci dělám správně.
+Mým cílem je, abyste **prodali za co nejlepší cenu** a zároveň měli jistotu, že je vše po právní i faktické stránce v pořádku.
 
-Pokud zvažujete prodej nebo pronájem nemovitosti a chcete vědět, jak by spolupráce se mnou vypadala v praxi, rád si s vámi sednu na nezávaznou schůzku.  
-
-
-Těším se na setkání.
+**Chci, aby pro vás byl prodej nemovitosti zážitkem, na který budete vzpomínat v dobrém, ne stresujícím procesem. Pokud to máte stejně, pojďme se nezávazně pobavit o prodeji vaší nemovitosti.****
