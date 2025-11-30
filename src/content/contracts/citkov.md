@@ -55,7 +55,7 @@ youtube_link: https://www.youtube.com/embed/ztHkN586NqE?si=sjC_9SMX8Vrv4aTM
 
 Hledáte chatu na klidném místě, v krásné přírodě a ještě k tomu v dojezdové vzdálenosti do 20 minut od Chrudimi či Pardubic?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3MGJRWZctN8?si=abf6uTJPbHQQilV9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ztHkN586NqE?si=sjC_9SMX8Vrv4aTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Nabízíme vám ke koupi zděnou chatu s vlastním pozemkem, která se nachází v klidném místě malebné obce Cítkov u Vápenného Podolu. 
 
