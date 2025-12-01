@@ -107,35 +107,7 @@ input[type='search']::-webkit-search-results-decoration {
 
 .responsive-iframe {
   @apply w-full max-w-full border-0 rounded-lg shadow-lg;
-  height: 400px;
-}
-
-/* Mobile devices */
-@media (max-width: 640px) {
-  .responsive-iframe {
-    height: 250px;
-  }
-}
-
-/* Tablet devices */
-@media (min-width: 641px) and (max-width: 1024px) {
-  .responsive-iframe {
-    height: 350px;
-  }
-}
-
-/* Large screens */
-@media (min-width: 1025px) {
-  .responsive-iframe {
-    height: 450px;
-  }
-}
-
-/* Extra large screens */
-@media (min-width: 1280px) {
-  .responsive-iframe {
-    height: 500px;
-  }
+  aspect-ratio: 16 / 9;
 }
 
 /* Auto-apply responsive-iframe styles to all iframes within prose content */
