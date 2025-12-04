@@ -194,7 +194,7 @@ import Portrait from '@/assets/images/portrait.png';
           <div class="bg-gray-50 dark:bg-slate-800 rounded-2xl p-8 shadow-lg" data-aos="fade-up">
             <div class="flex items-center mb-6">
               <div
-                class="flex items-center justify-center w-12 h-12 bg-purple-500 text-white rounded-full font-bold text-lg mr-4"
+                class="flex items-center justify-center w-12 h-12 bg-purple-500 text:white rounded-full font-bold text-lg mr-4"
               >
                 3
               </div>
@@ -297,11 +297,22 @@ import Portrait from '@/assets/images/portrait.png';
               správná příprava bytu, profesionální prezentace, důkladné prověření zájemců i pečlivě
               nastavená smlouva.
             </p>
-            <p class="text-slate-600 dark:text-slate-300 mb-6">
-              <strong>Rozumím daním.</strong> Spousta mých klientů tedy zbytečně nepřichází o peníze,
-              protože umím poradit, kdy se vyplatí <strong>paušální výdaje</strong> a kdy naopak
-              <strong>evidence skutečných nákladů.</strong>
-            </p>
+
+            <!-- NOVÝ DAŇOVÝ BOX -->
+            <div class="bg-blue-50 dark:bg-slate-700 border-l-4 border-blue-500 p-4 mb-6 rounded-r-lg">
+              <div class="flex items-start">
+                <svg class="w-6 h-6 text-blue-500 mr-3 mt-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                </svg>
+                <div>
+                  <h4 class="font-bold text-slate-800 dark:text-slate-100">Rozumím daním a šetřím vaše peníze</h4>
+                  <p class="text-slate-600 dark:text-slate-300 text-sm mt-1">
+                    Nejsem jen "otvírač dveří". Poradím vám, kdy se vyplatí <strong>paušální výdaje</strong> a kdy <strong>evidence skutečných nákladů</strong>. Moji klienti tak ročně ušetří tisíce korun na odvodech.
+                  </p>
+                </div>
+              </div>
+            </div>
+
             <p class="text-slate-600 dark:text-slate-300 mb-6">
               Shodou okolností se můžete sami podívat na mou prezentaci.
             </p>
@@ -317,40 +328,61 @@ import Portrait from '@/assets/images/portrait.png';
               Za roky praxe a správu <strong>desítek nájemních jednotek</strong> vím, že každý krok má
               svůj význam – a že právě díky nim zůstává vaše investice v bezpečí a výnosná.
             </p>
-            <div
-              class="relative bg-gradient-to-r from-blue-50 to-purple-50 dark:from-slate-800 dark:to-slate-700 rounded-xl p-6 mb-6 border-l-4 border-blue-500 overflow-hidden"
-            >
-              <div
-                class="absolute top-4 left-4 text-blue-400 dark:text-blue-300 text-4xl font-serif"
-              >
-                "
-              </div>
-              <div class="flex flex-col md:flex-row items-center gap-2">
-                <div class="flex-shrink-0">
-                  <div class="relative">
+
+            <!-- NOVÁ OSOBNÍ GARANCE -->
+            <div class="relative w-full max-w-2xl mx-auto mt-12 mb-4">
+              <div class="absolute inset-0 bg-gradient-to-r from-orange-50 to-transparent dark:from-slate-900 rounded-2xl transform -skew-y-1 scale-95 opacity-70"></div>
+
+              <div class="relative flex flex-col sm:flex-row items-center bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 shadow-xl border border-slate-100 dark:border-slate-700">
+                <div class="flex-shrink-0 mb-4 sm:mb-0 sm:mr-8">
+                  <div class="relative w-24 h-24 sm:w-32 sm:h-32">
                     <Image
                       src={Portrait}
-                      alt="Broker"
-                      class="w-80 h-80 md:w-48 md:h-48 rounded-full object-cover border-4 border-white dark:border-slate-700 shadow-lg mr-4"
+                      alt="Ing. Jan Jírek"
+                      class="w-full h-full object-cover rounded-2xl shadow-md"
                     />
+                    <div class="absolute -bottom-2 -right-2 bg-orange-500 text-white p-1 rounded-full border-4 border-white dark:border-slate-900">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                      </svg>
+                    </div>
                   </div>
                 </div>
-                <div class="flex-1">
-                  <p
-                    class="text-slate-700 dark:text-slate-200 text-lg font-medium italic pl-8 pr-4 leading-relaxed"
-                  >
-                    Pojďme z vašeho bytu udělat investici, která vám bude dělat radost.
+
+                <div class="flex-1 text-center sm:text-left">
+                  <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">
+                    Osobní garance
+                  </h3>
+                  <p class="text-slate-600 dark:text-slate-300 text-lg italic leading-relaxed">
+                    "K vašemu bytu budu přistupovat tak, jako bych vybíral nájemníka do svého vlastního. Pečlivě a zodpovědně."
                   </p>
+                  <div class="mt-4 flex items-center justify-center sm:justify-start gap-2">
+                    <span class="h-px w-12 bg-orange-500"></span>
+                    <span class="text-sm font-semibold text-orange-600 dark:text-orange-400 uppercase tracking-wide">Ing. Jan Jírek</span>
+                  </div>
                 </div>
-              </div>
-              <div
-                class="absolute bottom-4 right-4 text-blue-400 dark:text-blue-300 text-4xl font-serif transform rotate-180"
-              >
-                "
               </div>
             </div>
           </div>
         </div>
+
+        <!-- CTA BLOK NA KONCI -->
+        <div class="w-full mt-16" data-aos="fade-up">
+          <div class="bg-gradient-to-br from-slate-800 to-slate-900 rounded-3xl p-8 md:p-12 text-center text-white shadow-2xl relative overflow-hidden">
+            <div class="absolute top-0 right-0 -mr-16 -mt-16 w-64 h-64 rounded-full bg-white opacity-5"></div>
+            <div class="absolute bottom-0 left-0 -ml-16 -mb-16 w-40 h-40 rounded-full bg-orange-500 opacity-10"></div>
+
+            <h3 class="text-2xl md:text-3xl font-bold mb-4 relative z-10">Chcete pronajmout bezpečně a za nejvyšší cenu?</h3>
+            <p class="text-slate-300 text-lg mb-8 max-w-2xl mx-auto relative z-10">
+              Nechte starosti s výběrem nájemníka na mně. Zašlete mi základní info o vaší nemovitosti a já vám připravím nezávazný odhad tržního nájemného.
+            </p>
+
+            <a href="/kontakt" class="inline-block bg-orange-500 text-white hover:bg-orange-600 font-bold py-4 px-8 rounded-xl shadow-lg transition duration-300 transform hover:-translate-y-1 relative z-10">
+              Chci tržní odhad nájemného zdarma
+            </a>
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
