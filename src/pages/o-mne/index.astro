@@ -3,7 +3,9 @@ import Layout from '@/layouts/Layout.astro';
 import Hero from './hero.astro';
 import Content from './content.astro';
 import Location from '@/components/locations.astro';
-import Cta from '@/components/cta-02.astro';
+// Cta už nepotřebujeme, nahrazujeme ho vlastním kódem
+import { Image } from 'astro:assets';
+import Portrait from '@/assets/images/portrait.png';
 
 export const metadata = {
   title: 'Ing. Jan Jírek - O mně',
@@ -18,6 +20,68 @@ export const metadata = {
   <Hero />
   <Content />
   <Location />
-  <Cta />
-</Layout>
 
+  <section class="px-4 sm:px-6 pb-20">
+    
+    <div class="relative w-full max-w-2xl mx-auto mt-20 mb-12" data-aos="fade-up">
+      <div class="absolute inset-0 bg-gradient-to-r from-slate-100 to-transparent dark:from-slate-900 rounded-2xl transform -skew-y-1 scale-95 opacity-70"></div>
+    
+      <div class="relative flex flex-col sm:flex-row items-center bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 shadow-xl border border-slate-100 dark:border-slate-700">
+        
+        <div class="flex-shrink-0 mb-4 sm:mb-0 sm:mr-8">
+          <div class="relative w-24 h-24 sm:w-32 sm:h-32">
+            <Image
+              src={Portrait}
+              alt="Ing. Jan Jírek"
+              class="w-full h-full object-cover rounded-2xl shadow-md"
+            />
+            <div class="absolute -bottom-2 -right-2 bg-blue-600 text-white p-1 rounded-full border-4 border-white dark:border-slate-900">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+              </svg>
+            </div>
+          </div>
+        </div>
+    
+        <div class="flex-1 text-center sm:text-left">
+          <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">
+            Moje filozofie
+          </h3>
+          <p class="text-slate-600 dark:text-slate-300 text-lg italic leading-relaxed">
+            "Reality nejsou jen o nemovitostech, ale především o lidech a jejich příbězích. Zakládám si na důvěře, férovosti a lidském přístupu."
+          </p>
+          <div class="mt-4 flex items-center justify-center sm:justify-start gap-2">
+            <span class="h-px w-12 bg-blue-500"></span>
+            <span class="text-sm font-semibold text-blue-600 dark:text-blue-400 uppercase tracking-wide">Ing. Jan Jírek</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="w-full max-w-6xl mx-auto mt-16 mb-8" data-aos="fade-up">
+      <div class="bg-gradient-to-br from-slate-800 to-slate-900 rounded-3xl p-8 md:p-12 text-center text-white shadow-2xl relative overflow-hidden">
+          
+          <div class="absolute top-0 right-0 -mr-16 -mt-16 w-64 h-64 rounded-full bg-blue-500 opacity-10"></div>
+          <div class="absolute bottom-0 left-0 -ml-16 -mb-16 w-40 h-40 rounded-full bg-white opacity-5"></div>
+
+          <h3 class="text-2xl md:text-3xl font-bold mb-4 relative z-10">
+              Hledáte partnera, na kterého se můžete spolehnout?
+          </h3>
+          
+          <p class="text-slate-300 text-lg mb-8 max-w-2xl mx-auto relative z-10">
+              Teď už víte, kdo jsem a jak pracuji. Pokud řešíte prodej, pronájem nebo jen potřebujete nezávaznou radu ohledně vaší nemovitosti, ozvěte se. Rád si vyslechnu Váš příběh.
+          </p>
+          
+          <div class="flex flex-col sm:flex-row justify-center gap-4 relative z-10">
+              <a href="/kontakt" class="inline-block bg-blue-600 text-white hover:bg-blue-700 font-bold py-4 px-8 rounded-xl shadow-lg transition duration-300 transform hover:-translate-y-1">
+                  Kontaktovat mě
+              </a>
+              <a href="tel:+420721400777" class="inline-block bg-transparent border-2 border-slate-600 hover:border-slate-500 text-slate-300 hover:text-white font-semibold py-4 px-8 rounded-xl transition duration-300">
+                  Zavolat: 721 400 777
+              </a>
+          </div>
+      </div>
+    </div>
+
+  </section>
+</Layout>
