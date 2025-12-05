@@ -6,35 +6,34 @@ import PageIllustration from '@/components/page-illustration.astro';
 import { Icon } from 'astro-icon/components'; 
 import Stripes from '@/assets/images/stripes-dark.svg';
 import { Image } from 'astro:assets';
-import PhotoGallery from '@/components/photo-gallery'; // Komponenta pro galerii
+import PhotoGallery from '@/components/photo-gallery'; 
 
 export const prerender = true;
 
-// 🔥 KLÍČOVÁ OPRAVA: ZAJIŠTĚNÍ INTEGRITY DAT
+// 🔥 KLÍČOVÁ OPRAVA: ZAJIŠTĚNÍ INTEGRITY DAT V getStaticPaths
 export async function getStaticPaths() {
-  // Get all estate entries
   const estateEntries = await getCollection('catalogue');
   
-  // Filtrujeme, abychom měli jistotu, že každý entry má validní slug v entry.data
   return estateEntries
+    // 1. Důležitý filtr: Zabrání chybě, pokud některý MD soubor nemá 'slug' v frontmatteru
     .filter(entry => entry.data.slug && typeof entry.data.slug === 'string') 
     .map((entry: any) => {
       return {
-        // Klíč 'estate' odpovídá názvu souboru [estate].astro
+        // Klíč parametru musí odpovídat názvu souboru [estate].astro
         params: { estate: entry.data.slug }, 
         props: { entry },
       };
     });
 }
 
-// Get the estate data from props
+// Získání dat
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
 // Dynamické sestavení galerie
 const photoGalleryData = [];
 const fullSizeImages = [];
-// Použijeme zjednodušený ForOf pro stabilitu
+// Používáme kontrolu, aby kód neshodil build, pokud je pole images prázdné
 if (Array.isArray(entry.data.images)) {
     for (const image of entry.data.images) {
       const url = getCldImageUrl({ src: image, width: 600, height: 400 });
@@ -44,9 +43,17 @@ if (Array.isArray(entry.data.images)) {
     }
 }
 
-// Bezpečné sestavení SEO popisku
+// Bezpečné sestavení SEO popisku (odstraněna chyba 'měsíčně' u prodeje)
 const priceSuffix = entry.data.type.toLowerCase() === 'pronájem' ? ' měsíčně' : '';
 const enhancedDescription = `${entry.data.description} | Typ: ${entry.data.type} v ${entry.data.location.split(',')[0]}. Cena: ${entry.data.price} ${priceSuffix}. Profesionální realitní služby od Ing. Jana Jírka.`;
+
+// Přejmenování kvůli syntaxi
+const propertyDetails = {
+    type: entry.data.type,
+    location: entry.data.location,
+    price: entry.data.price,
+    propertyType: entry.data.type || 'Prodej',
+};
 
 // Create canonical URL
 const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
@@ -131,6 +138,8 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
               </div>
             </div>
           </div>
+          
+          {/* Původní Sidebar/Aside je ZRUŠEN */}
         </div>
         <hr class="mt-8 mb-14" />
         
