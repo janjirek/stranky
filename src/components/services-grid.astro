@@ -1,11 +1,11 @@
 ---
 import { Image } from "astro:assets";
 
-// Importy vašich fotek (přesné názvy)
-import ProdejImg from "@/assets/images/prodej.jpg"; // PRODEJ
-import PronajemImg from "@/assets/images/pronajem.jpg"; // PRONÁJEM
-import DedictviImg from "@/assets/images/dedictvi.jpg"; // DĚDICTVÍ
-import KoupeImg from "@/assets/images/koupe.jpg"; // KOUPĚ
+// Importy vašich fotek
+import ProdejImg from "@/assets/images/prodej.jpg"; 
+import PronajemImg from "@/assets/images/pronajem.jpg"; 
+import DedictviImg from "@/assets/images/dedictvi.jpg"; 
+import KoupeImg from "@/assets/images/koupe.jpg"; 
 
 ---
 
@@ -14,14 +14,11 @@ import KoupeImg from "@/assets/images/koupe.jpg"; // KOUPĚ
     
     <div class="text-center pb-12">
       <h2 class="h2 font-cabinet-grotesk text-slate-900 dark:text-white mb-4 uppercase tracking-tight">
-        S čím vám dokážu <span class="text-blue-600">nejlépe pomoci</span>?
+        S čím vám dokážu nejlépe pomoci?
       </h2>
-      <p class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-        Specializuji se na tyto čtyři klíčové oblasti. Vyberte si tu, kterou právě řešíte.
-      </p>
     </div>
 
-    <div class="grid gap-6 md:grid-cols-2 lg:gap-8">
+    <div class="grid gap-4 md:grid-cols-2">
       
       <a href="/sluzby/prodej" class="group relative block w-full overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
         <div class="aspect-video w-full relative">
@@ -30,7 +27,7 @@ import KoupeImg from "@/assets/images/koupe.jpg"; // KOUPĚ
               alt="Prodej nemovitosti"
               class="absolute inset-0 h-full w-full object-cover"
             />
-            <div class="absolute inset-0 border-[3px] border-transparent group-hover:border-blue-600 rounded-2xl transition-colors duration-300 z-10 pointer-events-none"></div>
+            <div class="absolute inset-0 border-[3px] border-transparent group-hover:border-white rounded-2xl transition-colors duration-300 z-10 pointer-events-none"></div>
         </div>
       </a>
 
@@ -41,21 +38,10 @@ import KoupeImg from "@/assets/images/koupe.jpg"; // KOUPĚ
               alt="Pronájem nemovitosti"
               class="absolute inset-0 h-full w-full object-cover"
             />
-            <div class="absolute inset-0 border-[3px] border-transparent group-hover:border-blue-600 rounded-2xl transition-colors duration-300 z-10 pointer-events-none"></div>
+            <div class="absolute inset-0 border-[3px] border-transparent group-hover:border-white rounded-2xl transition-colors duration-300 z-10 pointer-events-none"></div>
         </div>
       </a>
-
-      <a href="/sluzby/dedictvi" class="group relative block w-full overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
-        <div class="aspect-video w-full relative">
-            <Image
-              src={DedictviImg}
-              alt="Dědictví"
-              class="absolute inset-0 h-full w-full object-cover"
-            />
-            <div class="absolute inset-0 border-[3px] border-transparent group-hover:border-blue-600 rounded-2xl transition-colors duration-300 z-10 pointer-events-none"></div>
-        </div>
-      </a>
-
+      
       <a href="/sluzby/koupe" class="group relative block w-full overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
         <div class="aspect-video w-full relative">
             <Image
@@ -63,7 +49,18 @@ import KoupeImg from "@/assets/images/koupe.jpg"; // KOUPĚ
               alt="Zastupování při koupi"
               class="absolute inset-0 h-full w-full object-cover"
             />
-            <div class="absolute inset-0 border-[3px] border-transparent group-hover:border-blue-600 rounded-2xl transition-colors duration-300 z-10 pointer-events-none"></div>
+            <div class="absolute inset-0 border-[3px] border-transparent group-hover:border-white rounded-2xl transition-colors duration-300 z-10 pointer-events-none"></div>
+        </div>
+      </a>
+      
+      <a href="/sluzby/dedictvi" class="group relative block w-full overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+        <div class="aspect-video w-full relative">
+            <Image
+              src={DedictviImg}
+              alt="Dědictví"
+              class="absolute inset-0 h-full w-full object-cover"
+            />
+            <div class="absolute inset-0 border-[3px] border-transparent group-hover:border-white rounded-2xl transition-colors duration-300 z-10 pointer-events-none"></div>
         </div>
       </a>
 
