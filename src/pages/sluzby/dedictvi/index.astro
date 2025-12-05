@@ -1,0 +1,18 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import Hero from './hero.astro';
+import InheritanceContent from '@/components/inheritance-content.astro';
+
+export const metadata = {
+  title: 'Dědické řízení a odhady nemovitostí | Ing. Jan Jírek',
+  description: 'Potřebujete odhad pro notáře? Zajistím vám profesionální odhad tržní ceny pro dědické řízení. Rychle, levněji než znalec a bez starostí.',
+};
+---
+
+<Layout
+  title={metadata.title}
+  description={metadata.description}
+>
+  <Hero />
+  <InheritanceContent />
+</Layout>

@@ -8,12 +8,12 @@ interface DropdownItem {
 export default function MobileMenu() {
   const [mobileNavOpen, setMobileNavOpen] = useState<boolean>(false);
   const [sluzbyOpen, setSluzbyOpen] = useState<boolean>(false);
-
-  // Define dropdown items for Služby
-  const sluzbyItems: DropdownItem[] = [
-    { href: '/sluzby', label: 'Přehled' },
+  
+// Define dropdown items for Služby
+const sluzbyItems: DropdownItem[] = [
     { href: '/sluzby/prodej', label: 'Prodej Nemovitostí' },
     { href: '/sluzby/pronajem', label: 'Pronájem Nemovitostí' },
+    { href: '/sluzby/dedictvi', label: 'Dědické Řízení' },
   ];
 
   const trigger = useRef<HTMLButtonElement>(null);
