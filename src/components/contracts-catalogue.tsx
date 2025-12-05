@@ -41,47 +41,50 @@ export default function ContractsCatalogue({
   return (
     <div className="mb-8">
       {contracts.slice(0, visiblePosts).map((post, postIndex) => (
-        // NOVÁ ČISTÁ KARTA
-        <article
-          key={post.id}
-          className="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 mb-8 border border-slate-100 dark:border-slate-700"
+        
+        // 🔥 KLÍČOVÁ ZMĚNA: Používáme částečný odkaz a přesouváme ho na vrstvu níž
+        <a 
+          key={post.id} 
+          href={`/zakazky/${post.data.slug}`} 
+          className="group block relative"
         >
-          <div className="flex flex-col md:flex-row gap-6">
-            
-            {/* OBRÁZEK (Thumbnail) */}
-            <div className="relative md:w-1/3 shrink-0 aspect-video md:aspect-[4/3] overflow-hidden rounded-xl">
-                {/* Zde by bylo dobré použít CldImage pro optimalizaci, ale v TSX je to složitější, 
-                    proto používáme hotovou URL z props */}
-                <img 
-                  src={post.thumbnail_url} 
-                  alt={post.data.title} 
-                  className="w-full h-full object-cover transition-transform duration-500 hover:scale-[1.05]" 
-                />
-            </div>
-
-            {/* TEXTOVÝ OBSAH */}
-            <div className="flex flex-col flex-grow pt-2">
-              <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
-                {/* OPRAVENÝ ODKAZ NA /zakazky/SLUG */}
-                <a href={`/zakazky/${post.data.slug}`} className="hover:text-blue-600 transition-colors">
-                  {post.data.title}
-                </a>
-              </h2>
-              <p className="text-sm text-slate-600 dark:text-slate-300 mb-4 line-clamp-3">{post.data.description}</p>
+          <article
+            className="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 mb-8 border border-slate-100 dark:border-slate-700"
+          >
+            <div className="flex flex-col md:flex-row gap-6">
               
-              {/* Footer / CTA */}
-              <footer className="mt-auto pt-4 border-t border-slate-100 dark:border-slate-700">
-                <a
-                  href={`/zakazky/${post.data.slug}`}
-                  className="text-sm font-medium text-blue-600 transition-colors hover:text-blue-700 flex items-center gap-1"
-                >
-                  Zobrazit případovou studii
-                  <span className="tracking-normal text-blue-300 transition-transform duration-150 ease-in-out group-hover:translate-x-0.5">→</span>
-                </a>
-              </footer>
+              {/* OBRÁZEK (Thumbnail) - FLEXIBILNÍ VÝŠKA, PEVNÁ ŠÍŘKA 1/3 */}
+              <div className="relative md:w-1/3 shrink-0 overflow-hidden rounded-xl bg-slate-100 h-auto">
+                  <img 
+                    src={post.thumbnail_url} 
+                    alt={post.data.title} 
+                    // Odstraněny pevné aspect-[4/3] pro flexibilitu
+                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.05]" 
+                  />
+              </div>
+
+              {/* TEXTOVÝ OBSAH */}
+              <div className="flex flex-col flex-grow pt-2">
+                <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+                  {/* Zde je jen text, odkaz je na hlavní kartě */}
+                  <span className="group-hover:text-blue-600 transition-colors">
+                    {post.data.title}
+                  </span>
+                </h2>
+                <p className="text-sm text-slate-600 dark:text-slate-300 mb-4 line-clamp-3">{post.data.description}</p>
+                
+                {/* Footer / CTA */}
+                <footer className="mt-auto pt-4 border-t border-slate-100 dark:border-slate-700">
+                  {/* Zde je vizuální CTA, ale ne nutně klíčový odkaz */}
+                  <div className="text-sm font-medium text-blue-600 transition-colors group-hover:text-blue-700 flex items-center gap-1">
+                    Zobrazit případovou studii
+                    <span className="tracking-normal text-blue-300 transition-transform duration-150 ease-in-out group-hover:translate-x-0.5">→</span>
+                  </div>
+                </footer>
+              </div>
             </div>
-          </div>
-        </article>
+          </article>
+        </a>
       ))}
 
       {/* Load more button */}

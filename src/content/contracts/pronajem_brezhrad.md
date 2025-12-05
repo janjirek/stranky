@@ -24,7 +24,7 @@ images:
 - pronajem_brezhrad-16
 - pronajem_brezhrad-17
 - pronajem_brezhrad-18
-slug: pronajem-brezhrad
+slug: /pronajem-brezhrad
 price: 16.000 Kč
 mapy_link: https://mapy.com/s/mupezopato
 thumbnail: pronajem_brezhrad-15
@@ -38,14 +38,14 @@ Byt má zděné jádro, prošel částečnou rekonstrukcí a pronajímá se neza
 Dispozice: z předsíně vstup do kuchyně, obývacího pokoje a ložnice; koupelna s vanou, samostatné WC. Pokoje jsou neprůchozí. 
 
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754809194/pronajem_brezhrad-5.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754809194/pronajem_brezhrad-2.jpg) |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754809194/pronajem_brezhrad-3.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754809194/pronajem_brezhrad-4.jpg) |
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754809194/pronajem_brezhrad-7.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754809194/pronajem_brezhrad-8.jpg) |
 
 Velkým benefitem je opravdu prostorná lodžie orientovaná na jih, přístupná jak z kuchyně, tak z obývacího pokoje.
 
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754809194/pronajem_brezhrad-11.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754809194/pronajem_brezhrad-12.jpg) |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 
 K bytu náleží sklep v suterénu domu (cca 2 m²). Dispozice je vyobrazena na přiloženém půdorysu.
 Vybavení a stav: nová kuchyňská linka s elektrickým sporákem, troubou a digestoří. V bytě není plyn; vytápění je dálkové (Opatovice).
