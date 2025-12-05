@@ -42,24 +42,25 @@ export default function ContractsCatalogue({
     <div className="mb-8">
       {contracts.slice(0, visiblePosts).map((post, postIndex) => (
         
-        // 🔥 KLÍČOVÁ ZMĚNA: Používáme částečný odkaz a přesouváme ho na vrstvu níž
+        // 🔥 KLÍČOVÁ OPRAVA 2: Obalujeme celou kartu do odkazu na kořenovou adresu /SLUG
         <a 
           key={post.id} 
-          href={`/zakazky/${post.data.slug}`} 
+          href={`/${post.data.slug}`} 
           className="group block relative"
         >
           <article
-            className="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 mb-8 border border-slate-100 dark:border-slate-700"
+            // ODSTRANĚNY KULATÉ ROHY (rounded-2xl)
+            className="bg-white dark:bg-slate-800 p-6 shadow-lg hover:shadow-xl transition-all duration-300 mb-8 border border-slate-100 dark:border-slate-700"
           >
             <div className="flex flex-col md:flex-row gap-6">
               
-              {/* OBRÁZEK (Thumbnail) - FLEXIBILNÍ VÝŠKA, PEVNÁ ŠÍŘKA 1/3 */}
-              <div className="relative md:w-1/3 shrink-0 overflow-hidden rounded-xl bg-slate-100 h-auto">
+              {/* OBRÁZEK (Thumbnail) */}
+              <div className="relative md:w-1/3 shrink-0 aspect-video md:aspect-[4/3] overflow-hidden bg-slate-100 h-auto">
+                  {/* ODSTRANĚNY KULATÉ ROHY Z OBRÁZKU */}
                   <img 
                     src={post.thumbnail_url} 
                     alt={post.data.title} 
-                    // Odstraněny pevné aspect-[4/3] pro flexibilitu
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.05]" 
+                    className="w-full h-full object-cover transition-transform duration-500 hover:scale-[1.05]" 
                   />
               </div>
 
@@ -75,7 +76,6 @@ export default function ContractsCatalogue({
                 
                 {/* Footer / CTA */}
                 <footer className="mt-auto pt-4 border-t border-slate-100 dark:border-slate-700">
-                  {/* Zde je vizuální CTA, ale ne nutně klíčový odkaz */}
                   <div className="text-sm font-medium text-blue-600 transition-colors group-hover:text-blue-700 flex items-center gap-1">
                     Zobrazit případovou studii
                     <span className="tracking-normal text-blue-300 transition-transform duration-150 ease-in-out group-hover:translate-x-0.5">→</span>
