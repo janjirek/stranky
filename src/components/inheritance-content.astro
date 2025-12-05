@@ -1,9 +1,10 @@
 ---
 import { Image } from 'astro:assets';
-// Placeholder obrázky - upravte cesty dle potřeby
-import Image1 from '@/assets/images/sell/image1.jpeg'; 
-import Image2 from '@/assets/images/sell/image29.jpeg'; 
-import Image3 from '@/assets/images/sell/image30.jpeg'; 
+
+// Importy obrázků
+// 1. Hlavní obrázek pro Dědictví (musí být uložen v src/assets/images/dedictvi/)
+import DedictviImage from '@/assets/images/dedictvi/image1.jpg'; 
+// 2. Váš portrét
 import Portrait from '@/assets/images/portrait.png';
 ---
 
@@ -47,16 +48,14 @@ import Portrait from '@/assets/images/portrait.png';
               </div>
             </div>
 
-            <div class="grid md:grid-cols-2 grid-cols-1 gap-4 mt-6">
-               <div class="relative">
-                 <Image src={Image1} alt="Interiér" class="w-full h-auto rounded-lg object-cover" />
-               </div>
-               <div class="flex flex-col justify-center">
-                 <p class="text-slate-600 dark:text-slate-300 italic">
-                   "Správné stanovení ceny je zásadní. Pokud by byla cena podhodnocená, riskujete problémy s finančním úřadem při budoucím prodeji. Pokud nadhodnocená, zbytečně přeplatíte na poplatcích notáři."
-                 </p>
-               </div>
+            <div class="mt-6">
+               <Image 
+                 src={DedictviImage} 
+                 alt="Jednání u stolu nad dokumenty" 
+                 class="w-full h-auto rounded-lg object-cover max-h-[400px] shadow-sm"
+               />
             </div>
+
           </div>
         </div>
 
@@ -79,7 +78,7 @@ import Portrait from '@/assets/images/portrait.png';
               Notáři dnes běžně akceptují (a často i preferují) <strong>odborné vyjádření realitního makléře</strong> (tržní posouzení).
             </p>
 
-            <ul class="space-y-4 text-slate-600 dark:text-slate-300 mb-8">
+            <ul class="space-y-4 text-slate-600 dark:text-slate-300">
               <li class="flex items-start">
                 <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
                 <span><strong>Rychlost:</strong> Odhad od makléře máte hotový do 24–48 hodin, na posudek znalce se čeká týdny.</span>
@@ -93,12 +92,6 @@ import Portrait from '@/assets/images/portrait.png';
                 <span><strong>Přesnost:</strong> Jako aktivní makléř znám reálné ceny, za které se v Hradci a okolí prodává právě teď, ne jen tabulková data z minulosti.</span>
               </li>
             </ul>
-
-            <div class="grid md:grid-cols-2 grid-cols-1 gap-4 mt-6">
-               <Image src={Image2} alt="Dokumentace" class="w-full h-auto rounded-lg border-2 border-slate-200 dark:border-slate-700" />
-               <Image src={Image3} alt="Práce na odhadu" class="w-full h-auto rounded-lg border-2 border-slate-200 dark:border-slate-700" />
-            </div>
-
           </div>
         </div>
 
@@ -140,7 +133,7 @@ import Portrait from '@/assets/images/portrait.png';
             </p>
 
             <div class="grid md:grid-cols-2 gap-6 mb-8">
-                <div class="bg-slate-50 dark:bg-slate-700 p-5 rounded-xl border border-slate-100 dark:border-slate-600">
+                <div class="bg-slate-50 dark:bg-slate-700 p-5 rounded-xl border border-slate-100 dark:border-slate-600 hover:shadow-md transition-shadow">
                     <h4 class="font-bold text-slate-800 dark:text-slate-100 mb-2">Plánujete prodej?</h4>
                     <p class="text-sm text-slate-600 dark:text-slate-300 mb-4">
                         Pokud se rozhodnete nemovitost prodat přes moji kancelář, <strong>cenu za vypracování odhadu vám vrátím</strong> (bude odečtena z provize).
@@ -149,7 +142,7 @@ import Portrait from '@/assets/images/portrait.png';
                         Více o prodeji <span class="group-hover:translate-x-1 transition-transform duration-200">-></span>
                     </a>
                 </div>
-                <div class="bg-slate-50 dark:bg-slate-700 p-5 rounded-xl border border-slate-100 dark:border-slate-600">
+                <div class="bg-slate-50 dark:bg-slate-700 p-5 rounded-xl border border-slate-100 dark:border-slate-600 hover:shadow-md transition-shadow">
                     <h4 class="font-bold text-slate-800 dark:text-slate-100 mb-2">Chcete pronajmout?</h4>
                     <p class="text-sm text-slate-600 dark:text-slate-300 mb-4">
                         Pomohu vám připravit byt k pronájmu a najít prověřeného nájemníka, aby vám dědictví přinášelo pravidelný výnos.
