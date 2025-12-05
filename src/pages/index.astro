@@ -1,7 +1,8 @@
 ---
-import Hero from '@/components/hero.astro';
-import ServicesOverview from '@/components/services-overview.astro';
 import Layout from '../layouts/Layout.astro';
+import Hero from '@/components/hero.astro';
+// ZMĚNA: Importujeme novou komponentu s mřížkou 2x2
+import ServicesGrid from '@/components/services-grid.astro';
 import ReferencesOverview from '@/components/references-overview.astro';
 
 export const metadata = {
@@ -15,6 +16,8 @@ export const metadata = {
   description="Ing. Jan Jírek - Realitní makléř v Pardubicích, Hradci Králové a okolí"
 >
   <Hero />
-  <ServicesOverview />
+  
+  <ServicesGrid />
+  
   <div class="w-full bg-slate-200"><ReferencesOverview /></div>
 </Layout>

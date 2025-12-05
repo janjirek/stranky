@@ -1,0 +1,65 @@
+---
+import { Image } from "astro:assets";
+
+// Importy vašich nových fotek (Ujistěte se, že jsou ve složce src/assets/images/)
+// Pokud se jmenují jinak, upravte názvy importů!
+import ProdejImg from "@/assets/images/web-prodej-4.jpg";
+import PronajemImg from "@/assets/images/web-prodej-7.jpg"; // Přejmenoval jsem si to pro přehlednost, vy použijte reálný název souboru
+import DedictviImg from "@/assets/images/DJI_0065.jpg";
+import KoupeImg from "@/assets/images/web-pronajem-13.jpg"; // Ten s nápisem KOUPE
+
+---
+
+<section class="py-16 md:py-24 bg-white dark:bg-slate-900">
+  <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    
+    <div class="text-center pb-12">
+      <h2 class="h2 font-cabinet-grotesk text-slate-900 dark:text-white mb-4">
+        S čím vám mohu <span class="text-blue-600">pomoci</span>?
+      </h2>
+      <p class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
+        Vyberte si oblast, která vás zajímá.
+      </p>
+    </div>
+
+    <div class="grid gap-6 md:grid-cols-2 lg:gap-8">
+      
+      <a href="/sluzby/prodej" class="group relative block aspect-[4/3] w-full overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+        <Image
+          src={ProdejImg}
+          alt="Prodej nemovitosti"
+          class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+        />
+        <div class="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors duration-300"></div>
+      </a>
+
+      <a href="/sluzby/pronajem" class="group relative block aspect-[4/3] w-full overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+        <Image
+          src={PronajemImg}
+          alt="Pronájem nemovitosti"
+          class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+        />
+        <div class="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors duration-300"></div>
+      </a>
+
+      <a href="/sluzby/dedictvi" class="group relative block aspect-[4/3] w-full overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+        <Image
+          src={DedictviImg}
+          alt="Dědictví"
+          class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+        />
+        <div class="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors duration-300"></div>
+      </a>
+
+      <a href="/sluzby/koupe" class="group relative block aspect-[4/3] w-full overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
+        <Image
+          src={KoupeImg}
+          alt="Zastupování při koupi"
+          class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+        />
+        <div class="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors duration-300"></div>
+      </a>
+
+    </div>
+  </div>
+</section>
