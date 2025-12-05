@@ -4,7 +4,7 @@ import ContactForm from '@/components/contactForm.tsx';
 import { CldImage } from 'astro-cloudinary';
 import { render, getEntry } from 'astro:content';
 
-// Načtení dat (Zachováno pro funkčnost)
+// Načtení dat z content collections
 const about = await getEntry('about', 'about');
 if (!about) {
   throw new Error('About entry not found');
@@ -67,7 +67,7 @@ export const metadata = {
                     <div class="space-y-4 pt-4 border-t border-slate-200 dark:border-slate-700">
                         <div class="group">
                             <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">Telefon</label>
-                            <a href={`tel:${about.data.phone.replace(/\s/g, '')}`} class="block text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors font-cabinet-grotesk">
+                            <a href={`tel:${about.data.phone}`} class="block text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors font-cabinet-grotesk">
                                 {about.data.phone}
                             </a>
                         </div>
@@ -98,7 +98,7 @@ export const metadata = {
             
             <div class="mt-8 rounded-xl overflow-hidden h-48 border border-slate-200 dark:border-slate-600 shadow-inner">
                  <iframe
-                    class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                    class="w-full h-full object-cover"
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2562.533892059754!2d15.767335677478632!3d50.03882921691461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6cf9f1714980ad9f%3A0xdd1b1a4edf8b4964!2zSW5nLiBKYW4gSsOtcmVrIOKAkyByZWFsaXRuw60gbWFrbMOpxZk!5e0!3m2!1scs!2scz!4v1753173552483!5m2!1scs!2scz"
                     style="border:0;"
                     allowfullscreen=""
@@ -123,10 +123,3 @@ export const metadata = {
     </div>
   </section>
 </Layout>
-
-<style is:global>
-  /* Zde můžete případně doladit styly vnitřku formuláře, pokud by React komponenta měla divné marginy */
-  .contact-form-wrapper input, .contact-form-wrapper textarea {
-      @apply rounded-xl border-slate-200 focus:ring-blue-500 focus:border-blue-500;
-  }
-</style>
