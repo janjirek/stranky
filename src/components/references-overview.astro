@@ -1,7 +1,6 @@
 ---
-import { Image } from 'astro:assets';
-
-// ZMĚNA: Správná cesta k JSONu v src/content/general/
+// Cesta k JSONu (upravte podle toho, kde soubor skutečně leží)
+// Pokud je v src/content/general/, tak z components jdeme o úroveň výš (..)
 import referencesData from '../content/general/references.json'; 
 
 // Seřadíme od nejnovějšího a vezmeme první 3
@@ -15,34 +14,28 @@ const latestReferences = [...referencesData]
     
     <div class="text-center pb-12">
       <h2 class="h2 font-cabinet-grotesk text-slate-900 dark:text-white mb-4">
-        Co o mně říkají klienti?
+        Co o mně říkají <span class="text-blue-600">klienti</span>?
       </h2>
       <p class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-        Důvěra je v realitách to nejdůležitější. Podívejte se na zkušenosti lidí, se kterými jsem spolupracoval.
+        Důvěra je v realitách to nejdůležitější. Zde je výběr z nejnovějších hodnocení.
       </p>
     </div>
 
     <div class="grid gap-8 md:grid-cols-3 mb-12">
       {latestReferences.map((item) => (
-        <div class="flex flex-col h-full bg-white dark:bg-slate-800 rounded-2xl p-8 shadow-sm border border-slate-100 dark:border-slate-700 hover:shadow-md transition-shadow duration-300">
+        <div class="flex flex-col h-full bg-white dark:bg-slate-800 rounded-2xl p-8 shadow-sm border border-slate-100 dark:border-slate-700 hover:shadow-lg transition-all duration-300">
             
-            <div class="mb-6">
-                <svg class="w-8 h-8 text-blue-200 dark:text-slate-600 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path d="M14.017 21L14.017 18C14.017 16.8954 14.9124 16 16.017 16H19.017C19.5693 16 20.017 15.5523 20.017 15V9C20.017 8.44772 19.5693 8 19.017 8H15.017C14.4647 8 14.017 8.44772 14.017 9V11C14.017 11.5523 13.5693 12 13.017 12H12.017V5H22.017V15C22.017 18.3137 19.3307 21 16.017 21H14.017ZM5.0166 21L5.0166 18C5.0166 16.8954 5.91203 16 7.0166 16H10.0166C10.5689 16 11.0166 15.5523 11.0166 15V9C11.0166 8.44772 10.5689 8 10.0166 8H6.0166C5.46432 8 5.0166 8.44772 5.0166 9V11C5.0166 11.5523 4.56889 12 4.0166 12H3.0166V5H13.0166V15C13.0166 18.3137 10.3303 21 7.0166 21H5.0166Z"></path>
-                </svg>
-            </div>
-
-            <blockquote class="grow text-slate-600 dark:text-slate-300 italic leading-relaxed mb-6">
-                "{item.content.length > 180 ? item.content.substring(0, 180) + '...' : item.content}"
-            </blockquote>
+            <p class="grow text-slate-700 dark:text-slate-200 mb-6 leading-relaxed text-[15px]">
+                {item.content.length > 220 ? item.content.substring(0, 220) + '...' : item.content}
+            </p>
 
             <div class="flex items-center border-t border-slate-100 dark:border-slate-700 pt-6 mt-auto">
                 <div class="w-10 h-10 rounded-full bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-500 dark:text-slate-300 font-bold text-sm mr-3 flex-shrink-0">
                     {item.fullname.charAt(0)}
                 </div>
                 <div>
-                    <div class="font-bold text-slate-900 dark:text-white">{item.fullname}</div>
-                    <div class="text-xs text-slate-500 dark:text-slate-400">Ověřený klient</div>
+                    <div class="font-bold text-slate-900 dark:text-white text-sm">{item.fullname}</div>
+                    <div class="text-xs text-slate-400">Ověřený klient</div>
                 </div>
             </div>
 
@@ -51,9 +44,9 @@ const latestReferences = [...referencesData]
     </div>
 
     <div class="text-center">
-      <a href="/reference" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-full text-blue-700 bg-blue-100 hover:bg-blue-200 transition-colors md:py-4 md:text-lg md:px-10">
+      <a href="/reference" class="inline-flex items-center justify-center px-8 py-3.5 border border-transparent text-base font-bold rounded-full text-blue-700 bg-blue-50 hover:bg-blue-100 transition-colors shadow-sm hover:shadow">
         Zobrazit všechny reference
-        <svg class="w-5 h-5 ml-2 -mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m-4-4h8"></path></svg>
+        <svg class="w-5 h-5 ml-2 -mr-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m-4-4h8"></path></svg>
       </a>
     </div>
 
