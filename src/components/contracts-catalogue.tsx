@@ -20,6 +20,9 @@ interface ContractsCatalogueProps {
   postsPerPage?: number;
 }
 
+// Definujeme doménu pro absolutní odkazy
+const DOMAIN = "https://janjirek.cz";
+
 export default function ContractsCatalogue({
   contracts,
   postsPerPage = 3,
@@ -40,52 +43,54 @@ export default function ContractsCatalogue({
 
   return (
     <div className="mb-8">
-      {contracts.slice(0, visiblePosts).map((post, postIndex) => (
-        
-        // 🔥 KLÍČOVÁ OPRAVA 2: Obalujeme celou kartu do odkazu na kořenovou adresu /SLUG
-        <a 
-          key={post.id} 
-          href={`/${post.data.slug}`} 
-          className="group block relative"
-        >
-          <article
-            // ODSTRANĚNY KULATÉ ROHY (rounded-2xl)
-            className="bg-white dark:bg-slate-800 p-6 shadow-lg hover:shadow-xl transition-all duration-300 mb-8 border border-slate-100 dark:border-slate-700"
-          >
-            <div className="flex flex-col md:flex-row gap-6">
-              
-              {/* OBRÁZEK (Thumbnail) */}
-              <div className="relative md:w-1/3 shrink-0 aspect-video md:aspect-[4/3] overflow-hidden bg-slate-100 h-auto">
-                  {/* ODSTRANĚNY KULATÉ ROHY Z OBRÁZKU */}
-                  <img 
-                    src={post.thumbnail_url} 
-                    alt={post.data.title} 
-                    className="w-full h-full object-cover transition-transform duration-500 hover:scale-[1.05]" 
-                  />
-              </div>
+      {contracts.slice(0, visiblePosts).map((post, postIndex) => {
+        // Absolutní URL pro detail stránky (např. https://janjirek.cz/horni-redice)
+        const detailURL = `${DOMAIN}/${post.data.slug}`;
 
-              {/* TEXTOVÝ OBSAH */}
-              <div className="flex flex-col flex-grow pt-2">
-                <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
-                  {/* Zde je jen text, odkaz je na hlavní kartě */}
-                  <span className="group-hover:text-blue-600 transition-colors">
-                    {post.data.title}
-                  </span>
-                </h2>
-                <p className="text-sm text-slate-600 dark:text-slate-300 mb-4 line-clamp-3">{post.data.description}</p>
+        return (
+          // 1. CELÁ KARTA JE KLIKACÍ, ODKAZUJE NA ABSOLUTNÍ URL
+          <a 
+            key={post.id} 
+            href={detailURL} 
+            className="group block relative"
+          >
+            <article
+              className="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 mb-8 border border-slate-100 dark:border-slate-700"
+            >
+              <div className="flex flex-col md:flex-row gap-6">
                 
-                {/* Footer / CTA */}
-                <footer className="mt-auto pt-4 border-t border-slate-100 dark:border-slate-700">
-                  <div className="text-sm font-medium text-blue-600 transition-colors group-hover:text-blue-700 flex items-center gap-1">
-                    Zobrazit případovou studii
-                    <span className="tracking-normal text-blue-300 transition-transform duration-150 ease-in-out group-hover:translate-x-0.5">→</span>
-                  </div>
-                </footer>
+                {/* 2. OBRÁZEK (Thumbnail) - FIX: Přidán aspect-video (16:9) */}
+                <div className="relative md:w-1/3 shrink-0 aspect-video overflow-hidden rounded-xl bg-slate-100 h-auto">
+                    <img 
+                      src={post.thumbnail_url} 
+                      alt={post.data.title} 
+                      className="w-full h-full object-cover transition-transform duration-500 hover:scale-[1.05]" 
+                    />
+                </div>
+
+                {/* TEXTOVÝ OBSAH */}
+                <div className="flex flex-col flex-grow pt-2">
+                  <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+                    {/* Zde je jen text, odkaz je na hlavní kartě */}
+                    <span className="group-hover:text-blue-600 transition-colors">
+                      {post.data.title}
+                    </span>
+                  </h2>
+                  <p className="text-sm text-slate-600 dark:text-slate-300 mb-4 line-clamp-3">{post.data.description}</p>
+                  
+                  {/* Footer / CTA */}
+                  <footer className="mt-auto pt-4 border-t border-slate-100 dark:border-slate-700">
+                    <div className="text-sm font-medium text-blue-600 transition-colors group-hover:text-blue-700 flex items-center gap-1">
+                      Zobrazit případovou studii
+                      <span className="tracking-normal text-blue-300 transition-transform duration-150 ease-in-out group-hover:translate-x-0.5">→</span>
+                    </div>
+                  </footer>
+                </div>
               </div>
-            </div>
-          </article>
-        </a>
-      ))}
+            </article>
+          </a>
+        );
+      })}
 
       {/* Load more button */}
       {hasMorePosts && (
