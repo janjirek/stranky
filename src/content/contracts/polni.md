@@ -19,7 +19,7 @@ images:
   - polni-7
   - polni-8
   - polni-9
-slug: /polni
+slug: polni
 thumbnail: maxresdefault_1_jhrixg
 youtube_link: https://www.youtube.com/embed/P_EDs6usoDA?si=KrhH-zvX-GMK4OKu
 ---

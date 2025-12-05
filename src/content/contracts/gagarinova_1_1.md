@@ -18,7 +18,7 @@ images:
 - 1-1-Gagarinova-11
 - 1-1-Gagarinova-12
 - 1-1-Gagarinova-13
-slug: /1kk-gagarinova
+slug: 1kk-gagarinova
 thumbnail: 1-1-gagarinova-22
 youtube_link: https://www.youtube.com/embed/3MGJRWZctN8?si=Jz9k_JscX2uIM6dr
 ---

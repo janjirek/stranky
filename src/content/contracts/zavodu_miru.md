@@ -25,7 +25,7 @@ images:
 - zavodu_miru-7
 - zavodu_miru-8
 - zavodu_miru-9
-slug: /2-1-zavodu-miru
+slug: 2-1-zavodu-miru
 thumbnail: zavodu_miru-22
 youtube_link: https://www.youtube.com/embed/Dq_qcgsIXVg?si=qsD7stdQA-dDFJ90
 ---

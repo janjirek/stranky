@@ -64,7 +64,7 @@ images:
 location: Horní Ředice 7, 533 75 Horní Ředice
 mapy_link: https://mapy.com/s/nuvarakema
 youtube_link: https://www.youtube.com/embed/KrLUCkKXafk?si=t29vqR8lvWh6Y7Zx
-slug: /horni-redice
+slug: horni-redice
 ---
 
 Pokud hledáte místo, kde můžete kombinovat bydlení s podnikáním, nebo chcete velký pozemek a dostatek soukromí, tak vás může zaujmout rodinný dům, který se nachází v klidné obci Horní Ředice, v blízkosti Pardubic a Hradce Králové. 

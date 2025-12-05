@@ -15,7 +15,7 @@ images:
 - pronajem_havlickova-7
 - pronajem_havlickova-8
 - pronajem_havlickova-9
-slug: /pronajem-havlickova
+slug: pronajem-havlickova
 thumbnail: pronajem_havlickova
 
 

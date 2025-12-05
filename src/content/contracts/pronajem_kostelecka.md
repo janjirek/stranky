@@ -25,7 +25,7 @@ images:
   - pronajem-kostelecka-17
   - pronajem-kostelecka-18
   - pronajem-kostelecka-19
-slug: /pronajem-kostelecka
+slug: pronajem-kostelecka
 price: 13.500 Kč
 mapy_link: https://mapy.com/s/gapebagavo
 thumbnail: pronajem-kostelecka-13

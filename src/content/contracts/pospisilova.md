@@ -19,7 +19,7 @@ images:
   - pospisilova-6
   - pospisilova-8
   - pospisilova-9
-slug: /pospisilova
+slug: pospisilova
 thumbnail: pospisilova-7
 youtube_link: https://www.youtube.com/embed/kGbZQnxSDZA?si=nYmw1LjzdJZhdrYQ
 ---

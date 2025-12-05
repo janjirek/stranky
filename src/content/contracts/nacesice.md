@@ -28,7 +28,7 @@ images:
 - chata_hermanak-7
 - chata_hermanak-8
 - chata_hermanak-9
-slug: /chata-nacesice
+slug: chata-nacesice
 thumbnail: chata_hermanak-20
 youtube_link: https://www.youtube.com/embed/JCuIEHqiqyc?si=dF4DV8aBQYfjZSwc
 

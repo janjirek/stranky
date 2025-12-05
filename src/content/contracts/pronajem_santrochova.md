@@ -18,7 +18,7 @@ images:
 - pronajem_santrochova-7
 - pronajem_santrochova-8
 - pronajem_santrochova-9
-slug: /pronajem-santrochova
+slug: pronajem-santrochova
 thumbnail: pronajem_santrochova-8
 
 

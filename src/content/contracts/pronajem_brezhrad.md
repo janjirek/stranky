@@ -24,7 +24,7 @@ images:
 - pronajem_brezhrad-16
 - pronajem_brezhrad-17
 - pronajem_brezhrad-18
-slug: /pronajem-brezhrad
+slug: pronajem-brezhrad
 price: 16.000 Kč
 mapy_link: https://mapy.com/s/mupezopato
 thumbnail: pronajem_brezhrad-15

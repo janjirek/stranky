@@ -25,7 +25,7 @@ images:
 - jilemnickeho2217-7
 - jilemnickeho2217-8
 - jilemnickeho2217-9
-slug: /3-1-jilemnickeho
+slug: 3-1-jilemnickeho
 thumbnail: jilemnickeho2217-30
 youtube_link: https://www.youtube.com/embed/Ky4L0PCL-2E?si=NQQU_0MtF0QmII8_
 ---

@@ -44,23 +44,22 @@ export default function ContractsCatalogue({
   return (
     <div className="mb-8">
       {contracts.slice(0, visiblePosts).map((post, postIndex) => {
-        // Absolutní URL pro detail stránky (např. https://janjirek.cz/horni-redice)
         const detailURL = `${DOMAIN}/${post.data.slug}`;
 
         return (
-          // 1. CELÁ KARTA JE KLIKACÍ, ODKAZUJE NA ABSOLUTNÍ URL
+          // 1. CELÁ KARTA JE KLIKACÍ - ODSTRANĚNO ZAOBLENÍ (rounded-2xl)
           <a 
             key={post.id} 
             href={detailURL} 
             className="group block relative"
           >
             <article
-              className="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 mb-8 border border-slate-100 dark:border-slate-700"
+              className="bg-white dark:bg-slate-800 p-6 shadow-lg hover:shadow-xl transition-all duration-300 mb-8 border border-slate-100 dark:border-slate-700"
             >
               <div className="flex flex-col md:flex-row gap-6">
                 
-                {/* 2. OBRÁZEK (Thumbnail) - FIX: Přidán aspect-video (16:9) */}
-                <div className="relative md:w-1/3 shrink-0 aspect-video overflow-hidden rounded-xl bg-slate-100 h-auto">
+                {/* 2. OBRÁZEK (Thumbnail) - ODSTRANĚNO ZAOBLENÍ (rounded-xl) */}
+                <div className="relative md:w-1/3 shrink-0 aspect-video overflow-hidden bg-slate-100 h-auto">
                     <img 
                       src={post.thumbnail_url} 
                       alt={post.data.title} 
@@ -71,7 +70,6 @@ export default function ContractsCatalogue({
                 {/* TEXTOVÝ OBSAH */}
                 <div className="flex flex-col flex-grow pt-2">
                   <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
-                    {/* Zde je jen text, odkaz je na hlavní kartě */}
                     <span className="group-hover:text-blue-600 transition-colors">
                       {post.data.title}
                     </span>

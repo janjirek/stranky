@@ -20,7 +20,7 @@ images:
 - pronajem_stromovka-7
 - pronajem_stromovka-8
 - pronajem_stromovka-9
-slug: /pronajem-stromovka
+slug: pronajem-stromovka
 thumbnail: pronajem_stromovka-3
 
 

@@ -26,7 +26,7 @@ images:
 - pronajem_jiraskovo-7
 - pronajem_jiraskovo-8
 - pronajem_jiraskovo-9
-slug: /pronajem-jiraskovo
+slug: pronajem-jiraskovo
 thumbnail: pronajem_jiraskovo-4
 
 

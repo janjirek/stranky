@@ -26,7 +26,7 @@ images:
 - jilemnickeho1-1-20
 - jilemnickeho1-1-21
 
-slug: /1-1-jilemnickeho
+slug: 1-1-jilemnickeho
 thumbnail: jilemnickeho1-1-2
 youtube_link: https://www.youtube.com/embed/ueKYhV937NY?si=3MR5elMuxoMdAPQ4
 ---
