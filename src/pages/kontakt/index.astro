@@ -1,11 +1,10 @@
 ---
 import Layout from '@/layouts/Layout.astro';
 import ContactForm from '@/components/contactForm.tsx';
-import { Image } from 'astro:assets';
-import Stripes from '@/assets/images/stripes.svg';
 import { CldImage } from 'astro-cloudinary';
 import { render, getEntry } from 'astro:content';
 
+// Načtení dat (Zachováno pro funkčnost)
 const about = await getEntry('about', 'about');
 if (!about) {
   throw new Error('About entry not found');
@@ -25,117 +24,109 @@ export const metadata = {
 ---
 
 <Layout
-  title="Ing. Jan Jírek - Kontaktní Formulář"
-  description="Kontaktní formulář pro zaslání zprávy makléři Ing. Janu Jírkovi"
+  title={metadata.title}
+  description={metadata.description}
 >
-  <section class="relative mx-auto mb-8 max-w-7xl">
-    <!-- Circles -->
-    <div
-      class="pointer-events-none absolute -top-32 left-1/2 ml-[580px] -translate-x-1/2"
-      aria-hidden="true"
-    >
-      <div
-        class="h-80 w-80 rounded-full bg-linear-to-tr from-blue-500 opacity-50 blur-[160px] will-change-[filter]"
-      >
+  <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-24 bg-white dark:bg-slate-900">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      
+      <div class="text-center mb-16">
+        <h1 class="text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white sm:text-5xl md:text-6xl font-cabinet-grotesk mb-4">
+           Spojme se
+        </h1>
+        <p class="text-xl text-slate-600 dark:text-slate-300 max-w-2xl mx-auto">
+           Máte dotaz k prodeji, pronájmu nebo dědictví? Zavolejte mi, napište, nebo vyplňte formulář níže.
+        </p>
       </div>
-    </div>
-    <div
-      class="pointer-events-none absolute left-1/2 top-[420px] ml-[380px] -translate-x-1/2"
-      aria-hidden="true"
-    >
-      <div
-        class="h-80 w-80 rounded-full bg-linear-to-tr from-blue-500 to-gray-900 opacity-50 blur-[160px] will-change-[filter]"
-      >
-      </div>
-    </div>
-    <div
-      class="pointer-events-none absolute left-1/2 top-[640px] -ml-[300px] -translate-x-1/2"
-      aria-hidden="true"
-    >
-      <div
-        class="h-80 w-80 rounded-full bg-linear-to-tr from-blue-500 to-gray-900 opacity-50 blur-[160px] will-change-[filter]"
-      >
-      </div>
-    </div>
-    <div class="flex flex-col lg:flex-row-reverse">
-      <div class="relative w-full lg:w-1/2">
-        <div
-          class="pointer-events-none absolute left-1/2 top-0 -z-10 -translate-x-1/2 transform"
-          aria-hidden="true"
-        >
-          <Image class="max-w-none" src={Stripes} width={768} alt="Stripes" />
-        </div>
-        <div class="mt-20 h-full">
-          <div class="mx-auto flex h-full w-full max-w-md flex-col px-6 after:mt-auto after:flex-1">
-            <!-- Site header -->
-            <header class="mb-auto flex flex-1">
-              <div class="flex h-16 items-center justify-between md:h-20"></div>
-            </header>
 
-            <div class="flex-1 py-8">
-              <ContactForm client:load termsTitle={terms.data.title}>
-                <TermsContent />
-              </ContactForm>
+      <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 items-start">
+        
+        <div class="bg-slate-50 dark:bg-slate-800 rounded-3xl p-8 md:p-10 border border-slate-100 dark:border-slate-700 shadow-sm relative overflow-hidden">
+            
+            <div class="absolute top-0 right-0 -mr-10 -mt-10 w-40 h-40 rounded-full bg-blue-500 opacity-5"></div>
+
+            <div class="flex flex-col items-center md:items-start gap-6 mb-10">
+                <div class="relative shrink-0 w-32 h-32 md:w-40 md:h-40 rounded-2xl overflow-hidden shadow-md border-4 border-white dark:border-slate-700">
+                    <CldImage
+                      src="DZF_4387_PortraitHero_zjebu9_vunbdr"
+                      width={360}
+                      height={500}
+                      alt="Ing. Jan Jírek"
+                      sizes="100vw"
+                      crop="fill"
+                      class="w-full h-full object-cover"
+                    />
+                </div>
+
+                <div class="text-center md:text-left space-y-4 w-full">
+                    <div>
+                        <h2 class="text-2xl font-bold text-slate-900 dark:text-white">{about.data.name}</h2>
+                        <p class="text-slate-500 dark:text-slate-400 font-medium">Realitní makléř</p>
+                    </div>
+
+                    <div class="space-y-4 pt-4 border-t border-slate-200 dark:border-slate-700">
+                        <div class="group">
+                            <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">Telefon</label>
+                            <a href={`tel:${about.data.phone.replace(/\s/g, '')}`} class="block text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors font-cabinet-grotesk">
+                                {about.data.phone}
+                            </a>
+                        </div>
+
+                        <div class="group">
+                            <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">Email</label>
+                            <a href={`mailto:${about.data.email}`} class="block text-lg font-medium text-slate-800 dark:text-white hover:text-blue-600 transition-colors">
+                                {about.data.email}
+                            </a>
+                        </div>
+
+                        <div class="group">
+                            <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">IČO</label>
+                            <p class="text-slate-700 dark:text-slate-300">
+                                {about.data.ico}
+                            </p>
+                        </div>
+
+                         <div class="group">
+                            <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">Oblasti působení</label>
+                            <p class="text-slate-700 dark:text-slate-300">
+                                {about.data.area}
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Right side -->
-      <div class="relative mt-20 lg:w-1/2" aria-hidden="true">
-        <!-- Bg -->
-        <div
-          class="pointer-events-none absolute inset-0 -top-20 -z-10 bg-linear-to-b from-blue-100 to-white"
-          aria-hidden="true"
-        >
-        </div>
-
-        <!-- About -->
-        <div class="flex flex-col justify-end items-center h-full px-5 py-8 sm:px-6">
-          <!-- Photo -->
-          <div class="mx-auto">
-            <CldImage
-              src="DZF_4387_PortraitHero_zjebu9_vunbdr"
-              class="md:max-w-none"
-              width={360}
-              height={500}
-              alt="Hero Illustration"
-              sizes="100vw"
-              crop="fill"
-            />
-          </div>
-          <!-- Testimonial -->
-          <div
-            class="rounded-xl border border-sky-200 bg-sky-50 p-4 transition duration-150 ease-in-out hover:opacity-100 w-full"
-          >
-            <div class="flex items-center space-x-5">
-              <div class="relative shrink-0">
-                <svg
-                  class="absolute right-0 top-0 fill-blue-400"
-                  width="26"
-                  height="17"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M0 16.026h8.092l6.888-16h-4.592L0 16.026Zm11.02 0h8.092L26 .026h-4.65l-10.33 16Z"
-                  ></path>
-                </svg>
-              </div>
-              <figure>
-                <blockquote class="m-0 pb-1 font-bold">
-                  <p>{about.data.name}</p>
-                </blockquote>
-                <figcaption class="text-sm font-medium">Telefon: {about.data.phone}</figcaption>
-                <figcaption class="text-sm font-medium">Email: {about.data.email}</figcaption>
-                <figcaption class="text-sm font-medium">IČO: {about.data.ico}</figcaption>
-                <figcaption class="text-sm font-medium">
-                  Oblasti působení: {about.data.area}
-                </figcaption>
-              </figure>
+            
+            <div class="mt-8 rounded-xl overflow-hidden h-48 border border-slate-200 dark:border-slate-600 shadow-inner">
+                 <iframe
+                    class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2562.533892059754!2d15.767335677478632!3d50.03882921691461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6cf9f1714980ad9f%3A0xdd1b1a4edf8b4964!2zSW5nLiBKYW4gSsOtcmVrIOKAkyByZWFsaXRuw60gbWFrbMOpxZk!5e0!3m2!1scs!2scz!4v1753173552483!5m2!1scs!2scz"
+                    style="border:0;"
+                    allowfullscreen=""
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade">
+                  </iframe>
             </div>
-          </div>
+
         </div>
+
+        <div class="bg-white dark:bg-slate-900 pt-4 lg:pt-0">
+             <h3 class="text-2xl font-bold text-slate-900 dark:text-white mb-6">Napište mi zprávu</h3>
+             
+             <div class="contact-form-wrapper">
+                 <ContactForm client:load termsTitle={terms.data.title}>
+                    <TermsContent />
+                 </ContactForm>
+             </div>
+        </div>
+
       </div>
     </div>
   </section>
 </Layout>
+
+<style is:global>
+  /* Zde můžete případně doladit styly vnitřku formuláře, pokud by React komponenta měla divné marginy */
+  .contact-form-wrapper input, .contact-form-wrapper textarea {
+      @apply rounded-xl border-slate-200 focus:ring-blue-500 focus:border-blue-500;
+  }
+</style>
