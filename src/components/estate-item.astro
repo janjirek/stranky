@@ -27,7 +27,7 @@ const isSold = estate.tags.some(t => t.toLowerCase().includes('prodáno'));
 
 <article
   class:list={[
-    'group relative flex flex-col h-full bg-white dark:bg-slate-800 rounded-3xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-slate-100 dark:border-slate-700',
+    'group relative flex flex-col h-full bg-white dark:bg-slate-800 rounded-3xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 border border-slate-100 dark:border-slate-700',
     { 'pointer-events-none opacity-60 grayscale': isSold || isReserved }, 
     { 'opacity-100': !isHidden, 'opacity-0 hidden': isHidden }
   ]}
@@ -49,21 +49,22 @@ const isSold = estate.tags.some(t => t.toLowerCase().includes('prodáno'));
               {isSold ? 'Prodáno' : isReserved ? 'Rezervováno' : estate.type}
           </span>
       </div>
-
-      </div>
+  </div>
 
   <div class="p-6 flex flex-col flex-grow relative z-20 pointer-events-none">
       
-      <div class="flex items-center text-slate-500 dark:text-slate-400 text-sm uppercase font-bold tracking-wider mb-2">
-          <svg class="w-4 h-4 mr-1.5 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-          {estate.location}
+      <div class="flex items-start text-slate-500 dark:text-slate-400 text-sm uppercase font-bold tracking-wider mb-2">
+          <svg class="w-4 h-4 mr-1.5 text-blue-500 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+          <span class="w-full min-w-0">
+             {estate.location}
+          </span>
       </div>
 
       <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mb-2 leading-snug group-hover:text-blue-600 transition-colors font-cabinet-grotesk line-clamp-2">
           {estate.title}
       </h3>
 
-      <span class="text-2xl font-extrabold text-slate-900 dark:text-white mb-4">
+      <span class="text-2xl font-extrabold text-blue-600 dark:text-blue-400 mb-4">
           {estate.price}
       </span>
 
