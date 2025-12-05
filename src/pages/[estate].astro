@@ -3,57 +3,53 @@ import Layout from '../layouts/Layout.astro';
 import { getCollection, render } from 'astro:content';
 import { getCldImageUrl } from 'astro-cloudinary/helpers';
 import PageIllustration from '@/components/page-illustration.astro';
-import { Icon } from 'astro-icon/components'; 
+import { Icon } from 'astro-icon/components';
 import Stripes from '@/assets/images/stripes-dark.svg';
 import { Image } from 'astro:assets';
-import PhotoGallery from '@/components/photo-gallery'; 
+import PhotoGallery from '@/components/photo-gallery';
 
 export const prerender = true;
 
-// 🔥 KLÍČOVÁ OPRAVA: ZAJIŠTĚNÍ INTEGRITY DAT V getStaticPaths
 export async function getStaticPaths() {
   const estateEntries = await getCollection('catalogue');
-  
+
   return estateEntries
-    // 1. Důležitý filtr: Zabrání chybě, pokud některý MD soubor nemá 'slug' v frontmatteru
-    .filter(entry => entry.data.slug && typeof entry.data.slug === 'string') 
+    // Bezpečnostní filtr, aby build nepadal
+    .filter(entry => entry.data.slug && typeof entry.data.slug === 'string')
     .map((entry: any) => {
       return {
-        // Klíč parametru musí odpovídat názvu souboru [estate].astro
-        params: { estate: entry.data.slug }, 
+        params: { estate: entry.data.slug },
         props: { entry },
       };
     });
 }
 
-// Získání dat
+// Get the estate data from props
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
 // Dynamické sestavení galerie
 const photoGalleryData = [];
 const fullSizeImages = [];
-// Používáme kontrolu, aby kód neshodil build, pokud je pole images prázdné
 if (Array.isArray(entry.data.images)) {
-    for (const image of entry.data.images) {
-      const url = getCldImageUrl({ src: image, width: 600, height: 400 });
-      const fullSizeUrl = getCldImageUrl({ src: image });
-      photoGalleryData.push({ src: url, width: 600, height: 400 });
-      fullSizeImages.push({ src: fullSizeUrl });
-    }
+  for (const image of entry.data.images) {
+    const url = getCldImageUrl({ src: image, width: 600, height: 400 });
+    const fullSizeUrl = getCldImageUrl({ src: image });
+    photoGalleryData.push({ src: url, width: 600, height: 400 });
+    fullSizeImages.push({ src: fullSizeUrl });
+  }
 }
 
-// Bezpečné sestavení SEO popisku (odstraněna chyba 'měsíčně' u prodeje)
-const priceSuffix = entry.data.type.toLowerCase() === 'pronájem' ? ' měsíčně' : '';
-const enhancedDescription = `${entry.data.description} | Typ: ${entry.data.type} v ${entry.data.location.split(',')[0]}. Cena: ${entry.data.price} ${priceSuffix}. Profesionální realitní služby od Ing. Jana Jírka.`;
-
-// Přejmenování kvůli syntaxi
+// Sestavení SEO popisku
 const propertyDetails = {
     type: entry.data.type,
     location: entry.data.location,
     price: entry.data.price,
     propertyType: entry.data.type || 'Prodej',
 };
+
+const priceSuffix = entry.data.type.toLowerCase() === 'pronájem' ? ' měsíčně' : '';
+const enhancedDescription = `${entry.data.description} | Typ: ${entry.data.type} v ${entry.data.location.split(',')[0]}. Cena: ${entry.data.price} ${priceSuffix}. Profesionální realitní služby od Ing. Jana Jírka.`;
 
 // Create canonical URL
 const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
@@ -78,12 +74,11 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
     <PageIllustration />
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="pt-28 pb-8 md:pt-36 md:pb-16">
-        
-        {/* HLAVNÍ OBSAH */}
-        <div class="md:flex md:justify-between">
-          
-          <div class="md:grow">
-            
+
+        <div class="md:grid md:grid-cols-12 md:gap-10">
+
+          <div class="md:col-span-8">
+
             {/* Zpět na katalog odkaz */}
             <div class="pb-8">
               <div class="mb-4">
@@ -95,40 +90,9 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
                   Zpět na katalog nemovitostí
                 </a>
               </div>
-              
+
               {/* TITULEK NEMOVITOSTI */}
               <h1 class="text-4xl font-extrabold font-cabinet-grotesk mb-6">{entry.data.title}</h1>
-
-              {/* SEKCE DETAILY & CTA (Moderní lišta) */}
-              <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-5 mb-8 shadow-sm border border-gray-200 dark:border-gray-700 md:flex md:justify-between md:items-center">
-                  
-                  {/* CENA A LOKALITA */}
-                  <div class="mb-4 md:mb-0">
-                      <p class="text-xs uppercase font-medium text-gray-500 dark:text-gray-400 mb-1">
-                          {entry.data.location}
-                      </p>
-                      <span class="text-3xl font-extrabold text-blue-600 dark:text-blue-400 font-cabinet-grotesk">
-                          {entry.data.price}
-                      </span>
-                  </div>
-
-                  {/* TLAČÍTKO KONTAKT */}
-                  <div class="w-full md:w-auto">
-                    <a
-                      class="btn w-full md:w-auto text-white bg-blue-600 hover:bg-blue-700 group shadow-lg px-6 py-3 rounded-xl"
-                      href="/kontakt"
-                    >
-                      Kontaktovat makléře
-                      <span
-                        class="tracking-normal text-indigo-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1"
-                      >
-                        ->
-                      </span>
-                    </a>
-                  </div>
-
-              </div>
-              {/* Konec CTA boxu */}
 
               {/* PŮVODNÍ MD OBSAH */}
               <div
@@ -138,11 +102,41 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
               </div>
             </div>
           </div>
-          
-          {/* Původní Sidebar/Aside je ZRUŠEN */}
+
+          <aside class="md:col-span-4 mt-12 md:mt-0">
+              <div data-sticky data-sticky-for="991" data-margin-top="100">
+                  {/* Box se základním infem a CTA */}
+                  <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-6 shadow-2xl border border-gray-200 dark:border-gray-700">
+                      <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mb-4 border-b pb-3 border-gray-200 dark:border-gray-700">Základní informace</h3>
+
+                      {/* CENA */}
+                      <div class="mb-4">
+                          <p class="text-xs uppercase font-medium text-gray-500 dark:text-gray-400 mb-1">Cena</p>
+                          <span class="text-3xl font-extrabold text-blue-600 dark:text-blue-400 font-cabinet-grotesk">
+                              {entry.data.price}
+                          </span>
+                      </div>
+
+                      {/* LOKALITA */}
+                      <div class="mb-6">
+                          <p class="text-xs uppercase font-medium text-gray-500 dark:text-gray-400 mb-1">Lokalita</p>
+                          <p class="text-lg font-bold text-slate-900 dark:text-white">{entry.data.location}</p>
+                      </div>
+
+                      {/* TLAČÍTKO KONTAKT */}
+                      <a
+                          class="btn w-full text-white bg-blue-600 hover:bg-blue-700 group shadow-lg px-6 py-3 rounded-xl justify-center text-center"
+                          href="/kontakt"
+                      >
+                          Kontaktovat makléře
+                          <span class="tracking-normal text-indigo-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-></span>
+                      </a>
+                  </div>
+              </div>
+          </aside>
         </div>
         <hr class="mt-8 mb-14" />
-        
+
         {/* Galerie a YouTube */}
         <section>
           <div class="mx-auto max-w-6xl px-4 sm:px-6">
@@ -150,8 +144,6 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
               class="relative overflow-hidden rounded-2xl text-center shadow-xl before:pointer-events-none before:absolute before:inset-0 before:-z-10 before:rounded-2xl before:bg-gray-900"
               data-aos="zoom-y-out"
             >
-              
-              {/* Glow a Stripes - Zachováno */}
               <div
                 class="absolute bottom-0 left-1/2 -z-10 -translate-x-1/2 translate-y-1/2"
                 aria-hidden="true"
@@ -212,3 +204,9 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
     </div>
   </section>
 </Layout>
+
+<script>
+  // @ts-ignore
+  import Sticky from 'sticky-js';
+  const sticky = new Sticky('[data-sticky]');
+</script>
