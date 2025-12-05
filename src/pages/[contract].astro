@@ -3,7 +3,6 @@ import Layout from '../layouts/Layout.astro';
 import { getCollection, render } from 'astro:content';
 import { getCldImageUrl } from 'astro-cloudinary/helpers';
 import PageIllustration from '@/components/page-illustration.astro';
-import { Icon } from 'astro-icon/components';
 import Stripes from '@/assets/images/stripes-dark.svg';
 import { Image } from 'astro:assets';
 import PhotoGallery from '@/components/photo-gallery';
@@ -77,26 +76,16 @@ const canonicalURL = `https://janjirek.cz/zakazky/${entry.data.slug}`;
                   {/* Box výsledku a CTA */}
                   <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-6 shadow-2xl border border-gray-200 dark:border-gray-700">
                       
-                      <div class="text-center">
+                      {/* VÝZVA A POPIS - Pouze toto zůstává nahoře */}
+                      <div class="text-center mb-6"> 
                           <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mb-3 border-b pb-3 border-gray-200 dark:border-gray-700">
                               Zajímá vás, jak to proběhlo?
                           </h3>
-                          <p class="text-sm text-gray-600 dark:text-gray-400 mb-6">
-                              Tato zakázka byla úspěšně realizována.
+                          <p class="text-sm text-gray-600 dark:text-gray-400">
+                              Tato zakázka byla úspěšně realizována. Prohlédněte si detaily.
                           </p>
                       </div>
 
-                      {/* STATUS / TYP ZAKÁZKY */}
-                      <div class="mb-6 border-b pb-4 border-gray-200 dark:border-gray-700">
-                          <p class="text-xs uppercase font-medium text-gray-500 dark:text-gray-400 mb-1">Typ transakce</p>
-                          <span class="text-xl font-extrabold text-blue-600 dark:text-blue-400 font-cabinet-grotesk">
-                              {entry.data.type}
-                          </span>
-                          <p class="mt-2 text-xs uppercase font-medium text-gray-500 dark:text-gray-400">
-                              Dokončeno: {entry.data.date.toLocaleDateString('cs-CZ', { year: 'numeric', month: 'long', day: 'numeric' })}
-                          </p>
-                      </div>
-                      
                       {/* TLAČÍTKO KONTAKT */}
                       <a
                           class="btn w-full text-white bg-blue-600 hover:bg-blue-700 group shadow-lg px-6 py-3 rounded-xl justify-center text-center"
@@ -120,7 +109,6 @@ const canonicalURL = `https://janjirek.cz/zakazky/${entry.data.slug}`;
           {/* LEVÝ SLOUPEC: OBSAH (8/12 = cca 66%) */}
           <div class="md:col-span-8 md:order-0">
 
-            {/* Zpět na katalog odkaz (Nyní odstraněn, protože ho máme v sidebaru) */}
             <div class="pb-8">
               
               {/* TITULEK NEMOVITOSTI */}
