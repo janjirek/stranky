@@ -5,13 +5,15 @@ import { getCollection } from 'astro:content';
 // Předpokládáme, že kolekce se jmenuje 'catalogue'
 const entries = (await getCollection('catalogue')).sort((a, b) => {
   // Řadit od nejnovějšího
-  return b.data.date.valueOf() - a.data.date.valueOf();
+  // Pokud nemáte v date Date objekt, použijte b.data.date - a.data.date
+  return b.data.date.valueOf() - a.data.date.valueOf(); 
 });
 
 const estates = entries.map(entry => {
   return {
     ...entry.data,
-    slug: entry.slug, // Zde přidáváme slug, aby fungoval odkaz v EstateItem
+    // 🔥 KLÍČOVÁ OPRAVA: PŘIDÁNÍ SLUGU Z ENTRY
+    slug: entry.slug, 
   };
 });
 ---

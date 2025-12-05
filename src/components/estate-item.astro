@@ -8,7 +8,7 @@ interface Props {
     thumbnail: string; // Cloudinary ID
     price: string;
     location: string;
-    slug: string; // Tuto hodnotu musíme mít pro odkaz na detail
+    slug: string; // Tuto hodnotu nyní budeme dostávat
     tags: string[];
   };
   isHidden?: boolean;
@@ -28,12 +28,11 @@ const isSold = estate.tags.some(t => t.toLowerCase().includes('prodáno'));
 <article
   class:list={[
     'group relative flex flex-col h-full bg-white dark:bg-slate-800 rounded-3xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-slate-100 dark:border-slate-700',
-    // Šedý filtr a snížení opacity pro prodané/rezervované nemovitosti
     { 'pointer-events-none opacity-60 grayscale': isSold || isReserved }, 
     { 'opacity-100': !isHidden, 'opacity-0 hidden': isHidden }
   ]}
 >
-  <a href={`/nemovitosti/${estate.slug}`} class="absolute inset-0 z-10" aria-label={estate.title}></a>
+  <a href={`/${estate.slug}`} class="absolute inset-0 z-10" aria-label={estate.title}></a>
 
   <div class="relative aspect-[4/3] overflow-hidden bg-slate-200">
       <CldImage
