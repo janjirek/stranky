@@ -117,12 +117,21 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
                           </span>
                       </div>
 
-                      {/* LOKALITA */}
+                      {/* LOKALITA - FIX: Nyní klikatelný odkaz na mapy */}
                       <div class="mb-6">
                           <p class="text-xs uppercase font-medium text-gray-500 dark:text-gray-400 mb-1">Lokalita</p>
-                          <p class="text-lg font-bold text-slate-900 dark:text-white">{entry.data.location}</p>
+                          <a 
+                            href={entry.data.mapy_link} 
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            class="text-lg font-bold text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 transition-colors flex items-center group"
+                          >
+                            {entry.data.location}
+                            {/* Ikona šipky pro indikaci externího odkazu */}
+                            <svg class="w-4 h-4 ml-2 mt-0.5 text-blue-400 dark:text-blue-300 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                          </a>
                       </div>
-
+                      
                       {/* TLAČÍTKO KONTAKT */}
                       <a
                           class="btn w-full text-white bg-blue-600 hover:bg-blue-700 group shadow-lg px-6 py-3 rounded-xl justify-center text-center"
