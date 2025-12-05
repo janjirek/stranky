@@ -13,6 +13,7 @@ export default function MobileMenu() {
 const sluzbyItems: DropdownItem[] = [
     { href: '/sluzby/prodej', label: 'Prodej Nemovitostí' },
     { href: '/sluzby/pronajem', label: 'Pronájem Nemovitostí' },
+    { href: '/sluzby/koupe', label: 'Koupě Nemovitostí' },
     { href: '/sluzby/dedictvi', label: 'Dědické Řízení' },
   ];
 

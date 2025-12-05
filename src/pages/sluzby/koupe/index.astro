@@ -1,0 +1,19 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import Hero from './hero.astro';
+// Import komponenty s obsahem (kterou jsme vytvořili dříve)
+import BuyContent from '@/components/buy-content.astro';
+
+export const metadata = {
+  title: 'Zastupování při koupi nemovitosti | Ing. Jan Jírek',
+  description: 'Kupujete nemovitost? Zastoupím vás při jednání, prověřím technický i právní stav a vyjednám lepší cenu. Bezpečný nákup nemovitosti.',
+};
+---
+
+<Layout
+  title={metadata.title}
+  description={metadata.description}
+>
+  <Hero />
+  <BuyContent />
+</Layout>
