@@ -1,72 +1,80 @@
+---
+import { CldImage } from 'astro-cloudinary';
+
+interface Props {
+  estate: {
+    title: string;
+    type: string; // "prodej" nebo "pronájem"
+    thumbnail: string; // Cloudinary ID
+    price: string;
+    location: string;
+    slug: string; // Nyní už víme, že obsahuje např. 'rd-konopac'
+    tags: string[];
+  };
+  isHidden?: boolean;
+}
+
+const { estate, isHidden } = Astro.props;
+
+// Logika pro barvu štítku podle typu
+const isRent = estate.type.toLowerCase().includes('pronájem');
+const typeColor = isRent ? 'bg-orange-600' : 'bg-blue-600';
+
+// Zjištění statusu (např. Prodáno / Rezervováno) z pole tags
+const isReserved = estate.tags.some(t => t.toLowerCase().includes('rezerv'));
+const isSold = estate.tags.some(t => t.toLowerCase().includes('prodáno'));
+---
+
 <article
-  class={[
-    'group relative flex h-full flex-col justify-between rounded-3xl bg-white p-4 shadow-sm transition-shadow hover:shadow-lg',
-    { 'pointer-events-none opacity-15': isHidden },
+  class:list={[
+    'group relative flex flex-col h-full bg-white dark:bg-slate-800 rounded-3xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-slate-100 dark:border-slate-700',
+    { 'pointer-events-none opacity-60 grayscale': isSold || isReserved }, 
+    { 'opacity-100': !isHidden, 'opacity-0 hidden': isHidden }
   ]}
 >
-  <header>
-    <div class="group relative mb-6 overflow-hidden border border-blue-300">
-      {/* OBRÁZEK – ODKAZ NA DETAIL */}
-      <a href={`/${estate.slug}/`} tabindex="-1">
-        <span class="aspect-101/64 w-full object-cover transition ease-out">
-          <CldImage
-            src={estate.thumbnail}
-            width={404}
-            height={256}
-            alt={estate.title}
-            loading="lazy"
-          />
-        </span>
-      </a>
+  <a href={`/${estate.slug}`} class="absolute inset-0 z-10" aria-label={estate.title}></a>
 
-      {/* Štítek typu (prodej/pronájem atd.) */}
-      <div class="absolute left-4 top-4 rounded-full bg-white/90 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-blue-600 shadow-sm">
-        {estate.type}
-      </div>
-    </div>
-
-    {/* NADPIS – TAKY ODKAZ NA DETAIL */}
-    <h3 class="mb-2 font-cabinet-grotesk text-lg font-semibold">
-      <a
-        class="text-black transition hover:text-blue-700"
-        href={`/${estate.slug}/`}
-      >
-        {estate.title}
-      </a>
-    </h3>
-  </header>
-
-  <footer class="mt-3 flex items-center justify-between gap-3">
-    <div class="text-sm font-medium text-gray-900">
-      <span>{estate.location}</span>
-
-      <div class="mt-2 flex flex-wrap gap-2">
-        {
-          estate.tags.map((tag) => (
-            <span class="rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-600">
-              {tag}
-            </span>
-          ))
-        }
+  <div class="relative aspect-[4/3] overflow-hidden bg-slate-200">
+      <CldImage
+        src={estate.thumbnail}
+        width={800}
+        height={600}
+        crop="fill"
+        alt={estate.title}
+        class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+      />
+      
+      <div class="absolute top-4 left-4 flex flex-col gap-2 z-20">
+          <span class={`px-3 py-1.5 text-xs font-bold uppercase tracking-wider rounded-lg text-white shadow-md ${isSold || isReserved ? 'bg-slate-500' : typeColor}`}>
+              {isSold ? 'Prodáno' : isReserved ? 'Rezervováno' : estate.type}
+          </span>
       </div>
 
-      <div class="mt-2 flex items-center">
-        <span
-          class="relative inline-flex text-xl text-blue-500 before:absolute before:-inset-2 before:-z-10 before:rounded-full before:bg-sky-200 before:opacity-30 dark:before:bg-sky-500"
-        >
-          {estate.price}
-        </span>
+      <div class="absolute bottom-4 right-4 z-20">
+           <span class="px-4 py-2 text-lg font-extrabold bg-white/95 backdrop-blur-sm text-slate-900 rounded-xl shadow-lg font-cabinet-grotesk">
+              {estate.price}
+           </span>
       </div>
-    </div>
+  </div>
 
-    {/* VOLITELNÉ TLAČÍTKO – ODKAZ NA DETAIL */}
-    <div class="mt-2">
-      <a
-        href={`/${estate.slug}/`}
-        class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-700"
-      >
-        Zobrazit detail →
-      </a>
-    </div>
-  </footer>
+  <div class="p-6 flex flex-col flex-grow relative z-20 pointer-events-none">
+      
+      <div class="flex items-center text-slate-500 dark:text-slate-400 text-sm uppercase font-bold tracking-wider mb-2">
+          <svg class="w-4 h-4 mr-1.5 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+          {estate.location}
+      </div>
+
+      <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mb-4 leading-snug group-hover:text-blue-600 transition-colors font-cabinet-grotesk line-clamp-2">
+          {estate.title}
+      </h3>
+
+      <div class="mt-auto pt-4 border-t border-slate-100 dark:border-slate-700">
+          <div class="flex items-center justify-center w-full py-2.5 text-sm font-bold text-slate-700 bg-slate-50 hover:bg-blue-50 hover:text-blue-600 rounded-xl transition-colors shadow-sm">
+              Zobrazit detail
+              <svg class="w-4 h-4 ml-2 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+          </div>
+      </div>
+
+  </div>
+
 </article>
