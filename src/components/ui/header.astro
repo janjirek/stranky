@@ -1,6 +1,5 @@
 ---
 import { Image } from 'astro:assets';
-// Zde použijeme vaše původní obdélníkové logo, protože teď na něj bude místo!
 import Logo from './logo.astro'; 
 import MobileMenu from './mobile-menu.tsx';
 import Dropdown from './dropdown.tsx';
@@ -30,7 +29,7 @@ const sluzbyItems = [
       </div>
 
       <nav class="hidden md:flex md:grow justify-center">
-        <ul class="flex flex-wrap items-center gap-6 text-sm font-medium lg:gap-8">
+        <ul class="flex flex-wrap items-center gap-5 text-base font-medium lg:gap-8">
           <li>
             <a href="/" class="text-gray-700 hover:text-blue-600 transition-colors">
               Úvod
@@ -68,7 +67,7 @@ const sluzbyItems = [
       </nav>
 
       <div class="hidden md:flex items-center justify-end gap-3">
-        <a href="/kontakt" class="btn-sm bg-gray-900 text-white shadow-lg hover:bg-blue-600 hover:shadow-xl transition-all duration-300 px-6 py-2.5 rounded-full">
+        <a href="/kontakt" class="btn bg-gray-900 text-white text-base shadow-lg hover:bg-blue-600 hover:shadow-xl transition-all duration-300 px-6 py-2.5 rounded-full">
           Kontakt
         </a>
       </div>
