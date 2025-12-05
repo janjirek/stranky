@@ -16,7 +16,6 @@ export const metadata = {
 };
 
 // Define dropdown items for Služby
-
 const sluzbyItems = [
   { href: '/sluzby/prodej', label: 'Prodej Nemovitostí' },
   { href: '/sluzby/pronajem', label: 'Pronájem Nemovitostí' },
@@ -29,16 +28,11 @@ const sluzbyItems = [
     <div
       class="relative flex h-14 items-center justify-between gap-3 rounded-2xl bg-white/90 px-3 shadow-lg shadow-black/[0.03] backdrop-blur-xs before:pointer-events-none before:absolute before:inset-0 before:rounded-[inherit] before:border before:border-transparent before:[background:linear-gradient(var(--color-gray-100),var(--color-gray-200))_border-box] before:[mask-composite:exclude_!important] before:[mask:linear-gradient(white_0_0)_padding-box,_linear-gradient(white_0_0)]"
     >
-      <!-- Site branding -->
       <div class="flex flex-1 items-center">
-        <a href="/" class="inline-flex" aria-label="www.janjirek.cz">
-          <Logo />
-        </a>
+        <Logo />
       </div>
 
-      <!-- Desktop navigation -->
       <nav class="hidden md:flex md:grow">
-        <!-- Desktop menu links -->
         <ul class="flex grow flex-wrap items-center justify-center gap-4 text-sm lg:gap-8">
           <li class="px-3 py-1">
             <a href="/" class="flex items-center text-gray-700 transition hover:text-gray-900">
@@ -88,7 +82,6 @@ const sluzbyItems = [
         </ul>
       </nav>
 
-      <!-- Desktop sign in links -->
       <ul class="flex flex-1 items-center justify-end gap-3">
         <li>
           <a href="/kontakt" class="btn-sm bg-gray-800 text-gray-200 shadow-sm hover:bg-gray-900">
