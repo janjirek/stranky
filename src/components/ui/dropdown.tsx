@@ -43,7 +43,8 @@ export default function Dropdown({ label, items, className = '' }: DropdownProps
     <div ref={dropdownRef} className={`relative ${className}`}>
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center text-gray-700 transition hover:text-gray-900 cursor-pointer"
+        // ZMĚNA: hover:text-blue-600 (místo gray-900)
+        className="flex items-center text-gray-700 transition hover:text-blue-600 cursor-pointer font-medium"
         aria-expanded={isOpen}
         aria-haspopup="true"
       >
@@ -59,12 +60,13 @@ export default function Dropdown({ label, items, className = '' }: DropdownProps
       </button>
 
       {isOpen && (
-        <div className="absolute left-0 top-full z-50 mt-2 min-w-48 rounded-lg bg-white shadow-lg shadow-black/[0.03] border border-gray-200 py-2">
+        <div className="absolute left-0 top-full z-50 mt-2 min-w-48 rounded-xl bg-white shadow-xl border border-gray-100 py-2 overflow-hidden">
           {items.map((item, index) => (
             <a
               key={index}
               href={item.href}
-              className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition-colors cursor-pointer"
+              // ZMĚNA: Modré podbarvení a text při najetí, font-medium
+              className="block px-4 py-2.5 text-sm font-medium text-gray-600 hover:text-blue-700 hover:bg-blue-50 transition-colors cursor-pointer"
               onClick={() => setIsOpen(false)}
             >
               {item.label}
