@@ -3,9 +3,12 @@ import Layout from '@/layouts/Layout.astro';
 import Hero from './hero.astro';
 import Content from './content.astro';
 import Location from '@/components/locations.astro';
-// Cta už nepotřebujeme, nahrazujeme ho vlastním kódem
 import { Image } from 'astro:assets';
+
+// Importy obrázků
 import Portrait from '@/assets/images/portrait.png';
+// ZMĚNA: Nyní odkazujeme na přejmenovaný soubor family.jpg
+import FamilyPhoto from '@/assets/images/family.jpg'; 
 
 export const metadata = {
   title: 'Ing. Jan Jírek - O mně',
@@ -18,7 +21,44 @@ export const metadata = {
   description="Ing. Jan Jírek - Informační stránka o mně a mém působení"
 >
   <Hero />
+
   <Content />
+
+  <section class="py-16 bg-slate-50 dark:bg-slate-900/50 border-y border-slate-100 dark:border-slate-800">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex flex-col md:flex-row items-center gap-12 md:gap-16">
+        
+        <div class="w-full md:w-1/2 relative group" data-aos="fade-right">
+           <div class="absolute inset-0 bg-blue-600 rounded-3xl rotate-2 opacity-10 group-hover:rotate-4 transition-transform duration-500"></div>
+           
+           <div class="relative rounded-3xl overflow-hidden shadow-lg aspect-[4/3]">
+             <Image 
+               src={FamilyPhoto} 
+               alt="Jan Jírek s rodinou na procházce" 
+               class="w-full h-full object-cover transform transition-transform duration-700 group-hover:scale-105"
+             />
+           </div>
+        </div>
+
+        <div class="w-full md:w-1/2" data-aos="fade-left">
+          <h3 class="text-3xl font-cabinet-grotesk font-bold text-slate-900 dark:text-white mb-6">
+            Nejsem jen makléř. <span class="text-blue-600">Jsem táta.</span>
+          </h3>
+          
+          <div class="prose prose-lg text-slate-600 dark:text-slate-300">
+            <p>
+              Když zrovna neběhám po prohlídkách nebo neřeším smlouvy, věnuji se tomu nejdůležitějšímu – své rodině. Být otcem mě naučilo trpělivosti, empatii a zodpovědnosti, což jsou hodnoty, které přirozeně přenáším i do své práce.
+            </p>
+            <p>
+              Moc dobře vím, že prodej nebo koupě domova je obrovský životní krok, který často ovlivní celou rodinu na roky dopředu. Proto k vašemu bydlení přistupuji se stejnou péčí a opatrností, jako bych hledal domov pro nás.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
   <Location />
 
   <section class="px-4 sm:px-6 pb-20">
@@ -64,7 +104,7 @@ export const metadata = {
           <div class="absolute top-0 right-0 -mr-16 -mt-16 w-64 h-64 rounded-full bg-blue-500 opacity-10"></div>
           <div class="absolute bottom-0 left-0 -ml-16 -mb-16 w-40 h-40 rounded-full bg-white opacity-5"></div>
 
-          <h3 class="text-2xl md:text-3xl font-bold mb-4 relative z-10">
+          <h3 class="text-2xl md:text-3xl font-bold mb-4 relative z-10 font-cabinet-grotesk">
               Hledáte partnera, na kterého se můžete spolehnout?
           </h3>
           
