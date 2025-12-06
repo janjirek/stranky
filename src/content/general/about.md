@@ -38,8 +38,6 @@ Nehraji si na "mága realit". Nejsem ten typ makléře, který skáče do bazén
 * **Investice do marketingu:** Profesionální fotky, video, web nemovitosti a placená reklama nejsou "extra služby", ale můj standard. Tyto náklady beru na sebe.
 * **Férovost:** Neslibuji nemožné a nelakuji věci na růžovo. Upřímnost šetří čas všem a vede k obchodu bez nepříjemných překvapení.
 
----
-
 ### Nejsem jen makléř. Jsem táta.
 
 Když zrovna neběhám po prohlídkách nebo neřeším smlouvy, věnuji se tomu nejdůležitějšímu – své rodině. 
@@ -52,6 +50,4 @@ Férovost, zodpovědnost a lidský přístup pro mě nejsou jen prázdná slova 
 
 Vše dělám tak, abych se kdykoliv mohl za svou prací ohlédnout a **nemusel se stydět**. Mým cílem je, abyste prodali za co nejlepší cenu, ale zároveň měli jistotu, že je vše po právní i faktické stránce v pořádku.
 
-Chci, abychom si i po letech, až se potkáme ve městě, mohli s úsměvem podat ruku.
-
-Pokud to máte stejně, pojďme se nezávazně pobavit o vaší nemovitosti.
+Chci, abychom si i po letech, až se potkáme, mohli s úsměvem podat ruku.
