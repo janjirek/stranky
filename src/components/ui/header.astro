@@ -16,7 +16,8 @@ export const metadata = {
 const sluzbyItems = [
   { href: '/sluzby/prodej', label: 'Prodej Nemovitostí' },
   { href: '/sluzby/pronajem', label: 'Pronájem Nemovitostí' },
-  { href: '/sluzby/koupe', label: 'Koupě Nemovitostí' },
+  // Doporučuji název "Zastupování při koupi", aby to neznělo jako nabídka domů, ale služba
+  { href: '/sluzby/koupe', label: 'Zastupování při koupi' }, 
   { href: '/sluzby/dedictvi', label: 'Dědické Řízení' },
 ];
 ---
@@ -26,7 +27,7 @@ const sluzbyItems = [
     <div class="flex h-20 items-center justify-between gap-6">
       
       <div class="flex flex-shrink-0 items-center">
-        <Logo />
+        <Logo variant="dark" />
       </div>
 
       <nav class="hidden md:flex md:grow justify-center">

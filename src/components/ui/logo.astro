@@ -1,14 +1,33 @@
 ---
-import { CldImage } from 'astro-cloudinary';
+import { Image } from 'astro:assets';
+
+// Import obou variant loga
+// Ujistěte se, že soubory existují v src/assets/images/
+import logoDark from '@/assets/images/logo-dark.png';
+import logoWhite from '@/assets/images/logo-white.png';
+
+interface Props {
+  variant?: 'dark' | 'white';
+}
+
+// Výchozí je 'dark' (černé logo), pokud variantu nezadáte
+const { variant = 'dark' } = Astro.props;
 ---
 
-<a href="/" class="inline-flex" aria-label="www.janjirek.cz">
-  <CldImage
-    src="vodoznak_iwwfph_srrp4v"
-    width={190}
-    height={40}
-    alt="www.janjirek.cz"
-    sizes="100vw"
-    crop="fill"
-  />
+<a href="/" class="inline-block focus:outline-none" aria-label="Jan Jírek - Domů">
+  {variant === 'dark' ? (
+    <Image
+      src={logoDark}
+      alt="Ing. Jan Jírek"
+      class="h-10 w-auto object-contain"
+      loading="eager"
+    />
+  ) : (
+    <Image
+      src={logoWhite}
+      alt="Ing. Jan Jírek"
+      class="h-10 w-auto object-contain"
+      loading="eager"
+    />
+  )}
 </a>

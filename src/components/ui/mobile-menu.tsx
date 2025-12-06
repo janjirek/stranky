@@ -8,13 +8,13 @@ interface DropdownItem {
 export default function MobileMenu() {
   const [mobileNavOpen, setMobileNavOpen] = useState<boolean>(false);
   const [sluzbyOpen, setSluzbyOpen] = useState<boolean>(false);
-  
-// Define dropdown items for Služby
-const sluzbyItems: DropdownItem[] = [
+
+  // Define dropdown items for Služby
+  const sluzbyItems: DropdownItem[] = [
     { href: '/sluzby/prodej', label: 'Prodej Nemovitostí' },
     { href: '/sluzby/pronajem', label: 'Pronájem Nemovitostí' },
-    { href: '/sluzby/koupe', label: 'Koupě Nemovitostí' },
     { href: '/sluzby/dedictvi', label: 'Dědické Řízení' },
+    { href: '/sluzby/koupe', label: 'Zastupování při koupi' },
   ];
 
   const trigger = useRef<HTMLButtonElement>(null);
@@ -104,7 +104,7 @@ const sluzbyItems: DropdownItem[] = [
             <li>
               <a
                 href="/o-mne"
-                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-gray-100"
+                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors font-medium"
                 onClick={() => setMobileNavOpen(false)}
               >
                 O mně
@@ -113,7 +113,7 @@ const sluzbyItems: DropdownItem[] = [
             <li>
               <a
                 href="/reference"
-                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-gray-100"
+                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors font-medium"
                 onClick={() => setMobileNavOpen(false)}
               >
                 Reference
@@ -122,15 +122,15 @@ const sluzbyItems: DropdownItem[] = [
             <li>
               <a
                 href="/nemovitosti"
-                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-gray-100"
+                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors font-medium"
                 onClick={() => setMobileNavOpen(false)}
               >
-                Nabídka Nemovitostí
+                Nemovitosti
               </a>
             </li>
             <li>
               <button
-                className="flex w-full items-center justify-between rounded-lg px-2 py-1.5 text-gray-700 hover:bg-gray-100"
+                className="flex w-full items-center justify-between rounded-lg px-2 py-1.5 text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors font-medium"
                 onClick={() => setSluzbyOpen(!sluzbyOpen)}
               >
                 Služby
@@ -156,7 +156,7 @@ const sluzbyItems: DropdownItem[] = [
                     <li key={index}>
                       <a
                         href={item.href}
-                        className="flex rounded-lg px-2 py-1.5 text-sm text-gray-600 hover:bg-gray-100"
+                        className="flex rounded-lg px-2 py-1.5 text-sm text-gray-600 hover:bg-blue-50 hover:text-blue-700 transition-colors"
                         onClick={() => {
                           setMobileNavOpen(false);
                           setSluzbyOpen(false);
@@ -172,7 +172,7 @@ const sluzbyItems: DropdownItem[] = [
             <li>
               <a
                 href="/clanky"
-                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-gray-100"
+                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors font-medium"
                 onClick={() => setMobileNavOpen(false)}
               >
                 Články
@@ -181,7 +181,7 @@ const sluzbyItems: DropdownItem[] = [
             <li>
               <a
                 href="/zakazky"
-                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-gray-100"
+                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors font-medium"
                 onClick={() => setMobileNavOpen(false)}
               >
                 Realizované Zakázky
@@ -190,7 +190,7 @@ const sluzbyItems: DropdownItem[] = [
             <li>
               <a
                 href="/kontakt"
-                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-gray-100"
+                className="flex rounded-lg px-2 py-1.5 text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors font-medium"
                 onClick={() => setMobileNavOpen(false)}
               >
                 Kontakt
