@@ -18,10 +18,10 @@ const sortedReferences = [...referencesData].sort((a, b) => b.id - a.id);
 >
   <section class="relative pt-32 pb-12 lg:pt-40 lg:pb-16 bg-white dark:bg-slate-900 overflow-hidden">
      <div class="relative z-10 mx-auto max-w-6xl px-4 sm:px-6 text-center">
-        <h1 class="text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white sm:text-5xl md:text-6xl font-cabinet-grotesk mb-6">
+        <h1 class="text-3xl md:text-4xl font-bold font-cabinet-grotesk text-slate-900 dark:text-white mb-6" data-aos="fade-up">
            Co o mně říkají klienti
         </h1>
-        <p class="text-xl text-slate-600 dark:text-slate-300 max-w-3xl mx-auto">
+        <p class="text-xl text-slate-600 dark:text-slate-300 max-w-3xl mx-auto leading-relaxed" data-aos="fade-up" data-aos-delay="100">
            Za svou prací si stojím. A stojí za ní i celá řada spokojených klientů, kterým jsem pomohl s bydlením.
         </p>
      </div>
@@ -29,7 +29,7 @@ const sortedReferences = [...referencesData].sort((a, b) => b.id - a.id);
 
   <section class="py-10 bg-slate-50 dark:bg-slate-900/50 border-y border-slate-100 dark:border-slate-800">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 text-center">
-      <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-8">Ověřeno na portálech</h3>
+      <h3 class="text-2xl font-bold font-cabinet-grotesk text-slate-900 dark:text-white mb-8">Ověřeno na portálech</h3>
       
       <div class="grid sm:grid-cols-2 gap-6">
           
@@ -73,7 +73,7 @@ const sortedReferences = [...referencesData].sort((a, b) => b.id - a.id);
       <div class="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6">
         
         {sortedReferences.map((item) => (
-            <div class="break-inside-avoid bg-white dark:bg-slate-800 rounded-2xl p-8 shadow-sm border border-slate-100 dark:border-slate-700 hover:shadow-lg transition-all duration-300 flex flex-col">
+            <div class="break-inside-avoid bg-white dark:bg-slate-800 rounded-2xl p-8 shadow-sm border border-slate-100 dark:border-slate-700 hover:shadow-lg transition-all duration-300 flex flex-col" data-aos="fade-up">
                 
                 <p class="text-slate-700 dark:text-slate-200 mb-6 leading-relaxed text-[15px]">
                     {item.content}
@@ -97,7 +97,7 @@ const sortedReferences = [...referencesData].sort((a, b) => b.id - a.id);
   </section>
 
   <section class="px-4 sm:px-6 pb-20 bg-white dark:bg-slate-900">
-    <div class="w-full max-w-6xl mx-auto mt-12 data-aos="fade-up">
+    <div class="w-full max-w-6xl mx-auto mt-12" data-aos="fade-up">
       <div class="bg-gradient-to-br from-slate-800 to-slate-900 rounded-3xl p-10 md:p-16 text-center text-white shadow-2xl relative overflow-hidden">
           
           <div class="absolute top-0 right-0 -mr-20 -mt-20 w-80 h-80 rounded-full bg-blue-500 opacity-10 blur-2xl"></div>
