@@ -1,6 +1,5 @@
 ---
-// Cesta k JSONu (upravte podle toho, kde soubor skutečně leží)
-// Pokud je v src/content/general/, tak z components jdeme o úroveň výš (..)
+// Cesta k JSONu
 import referencesData from '../content/general/references.json'; 
 
 // Seřadíme od nejnovějšího a vezmeme první 3
@@ -12,8 +11,8 @@ const latestReferences = [...referencesData]
 <section class="py-20 bg-slate-50 dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800">
   <div class="mx-auto max-w-6xl px-4 sm:px-6">
     
-    <div class="text-center pb-12">
-      <h2 class="h2 font-cabinet-grotesk text-slate-900 dark:text-white mb-4">
+    <div class="text-center pb-12" data-aos="fade-up">
+      <h2 class="text-3xl md:text-4xl font-bold font-cabinet-grotesk text-slate-900 dark:text-white mb-4">
         Co o mně říkají <span class="text-blue-600">klienti</span>?
       </h2>
       <p class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
@@ -23,28 +22,35 @@ const latestReferences = [...referencesData]
 
     <div class="grid gap-8 md:grid-cols-3 mb-12">
       {latestReferences.map((item) => (
-        <div class="flex flex-col h-full bg-white dark:bg-slate-800 rounded-2xl p-8 shadow-sm border border-slate-100 dark:border-slate-700 hover:shadow-lg transition-all duration-300">
-            
-            <p class="grow text-slate-700 dark:text-slate-200 mb-6 leading-relaxed text-[15px]">
-                {item.content.length > 220 ? item.content.substring(0, 220) + '...' : item.content}
-            </p>
+        
+        // ZMĚNA: Obaleno odkazem, přidána třída 'group' pro hover efekty
+        <a href="/reference" class="block h-full group" data-aos="fade-up">
+            <article class="flex flex-col h-full bg-white dark:bg-slate-800 rounded-2xl p-8 shadow-sm border border-slate-100 dark:border-slate-700 transition-all duration-300 group-hover:shadow-xl group-hover:-translate-y-1 group-hover:border-blue-200 dark:group-hover:border-blue-900">
+                
+                <p class="grow text-slate-700 dark:text-slate-200 mb-6 leading-relaxed text-[15px]">
+                    {item.content.length > 220 ? item.content.substring(0, 220) + '...' : item.content}
+                </p>
 
-            <div class="flex items-center border-t border-slate-100 dark:border-slate-700 pt-6 mt-auto">
-                <div class="w-10 h-10 rounded-full bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-500 dark:text-slate-300 font-bold text-sm mr-3 flex-shrink-0">
-                    {item.fullname.charAt(0)}
+                <div class="flex items-center border-t border-slate-100 dark:border-slate-700 pt-6 mt-auto">
+                    <div class="w-10 h-10 rounded-full bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-500 dark:text-slate-300 font-bold text-sm mr-3 flex-shrink-0 transition-colors group-hover:bg-blue-50 group-hover:text-blue-600 dark:group-hover:bg-blue-900/30">
+                        {item.fullname.charAt(0)}
+                    </div>
+                    <div>
+                        <div class="font-bold text-slate-900 dark:text-white text-sm transition-colors group-hover:text-blue-600">
+                            {item.fullname}
+                        </div>
+                        <div class="text-xs text-slate-400">Ověřený klient</div>
+                    </div>
                 </div>
-                <div>
-                    <div class="font-bold text-slate-900 dark:text-white text-sm">{item.fullname}</div>
-                    <div class="text-xs text-slate-400">Ověřený klient</div>
-                </div>
-            </div>
 
-        </div>
+            </article>
+        </a>
+
       ))}
     </div>
 
-    <div class="text-center">
-      <a href="/reference" class="inline-flex items-center justify-center px-8 py-3.5 border border-transparent text-base font-bold rounded-full text-blue-700 bg-blue-50 hover:bg-blue-100 transition-colors shadow-sm hover:shadow">
+    <div class="text-center" data-aos="fade-up">
+      <a href="/reference" class="inline-flex items-center justify-center px-8 py-3.5 border border-transparent text-base font-bold rounded-full text-blue-700 bg-blue-50 hover:bg-blue-100 transition-colors shadow-sm hover:shadow group">
         Zobrazit všechny reference
         <svg class="w-5 h-5 ml-2 -mr-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m-4-4h8"></path></svg>
       </a>
