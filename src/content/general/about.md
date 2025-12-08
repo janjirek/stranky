@@ -24,7 +24,7 @@ estates: 300
 clients: 550
 ---
 
-## Můj příběh
+# 
 
 Jmenuji se **Jan Jírek** a v realitách se pohybuji od roku 2012. Začínal jsem ještě při studiu systémového inženýrství, což mě naučilo jednu důležitou věc: **Za každým úspěšným výsledkem musí stát systém a data, ne náhoda.**
 
