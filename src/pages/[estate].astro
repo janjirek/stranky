@@ -13,15 +13,17 @@ export const prerender = true;
 export async function getStaticPaths() {
   const estateEntries = await getCollection('catalogue');
 
-  return estateEntries
-    // Bezpečnostní filtr, aby build nepadal
-    .filter(entry => entry.data.slug && typeof entry.data.slug === 'string')
-    .map((entry: any) => {
-      return {
-        params: { estate: entry.data.slug },
-        props: { entry },
-      };
-    });
+  return (
+    estateEntries
+      // Bezpečnostní filtr, aby build nepadal
+      .filter(entry => entry.data.slug && typeof entry.data.slug === 'string')
+      .map((entry: any) => {
+        return {
+          params: { estate: entry.data.slug },
+          props: { entry },
+        };
+      })
+  );
 }
 
 // Get the estate data from props
@@ -31,21 +33,28 @@ const { Content } = await render(entry);
 // Dynamické sestavení galerie
 const photoGalleryData = [];
 const fullSizeImages = [];
-if (Array.isArray(entry.data.images)) {
-  for (const image of entry.data.images) {
-    const url = getCldImageUrl({ src: image, width: 600, height: 400 });
-    const fullSizeUrl = getCldImageUrl({ src: image });
-    photoGalleryData.push({ src: url, width: 600, height: 400 });
-    fullSizeImages.push({ src: fullSizeUrl });
+if (entry.data.images_local) {
+  for (const image of entry.data.images_local) {
+    photoGalleryData.push({ src: `${entry.data.slug}/${image}`, width: 600, height: 400 });
+    fullSizeImages.push({ src: `${entry.data.slug}/${image}` });
+  }
+} else {
+  if (Array.isArray(entry.data.images)) {
+    for (const image of entry.data.images) {
+      const url = getCldImageUrl({ src: image, width: 600, height: 400 });
+      const fullSizeUrl = getCldImageUrl({ src: image });
+      photoGalleryData.push({ src: url, width: 600, height: 400 });
+      fullSizeImages.push({ src: fullSizeUrl });
+    }
   }
 }
 
 // Sestavení SEO popisku
 const propertyDetails = {
-    type: entry.data.type,
-    location: entry.data.location,
-    price: entry.data.price,
-    propertyType: entry.data.type || 'Prodej',
+  type: entry.data.type,
+  location: entry.data.location,
+  price: entry.data.price,
+  propertyType: entry.data.type || 'Prodej',
 };
 
 const priceSuffix = entry.data.type.toLowerCase() === 'pronájem' ? ' měsíčně' : '';
@@ -58,7 +67,9 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
 <Layout
   title={entry.data.title}
   description={enhancedDescription}
-  image={getCldImageUrl({ src: entry.data.thumbnail, width: 1200, height: 630 })}
+  image={entry.data.thumbnail_local
+    ? `https://janjirek.cz/${entry.data.slug}/${entry.data.thumbnail_local}`
+    : getCldImageUrl({ src: entry.data.thumbnail, width: 1200, height: 630 })}
   canonicalURL={canonicalURL}
   type="real-estate"
   publishedTime={entry.data.date.toISOString()}
@@ -74,11 +85,8 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
     <PageIllustration />
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="pt-28 pb-8 md:pt-36 md:pb-16">
-
         <div class="md:grid md:grid-cols-12 md:gap-10">
-
           <div class="md:col-span-8">
-
             {/* Zpět na katalog odkaz */}
             <div class="pb-8">
               <div class="mb-4">
@@ -104,44 +112,69 @@ const canonicalURL = `https://janjirek.cz/${entry.data.slug}`;
           </div>
 
           <aside class="md:col-span-4 mt-12 md:mt-0">
-              <div data-sticky data-sticky-for="991" data-margin-top="100">
-                  {/* Box se základním infem a CTA */}
-                  <div class="bg-gray-50 dark:bg-gray-800 rounded-xl p-6 shadow-2xl border border-gray-200 dark:border-gray-700">
-                      <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mb-4 border-b pb-3 border-gray-200 dark:border-gray-700">Základní informace</h3>
+            <div data-sticky data-sticky-for="991" data-margin-top="100">
+              {/* Box se základním infem a CTA */}
+              <div
+                class="bg-gray-50 dark:bg-gray-800 rounded-xl p-6 shadow-2xl border border-gray-200 dark:border-gray-700"
+              >
+                <h3
+                  class="text-xl font-extrabold text-slate-900 dark:text-white mb-4 border-b pb-3 border-gray-200 dark:border-gray-700"
+                >
+                  Základní informace
+                </h3>
 
-                      {/* CENA */}
-                      <div class="mb-4">
-                          <p class="text-xs uppercase font-medium text-gray-500 dark:text-gray-400 mb-1">Cena</p>
-                          <span class="text-3xl font-extrabold text-blue-600 dark:text-blue-400 font-cabinet-grotesk">
-                              {entry.data.price}
-                          </span>
-                      </div>
+                {/* CENA */}
+                <div class="mb-4">
+                  <p class="text-xs uppercase font-medium text-gray-500 dark:text-gray-400 mb-1">
+                    Cena
+                  </p>
+                  <span
+                    class="text-3xl font-extrabold text-blue-600 dark:text-blue-400 font-cabinet-grotesk"
+                  >
+                    {entry.data.price}
+                  </span>
+                </div>
 
-                      {/* LOKALITA - FIX: Nyní klikatelný odkaz na mapy */}
-                      <div class="mb-6">
-                          <p class="text-xs uppercase font-medium text-gray-500 dark:text-gray-400 mb-1">Lokalita</p>
-                          <a 
-                            href={entry.data.mapy_link} 
-                            target="_blank" 
-                            rel="noopener noreferrer" 
-                            class="text-lg font-bold text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 transition-colors flex items-center group"
-                          >
-                            {entry.data.location}
-                            {/* Ikona šipky pro indikaci externího odkazu */}
-                            <svg class="w-4 h-4 ml-2 mt-0.5 text-blue-400 dark:text-blue-300 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
-                          </a>
-                      </div>
-                      
-                      {/* TLAČÍTKO KONTAKT */}
-                      <a
-                          class="btn w-full text-white bg-blue-600 hover:bg-blue-700 group shadow-lg px-6 py-3 rounded-xl justify-center text-center"
-                          href="/kontakt"
-                      >
-                          Kontaktovat makléře
-                          <span class="tracking-normal text-indigo-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-></span>
-                      </a>
-                  </div>
+                {/* LOKALITA - FIX: Nyní klikatelný odkaz na mapy */}
+                <div class="mb-6">
+                  <p class="text-xs uppercase font-medium text-gray-500 dark:text-gray-400 mb-1">
+                    Lokalita
+                  </p>
+                  <a
+                    href={entry.data.mapy_link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-lg font-bold text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 transition-colors flex items-center group"
+                  >
+                    {entry.data.location}
+                    {/* Ikona šipky pro indikaci externího odkazu */}
+                    <svg
+                      class="w-4 h-4 ml-2 mt-0.5 text-blue-400 dark:text-blue-300 group-hover:translate-x-0.5 transition-transform"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                      ><path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg
+                    >
+                  </a>
+                </div>
+
+                {/* TLAČÍTKO KONTAKT */}
+                <a
+                  class="btn w-full text-white bg-blue-600 hover:bg-blue-700 group shadow-lg px-6 py-3 rounded-xl justify-center text-center"
+                  href="/kontakt"
+                >
+                  Kontaktovat makléře
+                  <span
+                    class="tracking-normal text-indigo-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1"
+                    >-></span
+                  >
+                </a>
               </div>
+            </div>
           </aside>
         </div>
         <hr class="mt-8 mb-14" />

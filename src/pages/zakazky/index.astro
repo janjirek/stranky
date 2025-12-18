@@ -6,30 +6,29 @@ import ContractsCatalogue from '@/components/contracts-catalogue'; // Předpokl�
 import { getCldImageUrl } from 'astro-cloudinary/helpers';
 
 export const metadata = {
-  title: 'Ing. Jan Jírek - Realizované Zakázky',
-  description: 'Ing. Jan Jírek - Realizované Zakázky',
+  title: 'Ing. Jan Jírek - Realizované Zakázky',
+  description: 'Ing. Jan Jírek - Realizované Zakázky',
 };
 
 const contracts = (await getCollection('contracts')).sort((a, b) => {
-  return b.data.date.valueOf() - a.data.date.valueOf();
+  return b.data.date.valueOf() - a.data.date.valueOf();
 });
 
 // ZDE JE MAPOVÁNÍ URL ADRESY PRO CLOUDINARY
 const contractsWithThumbnail = contracts.map((entry: any) => {
-  return {
-    ...entry, // Předáme celý objekt pro přístup k dalším datům (.data.title, .data.slug)
-    thumbnail_url: getCldImageUrl({ src: entry.data.thumbnail, width: 600, height: 400 }),
-  };
+  return {
+    ...entry, // Předáme celý objekt pro přístup k dalším datům (.data.title, .data.slug)
+    thumbnail_url: entry.data.thumbnail_local
+      ? `${entry.data.slug}/${entry.data.thumbnail_local}`
+      : getCldImageUrl({ src: entry.data.thumbnail, width: 600, height: 400 }),
+  };
 });
 ---
 
-<Layout
-  title={metadata.title}
-  description={metadata.description}
->
-  <Hero />
+<Layout title={metadata.title} description={metadata.description}>
+  <Hero />
   {/* Předáváme mapovaná data React komponentě s client:load */}
-  <div class="mx-auto max-w-6xl px-4 sm:px-6">
-    <ContractsCatalogue contracts={contractsWithThumbnail} postsPerPage={3} client:load />
-  </div>
+  <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    <ContractsCatalogue contracts={contractsWithThumbnail} postsPerPage={3} client:load />
+  </div>
 </Layout>

@@ -4,40 +4,39 @@ date: 2025-08-05
 location: Choťovice 64, 289 05 Choťovice
 description: Prodej rodinného domu v malebné obci Choťovice u Kolína
 images:
-- chotovice
-- chotovice-10
-- chotovice-11
-- chotovice-12
-- chotovice-13
-- chotovice-14
-- chotovice-15
-- chotovice-16
-- chotovice-17
-- chotovice-18
-- chotovice-19
-- chotovice-2
-- chotovice-21
-- chotovice-22
-- chotovice-23
-- chotovice-24
-- chotovice-25
-- chotovice-26
-- chotovice-27
-- chotovice-28
-- chotovice-29
-- chotovice-3
-- chotovice-4
-- chotovice-6
-- chotovice-7
-- chotovice-8
-- chotovice-9
-slug: /chotovice
+  - chotovice
+  - chotovice-10
+  - chotovice-11
+  - chotovice-12
+  - chotovice-13
+  - chotovice-14
+  - chotovice-15
+  - chotovice-16
+  - chotovice-17
+  - chotovice-18
+  - chotovice-19
+  - chotovice-2
+  - chotovice-21
+  - chotovice-22
+  - chotovice-23
+  - chotovice-24
+  - chotovice-25
+  - chotovice-26
+  - chotovice-27
+  - chotovice-28
+  - chotovice-29
+  - chotovice-3
+  - chotovice-4
+  - chotovice-6
+  - chotovice-7
+  - chotovice-8
+  - chotovice-9
+slug: chotovice
 thumbnail: chotovice-20
 youtube_link: https://www.youtube.com/embed/gsgxSretaoQ?si=D9LSkHIkY17EWt5i
-
 ---
 
-Nabízím vám k prodeji jednopodlažní rodinný dům, který se nachází přímo v srdci obce Choťovice u Kolína, 
+Nabízím vám k prodeji jednopodlažní rodinný dům, který se nachází přímo v srdci obce Choťovice u Kolína,
 
 <iframe width="755" height="425" src="https://www.youtube.com/embed/gsgxSretaoQ?si=wVr7S_XsMyjVxEFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -49,23 +48,23 @@ Dům byl postaven z kombinace kamene a cihel a nachází se na pozemku o celkov�
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657655/chotovice-3.jpg)
 
-V průběhu let došlo k rekonstrukci střechy, oken, vyměně rozvodů elektřiny i topení. 
+V průběhu let došlo k rekonstrukci střechy, oken, vyměně rozvodů elektřiny i topení.
 
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657670/chotovice-25.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657669/chotovice-23.jpg) |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 
-Vytápění je zajištěno dvěma kotli – elektrickým a kotlem na tuhá paliva, což umožňuje flexibilitu provozu podle vašich preferencí. Ohřev vody je zajištěn bojlerem. 
+Vytápění je zajištěno dvěma kotli – elektrickým a kotlem na tuhá paliva, což umožňuje flexibilitu provozu podle vašich preferencí. Ohřev vody je zajištěn bojlerem.
 
 Dům nabízí tři pokoje, které jsou průchozí, je to typický vesnický kočkopes.
 
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657662/chotovice-15.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657660/chotovice-12.jpg) |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657659/chotovice-10.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657658/chotovice-9.jpg)  |
 
 Dům je napojen na obecní kanalizaci, vodní zdroj je zajištěn vlastní studnou na pozemku. Přípojka obecní vody je připravena na obecním pozemku před domem, což nabízí možnost napojení. Plyn v obci zaveden není.
 
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657664/chotovice-18.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657664/chotovice-17.jpg) |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 
 Stodola na pozemku poskytuje dostatek úložného prostoru pro uskladnění zahradní techniky, nářadí nebo sezónních věcí a zároveň nabízí možnost vybudování třeba dílny.
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754657673/chotovice-28.jpg)

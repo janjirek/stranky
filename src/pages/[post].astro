@@ -27,6 +27,9 @@ const { Content } = await render(entry);
   title={entry.data.title}
   description={entry.data.description}
   canonicalURL={`https://janjirek.cz/clanky/${entry.data.slug}`}
+  image={entry.data.thumbnail_local
+    ? `https://janjirek.cz/${entry.data.slug}/${entry.data.thumbnail_local}`
+    : getCldImageUrl({ src: entry.data.thumbnail, width: 1200, height: 630 })}
   type="article"
   author="Ing. Jan Jírek"
   section="Články"

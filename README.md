@@ -1,48 +1,74 @@
-# Astro Starter Kit: Basics
+# Pridavani Obsahu na Stranku Zmeny
 
-```sh
-npm create astro@latest -- --template basics
+---
+
+> Slug v MD se vzdy pise bez / na zacatku, takze jen napr. "chata-citkov" a nikoli "/chata-citkov", vsude to tak ted je spravne, bylo jen par mist, kde to bylo spatne
+
+## Pro linkovani obrazku primo ze stranky a nikoli z Cloudinary
+
+Kazdy MD file (aktivni nemovitost, realizovana zakazka ci clanek) ma ted novy attribute, pro obrazky a thumbnaily - **images_local** a **thumbnail_local**, mohou a nemusi tam byt, tim je zajistena zpetna kompatibilita.
+
+**images_local a thumbnail_local maji vzdy prioritu, jestli v hlavicce existuji, tak se vzdy pouziji lokalni verze, ikdyz muze byt zaroven definovano thubnail a images attributy z Cloudinary**
+
+Priklad nemovitosti
+
+```
+title: TEST Prodej rodinného domu 137 m², pozemek 846 m², Heřmanův Městec – Konopáč
+type: prodej
+description: Nabízím vám k prodeji třípodlažní rodinný dům o dispozici 4+kk, který se nachází přímo v srdci rekreační oblasti Konopáč..
+date: 2025-09-06
+tags: [dům, prodej, Konopáč, Heřmanův Městec, tenis, rodinný dům, bydlení]
+thumbnail_local: konpac-rd-5.jpg
+images_local:
+  - konpac-rd-15.jpg
+  - konpac-rd-4.jpg
+  - konpac-rd-42.webp
+  - konpac-rd-5.jpg
+images:
+  - konpac-rd
+  - konpac-rd-10
+  - konpac-rd-11
+  - konpac-rd-12
+  - konpac-rd-13
+price: 4.300.000 Kč
+location: Konopáč 31, 538 03 Heřmanův Městec - Konopáč, Česko
+mapy_link: https://mapy.com/s/fusohuruko
+youtube_link: https://www.youtube.com/embed/4F1JuIJb88I?si=lmWjrD8ZYGJD5ZHC
+slug: konopac_local
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+Nemovitost ma jen lokalni thumbnail definovan, a pak ma definovane images array z ID z Cloudinary + images_local co obsahuje file names primo ze stranky. **Cili na strance se pouzije lokalni verze thumbnailu a i lokalni obrazky ze stranky a Cloudinary images se ignoruji.** **Stejne chovani je pro realizovane zakazky a v pripade thumbnailu i pro clanky.**
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+### Jak pracovat s lokalnimi obrazky primo v textu MD
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Podobne jako s Cloudinary obrazky, jen se pouziva relativni odkaz, priklad nize.
 
-## 🚀 Project Structure
+```
+Nabízím vám k prodeji třípodlažní rodinný dům o dispozici 4+kk, který se nachází přímo v srdci rekreační oblasti Konopáč.
 
-Inside of your Astro project, you'll see the following folders and files:
+![Rodinný dům Konopáč](/konopac_local/konpac-rd-4.jpg)Dům byl postaven v průběhu 80. let z kombinace plynosilikátu a cihel a nachází se na pozemku o velikosti 846 m².
 
-```text
+| ![Rodinný dům Konopáč](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1757076368/konpac-rd-11.jpg) | ![Rodinný dům Konopáč](/konopac_local/konpac-rd-15.jpg) |
+```
+
+Na ukazce je videt rozdil lokalnich obrazku oproti Cloudinary obrazkum, absolutni vs relativni cesta. Cili pro lokalni obrazky je cesta vzdy /_slug_/nazev souboru ze slozky vytvorene v Public slozce (viz nize).
+
+### Kam se lokalni obrazky nahravaji
+
+Primo do kodu stranky, najit public folder a v nem vzdy vytvorit novou slozku, at jde o nemovitost, zakazku ci clanek. **Nazev slozky musi byt vzdy stejny jako slug definovany v MD filu.**
+
+Priklad, kdyz mam slug v MD
+
+```
+slug: konopac_local
+```
+
+Tak zde vytvorim slozku "konopac_local"
+
+```
 /
 ├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+│   └── konopac_local
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Do teto slozky pak hazim obrazky, jejiz nazvy pak pisu do MD filu, jak je ukazano vyse.

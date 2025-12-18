@@ -94,7 +94,7 @@ export default function MobileMenu() {
       <div ref={mobileNav}>
         <nav
           id="mobile-nav"
-          className={`absolute left-0 top-full z-20 w-full rounded-xl bg-white shadow-lg shadow-black/[0.03] before:pointer-events-none before:absolute before:inset-0 before:rounded-[inherit] before:border before:border-transparent before:[background:linear-gradient(var(--color-gray-100),var(--color-gray-200))_border-box] before:[mask-composite:exclude_!important] before:[mask:linear-gradient(white_0_0)_padding-box,_linear-gradient(white_0_0)] transform transition ease-out duration-200 ${
+          className={`absolute left-0 top-full z-20 w-full rounded-xl bg-white shadow-lg shadow-black/[0.03] border border-gray-200 transform transition ease-out duration-200 ${
             mobileNavOpen
               ? 'translate-y-0 opacity-100'
               : '-translate-y-2 opacity-0 pointer-events-none'

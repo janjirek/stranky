@@ -17,7 +17,9 @@ const blogWithThumbnail = blog.map((entry: any) => {
   if (entry.data.thumbnail) {
     return {
       ...entry,
-      thumbnail_url: getCldImageUrl({ src: entry.data.thumbnail, width: 600, height: 400 }),
+      thumbnail_url: entry.data.thumbnail_local
+        ? `${entry.data.slug}/${entry.data.thumbnail_local}`
+        : getCldImageUrl({ src: entry.data.thumbnail, width: 600, height: 400 }),
     };
   }
   return entry;

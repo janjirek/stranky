@@ -3,8 +3,9 @@ import Layout from '@/layouts/Layout.astro';
 import ContactForm from '@/components/contactForm.tsx';
 import { Image } from 'astro:assets';
 // Použijeme vaši standardní hezkou fotku (portrét)
-import Portrait from '@/assets/images/portrait.png'; 
+import Portrait from '@/assets/images/portrait.png';
 import { render, getEntry } from 'astro:content';
+import Hero from './hero.astro';
 
 // Načtení dat z content collections
 const about = await getEntry('about', 'about');
@@ -25,107 +26,105 @@ export const metadata = {
 };
 ---
 
-<Layout
-  title={metadata.title}
-  description={metadata.description}
->
-  <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-24 bg-white dark:bg-slate-900">
+<Layout title={metadata.title} description={metadata.description}>
+  <Hero />
+  <section class="relative py-12 md:py-20">
     <div class="mx-auto max-w-6xl px-4 sm:px-6">
-      
-      <div class="text-center mb-16">
-        <h1 class="text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white sm:text-5xl md:text-6xl font-cabinet-grotesk mb-4">
-           Spojme se
-        </h1>
-        <p class="text-xl text-slate-600 dark:text-slate-300 max-w-2xl mx-auto">
-           Máte dotaz k prodeji, pronájmu nebo dědictví? Zavolejte mi, napište, nebo vyplňte formulář níže.
-        </p>
-      </div>
-
       <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 items-start">
-        
-        <div class="bg-slate-50 dark:bg-slate-800 rounded-3xl p-8 md:p-10 border border-slate-100 dark:border-slate-700 shadow-sm relative overflow-hidden">
-            
-            <div class="absolute top-0 right-0 -mr-10 -mt-10 w-40 h-40 rounded-full bg-blue-500 opacity-5"></div>
+        <div
+          class="bg-slate-50 dark:bg-slate-800 rounded-3xl p-8 md:p-10 border border-slate-100 dark:border-slate-700 shadow-sm relative overflow-hidden"
+        >
+          <div
+            class="absolute top-0 right-0 -mr-10 -mt-10 w-40 h-40 rounded-full bg-blue-500 opacity-5"
+          >
+          </div>
 
-            <div class="flex flex-col items-center md:items-start gap-6 mb-10">
-                <div class="relative shrink-0 w-32 h-32 md:w-40 md:h-40 rounded-2xl overflow-hidden shadow-md border-4 border-white dark:border-slate-700">
-                    <Image
-                      src={Portrait}
-                      alt="Ing. Jan Jírek"
-                      class="w-full h-full object-cover"
-                    />
-                </div>
-
-                <div class="text-center md:text-left space-y-4 w-full">
-                    <div>
-                        <h2 class="text-2xl font-bold text-slate-900 dark:text-white">{about.data.name}</h2>
-                        <p class="text-slate-500 dark:text-slate-400 font-medium">Realitní makléř</p>
-                    </div>
-
-                    <div class="space-y-4 pt-4 border-t border-slate-200 dark:border-slate-700">
-                        <div class="group">
-                            <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">Telefon</label>
-                            <a href={`tel:${about.data.phone}`} class="block text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors font-cabinet-grotesk">
-                                {about.data.phone}
-                            </a>
-                        </div>
-
-                        <div class="group">
-                            <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">Email</label>
-                            <a href={`mailto:${about.data.email}`} class="block text-lg font-medium text-slate-800 dark:text-white hover:text-blue-600 transition-colors">
-                                {about.data.email}
-                            </a>
-                        </div>
-
-                        <div class="group">
-                            <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">IČO</label>
-                            <p class="text-slate-700 dark:text-slate-300">
-                                {about.data.ico}
-                            </p>
-                        </div>
-
-                         <div class="group">
-                            <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">Oblasti působení</label>
-                            <p class="text-slate-700 dark:text-slate-300">
-                                {about.data.area}
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="mt-8 rounded-xl overflow-hidden h-48 border border-slate-200 dark:border-slate-600 shadow-inner">
-                 <iframe
-                    class="w-full h-full object-cover"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2562.533892059754!2d15.767335677478632!3d50.03882921691461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6cf9f1714980ad9f%3A0xdd1b1a4edf8b4964!2zSW5nLiBKYW4gSsOtcmVrIOKAkyByZWFsaXRuw60gbWFrbMOpxZk!5e0!3m2!1scs!2scz!4v1753173552483!5m2!1scs!2scz"
-                    style="border:0;"
-                    allowfullscreen=""
-                    loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade">
-                  </iframe>
+          <div class="flex flex-col items-center md:items-start gap-6 mb-10">
+            <div
+              class="relative shrink-0 w-32 h-32 md:w-40 md:h-40 rounded-2xl overflow-hidden shadow-md border-4 border-white dark:border-slate-700"
+            >
+              <Image src={Portrait} alt="Ing. Jan Jírek" class="w-full h-full object-cover" />
             </div>
 
+            <div class="text-center md:text-left space-y-4 w-full">
+              <div>
+                <h2 class="text-2xl font-bold text-slate-900 dark:text-white">{about.data.name}</h2>
+                <p class="text-slate-500 dark:text-slate-400 font-medium">Realitní makléř</p>
+              </div>
+
+              <div class="space-y-4 pt-4 border-t border-slate-200 dark:border-slate-700">
+                <div class="group">
+                  <label class="text-xs uppercase tracking-wider text-slate-400 font-bold"
+                    >Telefon</label
+                  >
+                  <a
+                    href={`tel:${about.data.phone}`}
+                    class="block text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors font-cabinet-grotesk"
+                  >
+                    {about.data.phone}
+                  </a>
+                </div>
+
+                <div class="group">
+                  <label class="text-xs uppercase tracking-wider text-slate-400 font-bold"
+                    >Email</label
+                  >
+                  <a
+                    href={`mailto:${about.data.email}`}
+                    class="block text-lg font-medium text-slate-800 dark:text-white hover:text-blue-600 transition-colors"
+                  >
+                    {about.data.email}
+                  </a>
+                </div>
+
+                <div class="group">
+                  <label class="text-xs uppercase tracking-wider text-slate-400 font-bold"
+                    >IČO</label
+                  >
+                  <p class="text-slate-700 dark:text-slate-300">
+                    {about.data.ico}
+                  </p>
+                </div>
+
+                <div class="group">
+                  <label class="text-xs uppercase tracking-wider text-slate-400 font-bold"
+                    >Oblasti působení</label
+                  >
+                  <p class="text-slate-700 dark:text-slate-300">
+                    {about.data.area}
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div
+            class="mt-8 rounded-xl overflow-hidden h-48 border border-slate-200 dark:border-slate-600 shadow-inner"
+          >
+            <iframe
+              class="w-full h-full object-cover"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2562.533892059754!2d15.767335677478632!3d50.03882921691461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6cf9f1714980ad9f%3A0xdd1b1a4edf8b4964!2zSW5nLiBKYW4gSsOtcmVrIOKAkyByZWFsaXRuw60gbWFrbMOpxZk!5e0!3m2!1scs!2scz!4v1753173552483!5m2!1scs!2scz"
+              style="border:0;"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+            >
+            </iframe>
+          </div>
         </div>
 
-        <div class="bg-white dark:bg-slate-900 pt-4 lg:pt-0">
-             <h3 class="text-2xl font-bold text-slate-900 dark:text-white mb-6">Napište mi zprávu</h3>
-             
-             <div class="contact-form-wrapper">
-                 <ContactForm client:load termsTitle={terms.data.title}>
-                    <TermsContent />
-                 </ContactForm>
-             </div>
-        </div>
+        <div
+          class="bg-white dark:bg-slate-900 rounded-3xl p-8 border border-slate-200 dark:border-slate-700 shadow-sm"
+        >
+          <h3 class="text-2xl font-bold text-slate-900 dark:text-white mb-6">Napište mi zprávu</h3>
 
+          <div>
+            <ContactForm client:load termsTitle={terms.data.title}>
+              <TermsContent />
+            </ContactForm>
+          </div>
+        </div>
       </div>
     </div>
   </section>
 </Layout>
-
-<style is:global>
-  /* Zacílíme nadpisy v legend tagu uvnitř formuláře */
-  .contact-form-wrapper legend {
-      text-transform: none !important; /* Zrušíme případné uppercase */
-  }
-  /* Pokud to nepomůže, musíte jít přímo do souboru src/components/contactForm.tsx a přepsat text tam. */
-</style>

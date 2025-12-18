@@ -71,7 +71,6 @@ export default function ContactForm({
       {/* Formulář */}
       <form className="mb-12" onSubmit={handleSubmit}>
         <div className="-my-6 divide-y divide-gray-100">
-          
           {/* Skupina 1: Kontaktní údaje */}
           <div className="py-6">
             <div className="mb-5 text-lg font-bold text-gray-900">
@@ -80,10 +79,10 @@ export default function ContactForm({
             <div className="space-y-4">
               <div className="grid grid-cols-2 gap-4">
                 <div>
-                    <label className="mb-1 block text-sm font-medium text-gray-700" htmlFor="name">
+                  <label className="mb-1 block text-sm font-medium text-gray-700" htmlFor="name">
                     Jméno <span className="text-red-500">*</span>
-                    </label>
-                    <input
+                  </label>
+                  <input
                     value={fname}
                     onChange={e => setFname(e.target.value)}
                     id="name"
@@ -91,13 +90,13 @@ export default function ContactForm({
                     type="text"
                     required
                     placeholder="Jan"
-                    />
+                  />
                 </div>
                 <div>
-                    <label className="mb-1 block text-sm font-medium text-gray-700" htmlFor="surname">
+                  <label className="mb-1 block text-sm font-medium text-gray-700" htmlFor="surname">
                     Příjmení <span className="text-red-500">*</span>
-                    </label>
-                    <input
+                  </label>
+                  <input
                     value={sname}
                     onChange={e => setSname(e.target.value)}
                     id="surname"
@@ -105,7 +104,7 @@ export default function ContactForm({
                     type="text"
                     required
                     placeholder="Novák"
-                    />
+                  />
                 </div>
               </div>
 
@@ -164,14 +163,14 @@ export default function ContactForm({
                 />
               </div>
             </div>
-            
+
             <div className="mt-4">
-                <TermsDialog
+              <TermsDialog
                 termsTitle={termsTitle}
                 triggerText="Odesláním dotazu souhlasím se zpracováním osobních údajů."
-                >
+              >
                 {children}
-                </TermsDialog>
+              </TermsDialog>
             </div>
 
             <button
@@ -222,7 +221,8 @@ export default function ContactForm({
                   <path d="M5.6 5.6C3 8.3 2.2 12.5 4 16l-2 6 6-2c3.4 1.8 7.6 1.1 10.3-1.7" />
                 </svg>
                 <span>
-                  Omlouváme se, ale došlo k problému při odesílání. Zkuste to prosím později nebo zavolejte.
+                  Omlouváme se, ale došlo k problému při odesílání. Zkuste to prosím později nebo
+                  zavolejte.
                 </span>
               </div>
             )}

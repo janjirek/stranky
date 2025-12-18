@@ -44,7 +44,8 @@ const catalogueCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     type: z.string(),
-    thumbnail: z.string(),
+    thumbnail: z.string().optional(),
+    thumbnail_local: z.string().optional(),
     date: z.date(),
     description: z.string(),
     location: z.string(),
@@ -54,6 +55,7 @@ const catalogueCollection = defineCollection({
     youtube_link: z.string().optional(),
     tags: z.array(z.string()),
     images: z.array(z.string()),
+    images_local: z.array(z.string()).optional(),
   }),
 });
 
@@ -65,6 +67,7 @@ const blogCollection = defineCollection({
     date: z.date(),
     description: z.string(),
     thumbnail: z.string().optional(),
+    thumbnail_local: z.string().optional(),
     youtube_link: z.string().optional(),
     slug: z.string(),
   }),
@@ -75,7 +78,8 @@ const contractsCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     type: z.string().optional(),
-    thumbnail: z.string(),
+    thumbnail: z.string().optional(),
+    thumbnail_local: z.string().optional(),
     date: z.date(),
     description: z.string(),
     location: z.string().optional(),
@@ -85,6 +89,7 @@ const contractsCollection = defineCollection({
     youtube_link: z.string().optional(),
     tags: z.array(z.string()).optional(),
     images: z.array(z.string()).optional(),
+    images_local: z.array(z.string()).optional(),
   }),
 });
 
