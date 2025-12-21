@@ -43,6 +43,7 @@ images_local:
 - gagarinova387-34
 - gagarinova387-35
 - gagarinova387-36
+images:
 
 slug: gagarinova
 thumbnail_local: gagarinova387-15
@@ -60,8 +61,6 @@ Byt disponuje třemi neprůchozími pokoji. Největším z nich je obývací pok
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-18.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-19.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-20.jpg) |
-
-![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg)
 
 Na protější straně bytu naleznete dva další pokoje s východní orientací. 
 
