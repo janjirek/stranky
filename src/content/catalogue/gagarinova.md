@@ -44,7 +44,7 @@ images_local:
 - gagarinova387-35
 - gagarinova387-36
 images:
-
+- 1-1-Gagarinova-13.jpg
 slug: gagarinova
 thumbnail_local: gagarinova387-15
 price: 5.790.000 Kč
