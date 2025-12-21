@@ -1,5 +1,5 @@
 ---
-title: Prodej bytu 3+kk – Gagarinova, Pardubice
+title: Prodej bytu 3+kk – Gagarinova 387, Pardubice
 date: 2025-12-20
 type: prodej
 location: Gagarinova 387, 530 09 Pardubice
@@ -49,36 +49,27 @@ mapy_link: https://mapy.com/s/pubalegutu
 youtube_link: https://www.youtube.com/embed/oTExkOkyu6c?si=ypV1C1yOsZpkp4y1
 ---
 
-Nabízím vám k prodeji bytovou jednotku o dispozici 3+kk s prostornou lodžií, komorou, sklepem a celkové ploše 79,5 m², která se nachází ve šestém patře (7. NP) revitalizovaného panelového domu s výtahem, v ulici Gagarinova 387.
+Nabízím vám k prodeji bytovou jednotku o dispozici 3+kk s prostornou lodžií, komorou, sklepem a celkové ploše 79,5 m², která se nachází ve šestém patře (7.NP) revitalizovaného panelového domu s výtahem, v ulici Gagarinova 387.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oTExkOkyu6c?si=ypV1C1yOsZpkp4y1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Byt disponuje třemi neprůchozími pokoji. Největším z nich je obývací pokoj o velikosti 27 m², který je propojen s kuchyní zhotovenou namíru. Tento pokoj je orientován na západ.
-
+Byt disponuje třemi neprůchozími pokoji. Největším z nich je obývací pokoj o velikosti 27 m², který je propojen s kuchyní zhotovenou na míru. Tento pokoj je orientován na západ.
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-18.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-19.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-20.jpg) |
-
 Na protější straně bytu naleznete dva další pokoje s východní orientací.
-
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387.jpg)   | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-2.jpg) |
 | ----------------------------------------------------------- | ----------------------------------------------------------- |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-6.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-7.jpg) |
-
 Z většího z nich se dostanete na prostornou zasklenou lodžii.
-
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-10.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-13.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
 Všechny pokoje jsou neprůchozí a jsou přístupné z chodby, která vede středem bytu. Na chodbě se nachází vestavná skříň.
-
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-3.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-4.jpg) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ----------------------------------------------------------- | ----------------------------------------------------------- |
 
 Vstupní dveře do bytu jsou bezpečnostní.
-
 ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-12.jpg)
-
 V domě se nachází dva výtahy – jeden nákladní a druhý menší.
 ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-11.jpg)
 
@@ -95,7 +86,6 @@ duben 2021 – nové zvonky, domácí telefony
 duben 2022 – komplet výměna žaluzií + nové žaluzie na lodžii
 
 K bytu existuje obsáhlá fotodokoumentace k výše zmíněným rekonstrukcím. Zde je malá ukázka:
-
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-28.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-27.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-29.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-32.jpg) |
@@ -121,6 +111,12 @@ Byt je celou dobu obýván pouze jednou osobou a proto je ve velmi zachovalém s
 ### Bezdlužnost:
 
 ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-25.jpg)
+
+### Zápis ze shromáždění SVJ:
+
+![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-37.jpg)
+![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-38.jpg)
+![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-39.jpg)
 
 ### PENB:
 
