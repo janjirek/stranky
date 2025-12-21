@@ -54,7 +54,7 @@ const catalogueCollection = defineCollection({
     mapy_link: z.string(),
     youtube_link: z.string().optional(),
     tags: z.array(z.string()),
-    images: z.array(z.string()),
+    images: z.array(z.string()).optional(),
     images_local: z.array(z.string()).optional(),
   }),
 });

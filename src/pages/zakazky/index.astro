@@ -19,7 +19,7 @@ const contractsWithThumbnail = contracts.map((entry: any) => {
   return {
     ...entry, // Předáme celý objekt pro přístup k dalším datům (.data.title, .data.slug)
     thumbnail_url: entry.data.thumbnail_local
-      ? `${entry.data.slug}/${entry.data.thumbnail_local}`
+      ? `/${entry.data.slug}/${entry.data.thumbnail_local}`
       : getCldImageUrl({ src: entry.data.thumbnail, width: 600, height: 400 }),
   };
 });

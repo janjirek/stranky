@@ -6,45 +6,43 @@ location: Gagarinova 387, 530 09 Pardubice
 description: Prodej bytu 3+kk s prostornou lodžií.
 tags: [byt, prodej, 3+kk, bydlení]
 images_local:
-- gagarinova387.jpg
-- gagarinova387-1.jpg
-- gagarinova387-2.jpg
-- gagarinova387-3.jpg
-- gagarinova387-4.jpg
-- gagarinova387-5.jpg
-- gagarinova387-6.jpg
-- gagarinova387-7.jpg
-- gagarinova387-8.jpg
-- gagarinova387-9.jpg
-- gagarinova387-10.jpg
-- gagarinova387-11.jpg
-- gagarinova387-12.jpg
-- gagarinova387-13.jpg
-- gagarinova387-14.jpg
-- gagarinova387-15.jpg
-- gagarinova387-16.jpg
-- gagarinova387-17.jpg
-- gagarinova387-18.jpg
-- gagarinova387-19.jpg
-- gagarinova387-20.jpg
-- gagarinova387-21.jpg
-- gagarinova387-22.jpg
-- gagarinova387-23.jpg
-- gagarinova387-24.jpg
-- gagarinova387-25.jpg
-- gagarinova387-26.jpg
-- gagarinova387-27.jpg
-- gagarinova387-28.jpg
-- gagarinova387-29.jpg
-- gagarinova387-30.jpg
-- gagarinova387-31.jpg
-- gagarinova387-32.jpg
-- gagarinova387-33.jpg
-- gagarinova387-34.jpg
-- gagarinova387-35.jpg
-- gagarinova387-36.jpg
-images:
-- 1-1-Gagarinova-13.jpg
+  - gagarinova387.jpg
+  - gagarinova387-1.jpg
+  - gagarinova387-2.jpg
+  - gagarinova387-3.jpg
+  - gagarinova387-4.jpg
+  - gagarinova387-5.jpg
+  - gagarinova387-6.jpg
+  - gagarinova387-7.jpg
+  - gagarinova387-8.jpg
+  - gagarinova387-9.jpg
+  - gagarinova387-10.jpg
+  - gagarinova387-11.jpg
+  - gagarinova387-12.jpg
+  - gagarinova387-13.jpg
+  - gagarinova387-14.jpg
+  - gagarinova387-15.jpg
+  - gagarinova387-16.jpg
+  - gagarinova387-17.jpg
+  - gagarinova387-18.jpg
+  - gagarinova387-19.jpg
+  - gagarinova387-20.jpg
+  - gagarinova387-21.jpg
+  - gagarinova387-22.jpg
+  - gagarinova387-23.jpg
+  - gagarinova387-24.jpg
+  - gagarinova387-25.jpg
+  - gagarinova387-26.jpg
+  - gagarinova387-27.jpg
+  - gagarinova387-28.jpg
+  - gagarinova387-29.jpg
+  - gagarinova387-30.jpg
+  - gagarinova387-31.jpg
+  - gagarinova387-32.jpg
+  - gagarinova387-33.jpg
+  - gagarinova387-34.jpg
+  - gagarinova387-35.jpg
+  - gagarinova387-36.jpg
 slug: gagarinova
 thumbnail_local: gagarinova387-15.jpg
 price: 5.790.000 Kč
@@ -62,13 +60,13 @@ Byt disponuje třemi neprůchozími pokoji. Největším z nich je obývací pok
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-19.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-20.jpg) |
 
-Na protější straně bytu naleznete dva další pokoje s východní orientací. 
+Na protější straně bytu naleznete dva další pokoje s východní orientací.
 
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387.jpg)   | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-2.jpg) |
 | ----------------------------------------------------------- | ----------------------------------------------------------- |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-6.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-7.jpg) |
 
-Z většího z nich se dostanete na prostornou zasklenou lodžii. 
+Z většího z nich se dostanete na prostornou zasklenou lodžii.
 
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |

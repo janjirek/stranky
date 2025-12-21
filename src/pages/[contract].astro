@@ -32,8 +32,8 @@ const { Content } = await render(entry);
 
 if (entry.data.images_local) {
   for (const image of entry.data.images_local) {
-    photoGalleryData.push({ src: `${entry.data.slug}/${image}`, width: 600, height: 400 });
-    fullSizeImages.push({ src: `${entry.data.slug}/${image}` });
+    photoGalleryData.push({ src: `/${entry.data.slug}/${image}`, width: 600, height: 400 });
+    fullSizeImages.push({ src: `/${entry.data.slug}/${image}` });
   }
 } else {
   for (const image of entry.data.images) {
