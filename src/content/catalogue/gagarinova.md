@@ -1,6 +1,7 @@
 ---
 title: Prodej bytu 3+kk – Gagarinova, Pardubice
 date: 2025-12-20
+type: prodej
 location: Gagarinova 387, 530 09 Pardubice
 description: Prodej bytu 3+kk s prostornou lodžií.
 tags: [byt, prodej, 3+kk, bydlení]
@@ -32,6 +33,16 @@ images_local:
 - gagarinova387-24
 - gagarinova387-25
 - gagarinova387-26
+- gagarinova387-27
+- gagarinova387-28
+- gagarinova387-29
+- gagarinova387-30
+- gagarinova387-31
+- gagarinova387-32
+- gagarinova387-33
+- gagarinova387-34
+- gagarinova387-35
+- gagarinova387-36
 
 slug: gagarinova
 thumbnail_local: gagarinova387-15
@@ -89,9 +100,9 @@ duben 2022 – komplet výměna žaluzií + nové žaluzie na lodžii
 
 K bytu existuje obsáhlá fotodokoumentace k výše zmíněným rekonstrukcím. Zde je malá ukázka:
 
-| ![Byt 3+kk Gagarinova 387](C:\Users\j.jirek\Desktop\Stranky\stranky\public\gagarinova\gagarinova387-28.jpg) | ![Byt 3+kk Gagarinova 387](C:\Users\j.jirek\Desktop\Stranky\stranky\public\gagarinova\gagarinova387-27.jpg) |
-| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ![Byt 3+kk Gagarinova 387](C:\Users\j.jirek\Desktop\Stranky\stranky\public\gagarinova\gagarinova387-29.jpg) | ![Byt 3+kk Gagarinova 387](C:\Users\j.jirek\Desktop\Stranky\stranky\public\gagarinova\gagarinova387-32.jpg) |
+| ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-28.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-27.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-29.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-32.jpg) |
 
 Plyn v bytě není zaveden. Vytápění je dálkové.
 
@@ -101,24 +112,24 @@ Byt je celou dobu obýván pouze jednou osobou a proto je ve velmi zachovalém s
 
 ### Půdorys:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1763996820/1-1-Gagarinova-12.jpg)
+![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-36.jpg)
 
 ### LV:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1763997627/1-1-gagarinova-20.png)
+![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-26.jpg)
 
 ### Poplatky:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1763996819/1-1-Gagarinova-11.jpg)
+![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-24.jpg)
 
 ### Bezdlužnost:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1763997796/1-1-gagarinova-21.png)
+![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-25.jpg)
 
 ### PENB:
 
-![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1763996820/1-1-Gagarinova-13.jpg)
+![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-35.jpg)
 
 ### Kde se nemovitost nachází?:
 
-<iframe style="border:none" src="https://mapy.com/s/jujugohomu" width="700" height="466" frameborder="0"></iframe>
+<iframe style="border:none" src="https://mapy.com/s/monohazato" width="700" height="466" frameborder="0"></iframe>
