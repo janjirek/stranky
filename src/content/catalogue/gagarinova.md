@@ -44,7 +44,7 @@ images_local:
   - gagarinova387-36.jpg
 slug: gagarinova
 thumbnail_local: gagarinova387-15.jpg
-price: 5.790.000 Kč
+price: 5.800.000 Kč
 mapy_link: https://mapy.com/s/pubalegutu
 youtube_link: https://www.youtube.com/embed/oTExkOkyu6c?si=ypV1C1yOsZpkp4y1
 ---
@@ -98,7 +98,7 @@ K bytu existuje obsáhlá fotodokoumentace k výše zmíněným rekonstrukcím. 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-29.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-32.jpg) |
 
-Plyn v bytě není zaveden. Vytápění je dálkové.
+V bytě je zaveden optický internet, plyn je v bytě pouze na vaření a vytápění je dálkové.
 
 Byt je celou dobu obýván pouze jednou osobou a proto je ve velmi zachovalém stavu.
 
@@ -119,12 +119,6 @@ Byt je celou dobu obýván pouze jednou osobou a proto je ve velmi zachovalém s
 ### Bezdlužnost:
 
 ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-25.jpg)
-
-### Zápis ze shromáždění SVJ:
-
-![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-37.jpg)
-![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-38.jpg)
-![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-39.jpg)
 
 ### PENB:
 
