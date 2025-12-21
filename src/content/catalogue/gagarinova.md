@@ -54,17 +54,24 @@ Nabízím vám k prodeji bytovou jednotku o dispozici 3+kk s prostornou lodžií
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oTExkOkyu6c?si=ypV1C1yOsZpkp4y1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Byt disponuje třemi neprůchozími pokoji. Největším z nich je obývací pokoj o velikosti 27 m², který je propojen s kuchyní zhotovenou na míru. Tento pokoj je orientován na západ.
+
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-18.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-19.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-20.jpg) |
+
 Na protější straně bytu naleznete dva další pokoje s východní orientací.
+
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387.jpg)   | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-2.jpg) |
 | ----------------------------------------------------------- | ----------------------------------------------------------- |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-6.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-7.jpg) |
+
 Z většího z nich se dostanete na prostornou zasklenou lodžii.
+
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-10.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-13.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 Všechny pokoje jsou neprůchozí a jsou přístupné z chodby, která vede středem bytu. Na chodbě se nachází vestavná skříň.
+
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-3.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-4.jpg) |
 | ----------------------------------------------------------- | ----------------------------------------------------------- |
 
@@ -86,6 +93,7 @@ duben 2021 – nové zvonky, domácí telefony
 duben 2022 – komplet výměna žaluzií + nové žaluzie na lodžii
 
 K bytu existuje obsáhlá fotodokoumentace k výše zmíněným rekonstrukcím. Zde je malá ukázka:
+
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-28.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-27.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-29.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-32.jpg) |
