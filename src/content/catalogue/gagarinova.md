@@ -7,7 +7,6 @@ description: Prodej bytu 3+kk s prostornou lodžií.
 tags: [byt, prodej, 3+kk, bydlení]
 images_local:
   - gagarinova387.jpg
-  - gagarinova387-1.jpg
   - gagarinova387-2.jpg
   - gagarinova387-3.jpg
   - gagarinova387-4.jpg
@@ -68,12 +67,12 @@ Na protější straně bytu naleznete dva další pokoje s východní orientací
 
 Z většího z nich se dostanete na prostornou zasklenou lodžii.
 
-| ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg) |
+| ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-10.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-13.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 Všechny pokoje jsou neprůchozí a jsou přístupné z chodby, která vede středem bytu. Na chodbě se nachází vestavná skříň.
 
-| ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-17.jpg) |
+| ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-3.jpg) | ![Byt 3+kk Gagarinova 387](/gagarinova/gagarinova387-4.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 Vstupní dveře do bytu jsou bezpečnostní.
