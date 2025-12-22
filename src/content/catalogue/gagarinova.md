@@ -49,7 +49,7 @@ mapy_link: https://mapy.com/s/pubalegutu
 youtube_link: https://www.youtube.com/embed/oTExkOkyu6c?si=ypV1C1yOsZpkp4y1
 ---
 
-Nabízím vám k prodeji bytovou jednotku o dispozici 3+kk s prostornou lodžií, komorou, sklepem a celkové ploše 79,5 m², která se nachází ve šestém patře (7.NP) revitalizovaného panelového domu s výtahem, v ulici Gagarinova 387.
+Nabízím vám k prodeji bytovou jednotku o dispozici 3+kk s prostornou lodžií, komorou, sklepem a celkové ploše 79,8 m², která se nachází ve šestém patře (7.NP) revitalizovaného panelového domu s výtahem, v ulici Gagarinova 387.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oTExkOkyu6c?si=ypV1C1yOsZpkp4y1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
