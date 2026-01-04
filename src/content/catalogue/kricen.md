@@ -41,28 +41,21 @@ Rovinatý pozemek je přístupný z asfaltové obecní komunikace, která vede z
 Na pozemku je několik vzrostlých ovocných stromů a stodola určena k demolici. Máme několik nabídek na demolici současné stavby. **<u>Náklad na demolici bude odečten od kupní ceny</u>**.    ‌
 
 | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-12.jpg) | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-11.jpg) |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 
 Pozemek parc. č. 490/3 (ostatní komunikace) je v majetku obce a je využíván desítky let výlučně majiteli. To samé platí pro zadní část pozemku, kde je zaplocena malá část parcely č. 154/14 v majetku státu, rovněž tento pozemek není užíván nikým jiným než majitely a sousedy.
 
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-32.jpg)
 
-V současné době se dokončuje narovnání hranic se sousedem, aby zákres katastrální mapy odpovídal oplocení.
-
-**Původní stav:**![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-32-4.jpg)
-
-**Nový stav:**
-
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-32-3.jpg) 
-
-![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-32-2.jpg)
-
 Na pozemek je vyvedena obecní kanalizace, dále se zde nachází studna.
 
 | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-16.jpg) | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-15.jpg) |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 
-Elektřina, plyn a CETIN vede při bližší straně silnice.
+Snímek prodávaných pozemků z katastrální mapy:
+![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-35.jpg)
+
+Elektřina, plyn a CETIN vede při bližší straně silnice:
 
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-30-2.jpg)
 
@@ -70,7 +63,7 @@ Elektřina, plyn a CETIN vede při bližší straně silnice.
 
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-30.jpg)
 
-Obecní vodovod je na protější straně silnice.
+Obecní vodovod je na protější straně silnice:
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-30-4.jpg)    ‌
 Výhodou nemovitosti je dobrá dopravní dostupnost – 100 m od zastávky autobusu, cca 5 km na dálnici D11. 
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-8.jpg)
