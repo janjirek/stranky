@@ -20,7 +20,7 @@ images:
 slug: pronajem-sladkovskeho
 price: 12.500 Kč
 mapy_link: https://mapy.com/s/kuhadaruso
-thumbnail: pronajem-sladkovskeho-2
+thumbnail: pronajem-sladkovskeho-9
 
 
 ---
