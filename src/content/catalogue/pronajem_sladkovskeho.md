@@ -1,7 +1,7 @@
 ---
 title: Pronájem bytu 2+1, 52 m² – Sladkovského, Chrudim - Chrudim II
 type: pronájem
-date: 2026-01-020
+date: 2026-01-20
 location: Sladkovského 698, 537 01 Chrudim II
 tags: [pronájem,byt,2+1,Chrudim]
 description: Pronájem zrekonstruovaného bytu 2+1 v Chrudimi.
