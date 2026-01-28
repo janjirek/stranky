@@ -91,9 +91,9 @@ Typicky by měla řešit:
 
 Níže uvedený text je ukázkou smluvního ustanovení používaného v praxi. Nejde o univerzální vzor, ale o ilustraci správné struktury a terminologie:
 
-> **„Smluvní strany se dohodly, že se kupující v souladu s ustanovením § 1916 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, vzdává práv z vadného plnění ve vztahu k faktickému, nikoli právnímu, stavu věcí, jež jsou předmětem převodu dle této kupní smlouvy.  
+> „Smluvní strany se dohodly, že se kupující v souladu s ustanovením § 1916 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, vzdává práv z vadného plnění ve vztahu k faktickému, nikoli právnímu, stavu věcí, jež jsou předmětem převodu dle této kupní smlouvy.  
 > 
-> S ohledem na tuto skutečnost si rovněž smluvní strany sjednaly výši kupní ceny, kdy kupujícímu byla poskytnuta podstatná sleva z kupní ceny.“**
+> S ohledem na tuto skutečnost si rovněž smluvní strany sjednaly výši kupní ceny, kdy kupujícímu byla poskytnuta podstatná sleva z kupní ceny.“
 
 Tato formulace je funkční zejména proto, že:
 
