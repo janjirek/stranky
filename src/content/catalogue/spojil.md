@@ -20,7 +20,7 @@ images:
 - spojil-7
 - spojil-9
 
-price: 6.490.000 Kč
+price: 6.290.000 Kč
 location: Na Okrajích 43, Spojil
 mapy_link: https://mapy.com/s/lacokebome
 slug: pozemek-spojil
