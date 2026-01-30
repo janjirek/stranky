@@ -57,9 +57,10 @@ export const metadata = {
                   <label class="text-xs uppercase tracking-wider text-slate-400 font-bold"
                     >Telefon</label
                   >
+                  {/* Změna barvy na tmavou (slate-900), modrá pouze při hoveru */}
                   <a
                     href={`tel:${about.data.phone}`}
-                    class="block text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors font-cabinet-grotesk"
+                    class="block text-2xl font-bold text-slate-900 dark:text-white hover:text-blue-600 transition-colors font-cabinet-grotesk"
                   >
                     {about.data.phone}
                   </a>
@@ -94,6 +95,18 @@ export const metadata = {
                     {about.data.area}
                   </p>
                 </div>
+
+                {/* --- NOVÁ ČÁST: ADRESA --- */}
+                <div class="group">
+                  <label class="text-xs uppercase tracking-wider text-slate-400 font-bold"
+                    >Adresa kanceláře</label
+                  >
+                  <p class="text-slate-700 dark:text-slate-300">
+                    Sukova tř. 1556, 530 02 Pardubice I
+                  </p>
+                </div>
+                {/* ------------------------- */}
+
               </div>
             </div>
           </div>
