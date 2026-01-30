@@ -29,18 +29,13 @@ const mapsDirections = `https://www.google.com/maps/dir/?api=1&destination=${map
 <Layout title={metadata.title} description={metadata.description}>
   <Hero />
 
-  <section class="relative py-12 md:py-20 bg-gradient-to-b from-slate-50/70 to-white dark:from-slate-950 dark:to-slate-950">
-    {/* Jemná dekorace pozadí */}
-    <div class="pointer-events-none absolute inset-0 overflow-hidden">
-      <div class="absolute -top-28 -left-28 w-96 h-96 rounded-full bg-blue-500/10 blur-3xl"></div>
-      <div class="absolute -bottom-28 -right-28 w-96 h-96 rounded-full bg-indigo-500/10 blur-3xl"></div>
-    </div>
-
-    <div class="relative mx-auto max-w-6xl px-4 sm:px-6">
+  {/* Bez vlastního backgroundu – pozadí řeší standardně Layout/Hero (stejně jako /clanky) */}
+  <section class="relative py-12 md:py-20">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
       <div class="grid lg:grid-cols-2 gap-10 lg:gap-14 items-stretch">
         {/* LEVÝ PANEL */}
         <div
-          class="h-full bg-slate-50/70 dark:bg-slate-900/40 rounded-3xl p-7 md:p-9 ring-1 ring-slate-200/70 dark:ring-slate-700/70 shadow-sm relative overflow-hidden"
+          class="h-full bg-slate-50 dark:bg-slate-800 rounded-3xl p-7 md:p-9 ring-1 ring-slate-200/70 dark:ring-slate-700/70 shadow-sm relative overflow-hidden"
         >
           <div class="absolute top-0 right-0 -mr-14 -mt-14 w-48 h-48 rounded-full bg-blue-500 opacity-5"></div>
 
@@ -51,18 +46,16 @@ const mapsDirections = `https://www.google.com/maps/dir/?api=1&destination=${map
               <Image src={Portrait} alt="Ing. Jan Jírek" class="w-full h-full object-cover" />
             </div>
 
-            <div class="text-center md:text-left space-y-3 w-full">
-              <div>
-                <h2 class="text-2xl md:text-3xl font-extrabold text-slate-900 dark:text-white">
-                  {about.data.name}
-                </h2>
-                <p class="text-slate-600 dark:text-slate-300 font-semibold">Realitní makléř</p>
-              </div>
+            <div class="text-center md:text-left space-y-2 w-full">
+              <h2 class="text-2xl md:text-3xl font-extrabold text-slate-900 dark:text-white">
+                {about.data.name}
+              </h2>
+              <p class="text-slate-600 dark:text-slate-300 font-semibold">Realitní makléř</p>
             </div>
           </div>
 
-          {/* Kontakty – jako vnořená karta */}
-          <div class="rounded-2xl bg-white/70 dark:bg-slate-900/60 ring-1 ring-slate-200/70 dark:ring-slate-700/70 p-6 md:p-7">
+          {/* Kontakty – vnořená karta */}
+          <div class="rounded-2xl bg-white dark:bg-slate-900 ring-1 ring-slate-200/70 dark:ring-slate-700/70 p-6 md:p-7">
             <div class="grid gap-5">
               <div>
                 <label class="text-xs uppercase tracking-wider text-slate-400 font-bold">Telefon</label>
@@ -143,7 +136,6 @@ const mapsDirections = `https://www.google.com/maps/dir/?api=1&destination=${map
             ></iframe>
           </div>
 
-          {/* Jemný odkaz na mapy (volitelné, ale užitečné) */}
           <div class="mt-3 text-sm text-slate-500 dark:text-slate-400">
             <a href={mapsLink} target="_blank" rel="noopener noreferrer" class="hover:text-blue-600 transition">
               Otevřít v Google Maps
