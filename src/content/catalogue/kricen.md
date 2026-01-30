@@ -24,7 +24,7 @@ images:
 - kricen-7
 - kricen-8
 - kricen-9
-price: 3.990.000 Kč
+price: 3.500.000 Kč
 location: Křičeň 56, 533 41 Křičeň 
 mapy_link: https://mapy.com/s/gahamenoje
 slug: pozemek-kricen
