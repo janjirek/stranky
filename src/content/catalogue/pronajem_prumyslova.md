@@ -1,5 +1,5 @@
 ---
-title: Pronájem bytu 1+1 37 m² Průmyslová, Hradec Králové
+title: Pronájem bytu 1+1 39,4 m² Průmyslová, Hradec Králové
 date: 2026-02-23
 location: Průmyslová 1128/7, Hradec Králové
 description: Pronájem bytu 1+1 v centru města Hradce Králové
@@ -19,6 +19,7 @@ images:
 - pronajem_prumyslova-9-3
 price: 12.500 Kč
 slug: pronajem-prumyslova
+mapy_link: https://mapy.com/s/cobosofuze
 thumbnail: pronajem_prumyslova-9-2
 
 ---
