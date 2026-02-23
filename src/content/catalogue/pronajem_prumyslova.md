@@ -4,6 +4,7 @@ date: 2026-02-23
 location: Průmyslová 1128/7, Hradec Králové
 description: Pronájem bytu 1+1 v centru města Hradce Králové
 type: pronájem
+tags: [pronájem,byt,1+1,Hradec Králové]
 images:
 - pronajem_prumyslova
 - pronajem_prumyslova-2
@@ -19,7 +20,6 @@ images:
 price: 12.500 Kč
 slug: pronajem-prumyslova
 thumbnail: pronajem_prumyslova-9-2
-
 
 ---
 
