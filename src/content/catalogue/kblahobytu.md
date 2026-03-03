@@ -47,7 +47,7 @@ Byt nyní disponuje třemi pokoji. Největším z nich je obývací pokoj o veli
 
 Na protější straně bytu naleznete ložnici s orientaci do severního vnitrobloku, zde je podlaha betonová. 
 
-| ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-3.jpg) | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-3.jpg) |
+| ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-5.jpg) | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-6.jpg) |
 | --------------------------------------------------------- | --------------------------------------------------------- |
 
 Ložnice vznikla přesunem kuchyňské linky do původní předsíně. 
