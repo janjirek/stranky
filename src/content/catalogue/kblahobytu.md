@@ -40,27 +40,41 @@ youtube_link: https://www.youtube.com/embed/oTExkOkyu6c?si=ypV1C1yOsZpkp4y1
 Nabízím vám k prodeji bytovou jednotku o dispozici 3+kk se dvěma sklepy o celkové ploše 62,93 m² (51,74 m² podlahová), která se nachází ve zvýšeném přízemí původního cihlového domu, v ulici K Blahobytu 2438.
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-18.jpg)
 Byt nyní disponuje třemi pokoji. Největším z nich je obývací pokoj o velikosti 17 m². A společně s druhým menším pokojem o velikosti zhruba 10 m² jsou orientované do jednosměrné ulice na jižní světovou stranu. V těchto pokojích jsou původní parkety. V celém bytě jsou plastová okna s dvojskly.
+
 | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-3.jpg)  | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-4.jpg)  |
 | ---------------------------------------------------------- | ---------------------------------------------------------- |
 | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-11.jpg) | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-12.jpg) |
-Na protější straně bytu naleznete ložnici s orientaci do severního vnitrobloku, zde je podlaha betonová.
-| ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-5.jpg) | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-6.jpg) |
+
+Na protější straně bytu naleznete ložnici s orientaci do severního vnitrobloku, zde je podlaha betonová. 
+
+| ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-3.jpg) | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-3.jpg) |
 | --------------------------------------------------------- | --------------------------------------------------------- |
+
 Ložnice vznikla přesunem kuchyňské linky do původní předsíně. 
+
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-9.jpg)
+
 Prostorná koupelna s toaletou velikostně pojmula jak sprchový kout, tak vanu.
 Vytápění bytu je dálkové (Opatovice) a ohřev vody je zde karmou.
+
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-10.jpg)
+
 Z chodby se dostanete jak do ložnice, tak do obývacího pokoje.
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-8.jpg)
+
 Přímo pod bytem se nachází prostorný sklep s vlastní elektřinou dotaženou z bytové jednotky. Regulérní dílna přímo v domě.
+
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-17.jpg)
+
 Dvůr ve vnitrobloku je volně k užívání, např. k věšení prádla.
+
 | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-14.jpg) | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-15.jpg) |
 | ---------------------------------------------------------- | ---------------------------------------------------------- |
+
 Bytová jednotka je v původním stavu. Ač byla několik let pronajímána, vyžaduje kompletní rekonstrukci od podlah až po strop.
 
 Samotnou lokalitu není třeba představovat, nachází se v samém centru Pardubic.
+
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-1.jpg)
 
 ## Praktické informace
