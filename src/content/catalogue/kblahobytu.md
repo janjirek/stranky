@@ -30,6 +30,7 @@ images_local:
   - kblahobytu-22.jpg
   - kblahobytu-23.jpg
   - kblahobytu-24.jpg
+  - kblahobytu-25.jpg
 slug: kblahobytu
 thumbnail_local: kblahobytu-24.jpg
 price: PŘIPRAVUJEME
@@ -103,7 +104,7 @@ Z důvodu prakticky původního stavu bytového domu jsou poplatky velmi nízké
 
 Na bytové jednotce neváznou žádné velké dlužné částky, vyjma drobného nedoplatku, který je evidován u firmy CESORG. Ten bude uhrazen v rámci celoročního vyúčtování.
 
-![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-19.jpg)
+![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-25.jpg)
 
 ### Zápis z poslední schůze SVJ:
 
