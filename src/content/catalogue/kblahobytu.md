@@ -33,6 +33,8 @@ images_local:
   - kblahobytu-25.jpg
   - kblahobytu-26.jpg
   - kblahobytu-27.jpg
+  - kblahobytu-28.jpg
+  - kblahobytu-29.jpg
 slug: kblahobytu
 thumbnail_local: kblahobytu-24.jpg
 price: PŘIPRAVUJEME
@@ -104,8 +106,8 @@ Na bytové jednotce probíhá vklad zástavního práva ve výši 4 mil. Kč z d
 Poplatky do fondu oprav jsou nízké. SVJ nyní zvažuje zateplení, nyní jsou ve stavu  odsouhlasení vyhotovení projektu. Při odsouhlasení zateplení se určitě příspěvky do fondu oprav zvýší, ale určitě to i zvýší teplotní komfort, zlepší vzhled budovy a tudíž to zvýší i tržní cenu. Taktéž je v bytovém domě volný půdní prostor pro vestavbu, avšak se o prodeji zatím neuvažovalo. 
 
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-20.jpg)
-![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-25.jpg)
-![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-26.jpg)
+![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-28.jpg)
+![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-29.jpg)
 
 ### Bezdlužnost:
 
