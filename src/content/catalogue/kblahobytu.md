@@ -31,6 +31,8 @@ images_local:
   - kblahobytu-23.jpg
   - kblahobytu-24.jpg
   - kblahobytu-25.jpg
+  - kblahobytu-26.jpg
+  - kblahobytu-27.jpg
 slug: kblahobytu
 thumbnail_local: kblahobytu-24.jpg
 price: PŘIPRAVUJEME
@@ -74,7 +76,9 @@ Dvůr ve vnitrobloku je volně k užívání, např. k věšení prádla.
 
 Bytová jednotka je v původním stavu. Ač byla několik let pronajímána, vyžaduje kompletní rekonstrukci od podlah až po strop.
 
-Samotnou lokalitu není třeba představovat, nachází se v samém centru Pardubic.
+Dům prošel revitalizací střechy, oken a rozvodů topení.
+
+Samotnou lokalitu není třeba představovat, nachází se v samém centru Pardubic. V blízkosti škola, školka, obchody a další škola ve výstavbě.
 
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-1.jpg)
 
@@ -87,22 +91,25 @@ Samotnou lokalitu není třeba představovat, nachází se v samém centru Pardu
 ### Prohlášení Vlastníka:
 
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-19.jpg)
+![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-27.jpg)
 
 ### LV:
 
-Na bytové jednotce vázne zástavní právo ve výši 4 mil. Kč z důvodu příbuzenské půjčky pro koupi rodinného domu. Peníze byly potřeba dříve než by proběhl prodej bytové jednotky. Tato částka bude splacena z advokátní úschovy a zástavní právo bude vymazáno. Způsob se bude lišit od metody financování.
+Na bytové jednotce probíhá vklad zástavního práva ve výši 4 mil. Kč z důvodu příbuzenské půjčky pro koupi rodinného domu. Majitel potřeboval prostředky dříve než by proběhl prodej bytové jednotky. Tato částka bude splacena z advokátní úschovy a zástavní právo bude vymazáno. Způsob se bude lišit od metody financování.
 
-![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-19.jpg)
+![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-26.jpg)
 
 ### Poplatky:
 
-Z důvodu prakticky původního stavu bytového domu jsou poplatky velmi nízké. SVJ nyní zvažuje zateplení. Taktéž je v bytovém domě volný půdní prostor pro vestavbu, avšak se o prodeji zatím neuvažovalo. 
+Poplatky do fondu oprav jsou nízké. SVJ nyní zvažuje zateplení, nyní jsou ve stavu  odsouhlasení vyhotovení projektu. Při odsouhlasení zateplení se určitě příspěvky do fondu oprav zvýší, ale určitě to i zvýší teplotní komfort, zlepší vzhled budovy a tudíž to zvýší i tržní cenu. Taktéž je v bytovém domě volný půdní prostor pro vestavbu, avšak se o prodeji zatím neuvažovalo. 
 
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-20.jpg)
+![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-25.jpg)
+![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-26.jpg)
 
 ### Bezdlužnost:
 
-Na bytové jednotce neváznou žádné velké dlužné částky, vyjma drobného nedoplatku, který je evidován u firmy CESORG. Ten bude uhrazen v rámci celoročního vyúčtování.
+Na bytové jednotce neváznou žádné dlužné částky.
 
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-25.jpg)
 
