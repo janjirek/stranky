@@ -39,11 +39,13 @@ slug: kblahobytu
 thumbnail_local: kblahobytu-24.jpg
 price: PŘIPRAVUJEME
 mapy_link: https://mapy.com/s/moforanafo
-youtube_link: https://www.youtube.com/embed/oTExkOkyu6c?si=ypV1C1yOsZpkp4y1
+youtube_link: https://www.youtube.com/embed/a1xYQjKoCXI?si=zPQBG20oEN63Bp3Y
 ---
 
 Nabízím vám k prodeji bytovou jednotku o dispozici 3+kk se dvěma sklepy o celkové ploše 62,93 m² (51,74 m² podlahová), která se nachází ve zvýšeném přízemí původního cihlového domu, v ulici K Blahobytu 2438.
-![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-18.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a1xYQjKoCXI?si=zPQBG20oEN63Bp3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Byt nyní disponuje třemi pokoji. Největším z nich je obývací pokoj o velikosti 17 m². A společně s druhým menším pokojem o velikosti zhruba 10 m² jsou orientované do jednosměrné ulice na jižní světovou stranu. V těchto pokojích jsou původní parkety. V celém bytě jsou plastová okna s dvojskly.
 
 | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-3.jpg)  | ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-4.jpg)  |
