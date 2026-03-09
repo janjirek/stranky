@@ -107,6 +107,8 @@ Na bytové jednotce probíhá vklad zástavního práva ve výši 4 mil. Kč z d
 
 Poplatky do fondu oprav jsou nízké. SVJ nyní zvažuje zateplení, nyní jsou ve stavu  odsouhlasení vyhotovení projektu. Při odsouhlasení zateplení se určitě příspěvky do fondu oprav zvýší, ale určitě to i zvýší teplotní komfort, zlepší vzhled budovy a tudíž to zvýší i tržní cenu. Taktéž je v bytovém domě volný půdní prostor pro vestavbu, avšak se o prodeji zatím neuvažovalo. 
 
+Dle poslední schůze SVJ konané 07.03.2026 bylo odsouhlaseno navýšení poplatků do fondu oprav z původních 20 Kč/m² na 40 Kč/m² a to od 01.05.2026.
+
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-20.jpg)
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-28.jpg)
 ![Byt 3+kk KBlahobytu_2438](/kblahobytu/kblahobytu-29.jpg)
