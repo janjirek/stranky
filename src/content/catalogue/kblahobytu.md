@@ -37,7 +37,7 @@ images_local:
   - kblahobytu-29.jpg
 slug: kblahobytu
 thumbnail_local: kblahobytu-24.jpg
-price: 4.390.000 Kč
+price: Rezervováno
 mapy_link: https://mapy.com/s/moforanafo
 youtube_link: https://www.youtube.com/embed/a1xYQjKoCXI?si=zPQBG20oEN63Bp3Y
 ---
