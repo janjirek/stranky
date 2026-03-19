@@ -12,7 +12,7 @@ Disallow: /private/
 Allow: /nemovitosti/
 Allow: /sluzby/
 Allow: /reference/
-Allow: /blog/
+Allow: /clanky/
 Allow: /kontakt/
 Allow: /o-mne/
 

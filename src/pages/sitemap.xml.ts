@@ -10,13 +10,13 @@ export async function GET() {
   const blogEntries = await getCollection('blog');
 
   // Define static pages
-  const staticPages = ['', '/nemovitosti', '/sluzby', '/reference', '/blog', '/kontakt', '/o-mne'];
+  const staticPages = ['', '/nemovitosti', '/sluzby', '/reference', '/clanky', '/kontakt', '/o-mne'];
 
   // Create sitemap entries
   const sitemapEntries = [
     // Static pages
     ...staticPages.map(page => ({
-      url: `${baseUrl}${page}`,
+      url: `${baseUrl}/${page}`,
       lastmod: new Date().toISOString(),
       changefreq: 'weekly' as const,
       priority: page === '' ? 1.0 : 0.8,
@@ -32,7 +32,7 @@ export async function GET() {
 
     // Blog pages
     ...blogEntries.map(entry => ({
-      url: `${baseUrl}${entry.data.slug}`,
+      url: `${baseUrl}/${entry.data.slug}`,
       lastmod: new Date().toISOString(),
       changefreq: 'monthly' as const,
       priority: 0.7,
