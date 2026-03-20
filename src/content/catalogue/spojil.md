@@ -43,7 +43,7 @@ Na pozemku je zřízena přípojka obecní vody. Elektřina, CETIN a kanalizace 
 ![pozemek Spojil](/pozemek-spojil/pozemekspojil-2.jpg)
 ![pozemek Spojil](/pozemek-spojil/spojil-2.jpg) 
 A jak by mohl vypadat váš dům? Třeba takto:
-![pozemek Spojil](/pozemek-spojil/spojil-15.jpg) 
+![pozemek Spojil](/pozemek-spojil/spojil-16.jpg) 
 Spojil nabízí výbornou dostupnost do centra města, ať už MHD, či na kole po cyklostezce.
 
 ![pozemek Spojil](/pozemek-spojil/pozemekspojil-5.jpg)
