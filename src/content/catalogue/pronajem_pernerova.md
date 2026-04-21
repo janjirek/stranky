@@ -1,4 +1,4 @@
-```yaml
+---
 title: Pronájem bytu 3+kk, 65 m² – Pernerova 2802, Pardubice
 date: 2026-04-21
 location: Pernerova 2802,530 02 Pardubice I-Zelené Předměstí
@@ -28,7 +28,10 @@ price: 19.800 Kč
 slug: pronajem-pernerova
 mapy_link: https://mapy.com/s/lozojokalo
 thumbnail: pronajem-pernerova-17
-```
+
+---
+
+<iframe width="853" height="480" src="https://my.matterport.com/show/?m=g1wrZbsuukm" frameborder="0" allowfullscreen allow="autoplay; fullscreen; web-share; xr-spatial-tracking;"></iframe>
 
 Světlý 3+kk ve 3. patře moderního bytového domu s výtahem čeká na nové nájemníky. K dispozici ihned.
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1769183407/pronajem-pernerova-17.jpg)
@@ -69,6 +72,8 @@ Vratná kauce činí 25 000 Kč, provize RK 19 800 Kč.
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1769183407/pronajem-pernerova.jpg)
 
 ### Kde se nemovitost nachází?:
+
+<iframe style="border:none" src="https://mapy.com/s/junakeleho" width="700" height="466" frameborder="0"></iframe>
 
 <iframe style="border:none" src="https://mapy.com/s/junakeleho" width="700" height="466" frameborder="0"></iframe>
 
