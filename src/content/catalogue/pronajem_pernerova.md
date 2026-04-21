@@ -1,11 +1,11 @@
+```yaml
 title: Pronájem bytu 3+kk, 65 m² – Pernerova 2802, Pardubice
-type: pronájem
-date: 2026-04-20
+date: 2026-04-21
 location: Pernerova 2802,530 02 Pardubice I-Zelené Předměstí
-tags: [pronájem,byt,3+kk,Pardubice]
 description: Pronájem bytu 3+kk v centru Pardubic.
+type: pronájem
+tags: [pronájem,byt,3+kk,Pardubice]
 images:
-
 - pronajem-pernerova
 - pronajem-pernerova-2
 - pronajem-pernerova-3
@@ -24,14 +24,13 @@ images:
 - pronajem-pernerova-16
 - pronajem-pernerova-17
 - pronajem-pernerova-18
-  slug: pronajem-pernerova
-  price: 19.800 Kč
-  mapy_link: https://mapy.com/s/lozojokalo
-  thumbnail: pronajem-pernerova-17
+price: 19.800 Kč
+slug: pronajem-pernerova
+mapy_link: https://mapy.com/s/lozojokalo
+thumbnail: pronajem-pernerova-17
+```
 
-<iframe width="853" height="480" src="https://my.matterport.com/show/?m=g1wrZbsuukm" frameborder="0" allowfullscreen allow="autoplay; fullscreen; web-share; xr-spatial-tracking;"></iframe>
-
-Centrum Pardubic, nízké náklady a parkování bez starostí – tohle je byt, který hledáte. Světlý 3+kk ve 3. patře moderního bytového domu s výtahem čeká na nové nájemníky. K dispozici ihned.
+Světlý 3+kk ve 3. patře moderního bytového domu s výtahem čeká na nové nájemníky. K dispozici ihned.
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1769183407/pronajem-pernerova-17.jpg)
 Tři samostatné neprůchozí pokoje přístupné z chodby dávají každému svůj prostor – ať už ho využijete jako ložnici, pracovnu nebo jako dětský pokoj.
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1769183407/pronajem-pernerova-10.jpg)
