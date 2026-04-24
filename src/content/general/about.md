@@ -17,9 +17,9 @@ instagram: https://www.instagram.com/jirek.jan/
 
 youtube: https://www.youtube.com/@janjirekreality
 
-years: 13
+years: 14
 
-estates: 300
+estates: 315
 
 clients: 550
 ---
