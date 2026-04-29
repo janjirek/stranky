@@ -7,7 +7,6 @@ type: pronájem
 tags: [pronájem,byt,3+1,Dukla,Pardubice]
 images:
 - pronajem_Jirankova_2206
-- pronajem_Jirankova_2206-1
 - pronajem_Jirankova_2206-2
 - pronajem_Jirankova_2206-3
 - pronajem_Jirankova_2206-4
@@ -31,7 +30,6 @@ thumbnail: pronajem_Jirankova_2206-16
 ---
 
 Hledáte prostorný zrekonstruovaný byt s balkónem na Dukle? Tohle by mohlo být přesně ono. 
-
 
 Byt o dispozici 3+1 a podlahové ploše 70 m² (celkové ploše 79 m²) se nachází ve 3. patře cihlového domu bez výtahu, v ulici Jiránkova 2206.
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1777445475/pronajem_Jirankova_2206-16.jpg)
