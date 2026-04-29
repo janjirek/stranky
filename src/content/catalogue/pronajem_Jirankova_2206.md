@@ -1,5 +1,5 @@
 ---
-title: Pronájem bytu 3+1, 70 m² – Jiránkova 2602, Pardubice
+title: Pronájem bytu 3+1, 70 m² – Jiránkova 2206, Pardubice
 date: 2026-04-29
 location: Jiránkova 2206, 53002 Pardubice V - Zelené Předměstí, Česko
 description: Pronájem bytu 3+1 s balkónem na Dukle, Pardubice.
