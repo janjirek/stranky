@@ -6,7 +6,7 @@ location: K Blahobytu 2438, 530 02 Pardubice
 description: Prodej bytu 3+kk v přízemí cihlového domu vzniklého z původní 2+1.
 tags: [byt, prodej, 3+kk, bydlení, Pardubic, K Blahobytu]
 images:
-  - kblahobytu-1
+  - kblahobytu
   - kblahobytu-2
   - kblahobytu-3
   - kblahobytu-4
