@@ -47,7 +47,7 @@ slug: nalabisti
 thumbnail_local: nalabisti-30.jpg
 price: 5.300.000 Kč
 mapy_link: https://mapy.com/s/jopumoroka
-youtube_link: https://youtu.be/-DSx6TCBZmw?si=U7T5jwtuQInJI-QJ
+youtube_link: https://www.youtube.com/watch?v=-DSx6TCBZmw
 ---
 
 Nabízím vám k prodeji bytovou jednotku o dispozici 2+kk s komorou o celkové ploše 59,65 m², která se nachází ve druhém nadzemním podlaží revitalizovaného domu z roku 1998, v ulici Na Labišti 530, Pardubice.
