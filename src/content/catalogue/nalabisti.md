@@ -45,7 +45,7 @@ images_local:
   - nalabisti-37.jpg
 slug: nalabisti
 thumbnail_local: nalabisti-30.jpg
-price: 5.300.000 Kč
+price: Rezervováno
 mapy_link: https://mapy.com/s/jopumoroka
 youtube_link: https://www.youtube.com/embed/-DSx6TCBZmw?si=AiXXY8_lVTmdg-Gf
 ---
