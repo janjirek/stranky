@@ -50,7 +50,7 @@ slug: gagarinova386
 thumbnail_local: gagarinova386-14.jpg
 price: Připravuji
 mapy_link: https://mapy.com/s/bafepuzeha
-youtube_link: https://youtu.be/zdnoCF8HTSM?si=lFLuCUcMo58siuxm
+youtube_link: https://www.youtube.com/embed/zdnoCF8HTSM?si=lFLuCUcMo58siuxm
 ---
 
 Nabízím vám k prodeji bytovou jednotku o dispozici 2+1 s komorou, sklepem a lodžií na patře o celkové ploše 56,3 m², která se nachází ve 4. nadzemním podlaží revitalizovaného domu, v ulici Na Gagarinova 386, Pardubice.
