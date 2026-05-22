@@ -53,7 +53,7 @@ mapy_link: https://mapy.com/s/bafepuzeha
 youtube_link: https://www.youtube.com/embed/zdnoCF8HTSM?si=lFLuCUcMo58siuxm
 ---
 
-Nabízím vám k prodeji bytovou jednotku o dispozici 2+1 s komorou, sklepem a lodžií na patře o celkové ploše 56,3 m², která se nachází ve 4. nadzemním podlaží revitalizovaného domu, v ulici Na Gagarinova 386, Pardubice.
+Nabízím vám k prodeji bytovou jednotku o dispozici 2+1 s komorou, sklepem a lodžií na patře o celkové ploše 56,3 m², která se nachází ve 4. nadzemním podlaží revitalizovaného domu, v ulici Gagarinova 386, Pardubice.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zdnoCF8HTSM?si=ffGBbSImY6ZXLuqO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -70,7 +70,7 @@ Ložnice nemá okno, nicméně jsou zde širší posuvné dveře, které dodáva
 Kuchyň disponuje linkou z roku 2014. Je vybavena elektrickou troubou, plynovým sporákem a digestoří. 
 ![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-1.jpg)
 
-V roce 2014 proběhla rekonstrukce jádra a elektřiny (1x20A), takže koupelna již není původní, ale je vyzděna z ytongu. Část za záchodem je sádrokartonová.
+V roce 2014 proběhla rekonstrukce jádra a elektřiny (1×20 A), čili koupelna již není původní, ale je vyzděna z ytongu. Část za záchodem je sádrokartonová.
 ![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-6.jpg)
 Na chodbě je dostatek místa pro vestavnou skříň. Vstupní dveře do bytu jsou protipožární.
 ![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-7.jpg)
