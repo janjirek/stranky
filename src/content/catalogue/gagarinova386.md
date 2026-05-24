@@ -48,7 +48,7 @@ images_local:
   - gagarinova386-40.jpg
 slug: gagarinova386
 thumbnail_local: gagarinova386-14.jpg
-price: Připravuji
+price: 4.650.000 Kč
 mapy_link: https://mapy.com/s/bafepuzeha
 youtube_link: https://www.youtube.com/embed/zdnoCF8HTSM?si=lFLuCUcMo58siuxm
 ---
