@@ -46,6 +46,7 @@ images_local:
   - gagarinova386-38.jpg
   - gagarinova386-39.jpg
   - gagarinova386-40.jpg
+  - gagarinova386-41.jpg
 slug: gagarinova386
 thumbnail_local: gagarinova386-14.jpg
 price: 4.650.000 Kč
@@ -99,6 +100,10 @@ V domě je kamerový systém.
 ### Prohlášení vlastníka:
 
 ![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-21.jpg)
+
+### Bezdlužnost:
+
+![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-41.jpg)
 
 ### Poplatky:
 
