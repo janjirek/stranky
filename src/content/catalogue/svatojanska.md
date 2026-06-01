@@ -65,7 +65,7 @@ youtube_link: https://www.youtube.com/embed/97iViILv-pQ?si=QxCbAtRM9InLUthu
 
 Nabízím vám k prodeji prostorný byt o dispozici 4+kk, který se nachází v Rezidenci Podzámčí ve Svatojánské ulici v Hradci Králové.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97iViILv-pQ?si=QxCbAtRM9InLUthu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97iViILv-pQ?si=-ZT_eYkmQq4IOabU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Bytový dům byl dokončen v roce 2020 a samotná bytová jednotka nabízí podlahovou plochu přes 100 m². K bytu dále náleží lodžie o výměře 9 m² a komora o velikosti 3 m², takže celkově budete využívat téměř 114 m² prostoru.
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-33.jpg)
