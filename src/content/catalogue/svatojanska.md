@@ -143,6 +143,8 @@ List vlastnictví je poměrně obsáhlý a bude předán zájemcům na prohlídc
 
 ### Poplatky:
 
+Byt obývají čtyři dospělé osoby, pracující/studující z domova. Proto jsou spotřeby vyšší.
+
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-45.jpg)
 
 ### Poslední vyúčtování:
