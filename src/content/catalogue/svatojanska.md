@@ -58,7 +58,7 @@ images_local:
   - svatojanska-50.jpg
 slug: svatojanska
 thumbnail_local: svatojanska-51.jpg
-price: Připravuji
+price: 12.800.000 Kč
 mapy_link: https://mapy.com/s/nuvukarejo
 youtube_link: https://www.youtube.com/embed/97iViILv-pQ?si=QxCbAtRM9InLUthu
 ---
@@ -71,7 +71,7 @@ Bytový dům byl dokončen v roce 2020 a samotná bytová jednotka nabízí podl
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-33.jpg)
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-35.jpg)
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-39.jpg)
-Centram bytu je velkorysý obývací pokoj s kuchyňským koutem o výměře 35 m².
+Centrem bytu je velkorysý obývací pokoj s kuchyňským koutem o výměře 35 m².
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-23.jpg)
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-24.jpg)
 Kuchyňská linka je vybavena vestavěnými spotřebiči a ostrůvkem.
@@ -101,7 +101,7 @@ Na lodžii o výměře 9 m² je vstup ze všech pokojů s výjimkou ložnice, ta
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-15.jpg)
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-16.jpg)
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-17.jpg)
-Praktickou stránku bydlení doplňuje prostorné zádveří schodbou.
+Praktickou stránku bydlení doplňuje prostorné zádveří s chodbou.
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-12.jpg)
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-13.jpg)
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-5.jpg)
@@ -109,7 +109,7 @@ Praktickou stránku bydlení doplňuje prostorné zádveří schodbou.
 Komora je umístěna hned vedle bytu.
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-36.jpg)
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-37.jpg)
-V bytě je dálkové podlahové vytápění, klimatizace v obývacím pokoji a venkovní žaluzie. Okna orientovaná na lodžii jsou osazeny klasickými žaluziemi.
+V bytě je dálkové podlahové vytápění, klimatizace v obývacím pokoji a venkovní žaluzie. Okna orientovaná na lodžii jsou osazena klasickými žaluziemi.
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-27.jpg)
 Dům je navíc vybaven vlastní fotovoltaikou, kamerovým systémem a úpravnou vody.
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-44.jpg)
@@ -120,6 +120,8 @@ Lokalita patří k tomu nejlepšímu, co Hradec Králové nabízí. V bezprostř
 Výborné jsou také možnosti volnočasového vyžití – cyklostezka směrem na Vysokou nad Labem nebo Hradecké lesy přes Roudničku jsou doslova za rohem. 
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-40.jpg)
 Parkování v okolí domu je bez poplatku.
+
+Byt bude k nastěhování 11-12/2026.
 
 ## Praktické informace
 
