@@ -149,10 +149,14 @@ Byt obývají čtyři dospělé osoby, pracující/studující z domova. Proto j
 
 ### Poslední vyúčtování:
 
+Vyúčtování končí přeplatkem.
+
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-48.jpg)
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-49.jpg)
 
 ### PENB:
+
+PENB je B. FVE byla zhotovena později.
 
 ![Byt 4+kk Svatojánská](/svatojanska/svatojanska-52.jpg)
 
