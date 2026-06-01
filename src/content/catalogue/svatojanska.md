@@ -139,7 +139,7 @@ Parkování v okolí domu je bez poplatku.
 
 List vlastnictví je poměrně obsáhlý a bude předán zájemcům na prohlídce.
 
-![Byt 4+kk Svatojánská](/svatojanska/svatojanska-46.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-50.jpg)
 
 ### Poplatky:
 
