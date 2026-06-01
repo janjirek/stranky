@@ -64,58 +64,61 @@ youtube_link: https://www.youtube.com/embed/97iViILv-pQ?si=QxCbAtRM9InLUthu
 ---
 
 Nabízím vám k prodeji prostorný byt o dispozici 4+kk, který se nachází v Rezidenci Podzámčí ve Svatojánské ulici v Hradci Králové.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/97iViILv-pQ?si=QxCbAtRM9InLUthu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Bytový dům byl dokončen v roce 2020 a samotná bytová jednotka nabízí podlahovou plochu přes 100 m². K bytu dále náleží lodžie o výměře 9 m² a komora o velikosti 3 m², takže celkově budete využívat téměř 114 m² prostoru.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-33.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-35.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-39.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-33.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-35.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-39.jpg)
 Centram bytu je velkorysý obývací pokoj s kuchyňským koutem o výměře 35 m².
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-23.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-24.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-23.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-24.jpg)
 Kuchyňská linka je vybavena vestavěnými spotřebiči a ostrůvkem.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-26.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-28.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-19.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-26.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-18.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-19.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-28.jpg)
 Celý prostor nabízí dostatek místa jak pro velký jídelní stůl, tak pro pohodlnou sedací soupravu.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-21.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-20.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-21.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-20.jpg)
 Výhodou jsou další tři samostatné neprůchozí pokoje, každý o výměře kolem 14 m².
 Nyní jsou dva pokoje využívány jako dětské pokoje.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-2.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-3.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-10.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-9.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-2.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-3.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-10.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-9.jpg)
 A třetí pokoj jako ložnice.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-29.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-11.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-29.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-11.jpg)
 V každém z pokojů naleznete vestavěné skříně.
 Koupelna je vybavena vanou a nabízí i dostatek místa pro pračku a sušičku.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-1.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-1.jpg)
 Toaleta je samostatná.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-4.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-4.jpg)
 Na lodžii o výměře 9 m² je vstup ze všech pokojů s výjimkou ložnice, takže většina bytu má přímé propojení s venkovním prostorem.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-14.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-15.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-16.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-17.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-14.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-15.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-16.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-17.jpg)
 Praktickou stránku bydlení doplňuje prostorné zádveří schodbou.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-12.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-13.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-5.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-6.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-12.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-13.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-5.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-6.jpg)
 Komora je umístěna hned vedle bytu.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-36.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-37.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-36.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-37.jpg)
 V bytě je dálkové podlahové vytápění, klimatizace v obývacím pokoji a venkovní žaluzie. Okna orientovaná na lodžii jsou osazeny klasickými žaluziemi.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-27.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-27.jpg)
 Dům je navíc vybaven vlastní fotovoltaikou, kamerovým systémem a úpravnou vody.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-44.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-44.jpg)
 Lokalita patří k tomu nejlepšímu, co Hradec Králové nabízí. V bezprostřední blízkosti najdete zastávku MHD, mateřskou školu, obchod Penny i golfové hřiště.
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-42.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-32.jpg)
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-31.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-42.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-32.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-31.jpg)
 Výborné jsou také možnosti volnočasového vyžití – cyklostezka směrem na Vysokou nad Labem nebo Hradecké lesy přes Roudničku jsou doslova za rohem. 
-![Byt 2+1 Gagarinova 386](/gagarinova386/gagarinova386-40.jpg)
+![Byt 4+kk Svatojánská](/svatojanska/svatojanska-40.jpg)
 Parkování v okolí domu je bez poplatku.
 
 ## Praktické informace
