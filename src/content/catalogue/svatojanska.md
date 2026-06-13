@@ -58,7 +58,7 @@ images_local:
   - svatojanska-50.jpg
 slug: svatojanska
 thumbnail_local: svatojanska-51.jpg
-price: 12.800.000 Kč
+price: Rezervováno
 mapy_link: https://mapy.com/s/nuvukarejo
 youtube_link: https://www.youtube.com/embed/97iViILv-pQ?si=QxCbAtRM9InLUthu
 ---
