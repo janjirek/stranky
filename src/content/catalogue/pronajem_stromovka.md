@@ -1,6 +1,6 @@
 ---
 title: Pronájem bytu 2+kk – Ve Stromovce, Hradec Králové
-date: 2025-03-01
+date: 2026-06-29
 location: Ve Stromovce 670/11, Hradec Králové
 description: Pronájem bytu 2+kk v oblíbené lokalitě, blízko cyklostezky, Hradec Králové
 images:
@@ -20,6 +20,9 @@ images:
 - pronajem_stromovka-7
 - pronajem_stromovka-8
 - pronajem_stromovka-9
+price: 16.500 Kč
+type: pronájem
+tags: [pronájem,byt,2+kk,Ve Stromovce,Hradec Králové]
 slug: pronajem-stromovka
 thumbnail: pronajem_stromovka-3
 
@@ -33,15 +36,15 @@ Chcete bydlet na dosah přírody i města? Tento světlý a promyšleně řešen
 Obývací pokoj je propojený s plně vybavenou kuchyňskou linkou, která obsahuje myčku, mikrovlnnou troubu, lednici s mrazákem a jídelní stůl se židlemi.
 
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-7.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-8.jpg)  |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-6.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-14.jpg) |
 
 Ložnice je zařízena manželskou postelí s kvalitními matracemi a šatní skříní. 
 
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-12.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-11.jpg) |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 
-V koupelně se nachází sprchový kout a prostor na pračku. 
+V koupelně se nachází sprchový kout i pračka. 
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-10.jpg)
 
