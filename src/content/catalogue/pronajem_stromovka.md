@@ -44,7 +44,7 @@ Ložnice je zařízena manželskou postelí s kvalitními matracemi a šatní sk
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-12.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-11.jpg) |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 
-V koupelně se nachází sprchový kout i pračka. 
+V koupelně se nachází sprchový kout, toaleta i pračka. 
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754728903/pronajem_stromovka-10.jpg)
 
