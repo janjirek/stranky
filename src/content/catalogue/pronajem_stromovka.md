@@ -24,6 +24,7 @@ price: 16.500 Kč
 type: pronájem
 tags: [pronájem,byt,2+kk,Ve Stromovce,Hradec Králové]
 slug: pronajem-stromovka
+mapy_link: https://mapy.com/s/famoteseko
 thumbnail: pronajem_stromovka-3
 
 
@@ -79,4 +80,4 @@ Pro více informací nebo domluvení prohlídky mě kontaktujte.
 
 ### Kde se nemovitost nachází?:
 
-<iframe style="border:none" src="https://mapy.com/s/cetojepege" width="700" height="466" frameborder="0"></iframe>
+<iframe style="border:none" src="https://mapy.com/s/rekekucaco" width="700" height="466" frameborder="0"></iframe>
