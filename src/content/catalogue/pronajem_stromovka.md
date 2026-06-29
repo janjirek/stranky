@@ -29,7 +29,7 @@ thumbnail: pronajem_stromovka-3
 
 ---
 
-Chcete bydlet na dosah přírody i města? Tento světlý a promyšleně řešený byt 2+kk o celkové velikosti 51 m² (podlahová plocha 45 m²) se nachází ve 4. NP zděného domu s výtahem a nabízí pohodlné bydlení pro aktivní životní styl.
+Chcete bydlet na dosah přírody i města? Tento světlý a promyšleně řešený byt 2+kk o celkové velikosti 51 m² (podlahová plocha 45 m²) se nachází ve 4. NP zděného domu s výtahem a nabízí pohodlné bydlení pro aktivní životní styl. 
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754767256/pronajem_stromovka-3.jpg)
 
