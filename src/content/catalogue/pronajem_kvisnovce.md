@@ -24,7 +24,7 @@ images:
 price: 11.600 Kč
 slug: pronajem-kvisnovce-2436
 mapy_link: https://mapy.com/s/lahorojofo
-thumbnail: pronajem_k_visnovce_2436-14
+thumbnail: pronajem_k_visnovce_2436
 
 ---
 
