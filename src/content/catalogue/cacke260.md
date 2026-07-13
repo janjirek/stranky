@@ -31,7 +31,7 @@ images:
 price: 24.000 Kč
 slug: pronajem-cacke-3
 mapy_link: https://mapy.com/s/dudutonoma
-thumbnail: cacke-260-3-7
+thumbnail: cacke260-3-7
 
 ---
 
