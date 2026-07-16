@@ -82,7 +82,7 @@ Toaleta je samostatná.
 Praktickou stránku bydlení doplňuje zádveří s vestavěnými skříněmi vyrobenými na míru.
 ![Byt 3+kk Na Občinách](/naobcinach/naobcinach-18.jpg)
 
-Rekonstrukce byla provedena s důrazem na detail a celkové provedení. Moderní bezfalcové dveře, lepená vinylová podlaha, vestavěné úložné prostory a kvalitní materiály vytvářejí dojem bydlení, které se bez problémů vyrovná i dnešním novostavbám. Elektřina je v bytě třífázová.
+Rekonstrukce byla provedena s důrazem na detail a celkové provedení. Moderní bezfalcové dveře, lepená vinylová podlaha, vestavěné úložné prostory a kvalitní materiály vytvářejí dojem bydlení, které se bez problémů vyrovná i dnešním novostavbám. Elektřina je v bytě třífázová. K bytu náleží také sklep o velikosti 2,8 m². Obyvatelé bytu mohou navíc využívat sdílenou kočárkárnu v přízemí domu, která slouží pouze čtyřem bytovým jednotkám.
 ![Byt 3+kk Na Občinách](/naobcinach/naobcinach-8.jpg)
 ![Byt 3+kk Na Občinách](/naobcinach/naobcinach-18.jpg)
 ![Byt 3+kk Na Občinách](/naobcinach/naobcinach-21.jpg)
