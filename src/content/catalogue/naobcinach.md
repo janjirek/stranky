@@ -45,7 +45,7 @@ slug: naobcinach
 thumbnail_local: naobcinach-15.jpg
 price: 7.750.000 Kč
 mapy_link: https://mapy.com/s/rapufekage
-youtube_link: https://youtu.be/zvhBSkuRrTU?si=Bac5dcbuiPoKtkGA
+youtube_link: https://www.youtube.com/embed/zvhBSkuRrTU?si=ksPEg3rqJ9LhxsTV
 ---
 
 Nabízím vám k prodeji prostorný byt o dispozici 3+kk, který se nachází v 3. patře cihlového domu bez výtahu v ulici Na Občinách 959/2 v Hradci Králové.
