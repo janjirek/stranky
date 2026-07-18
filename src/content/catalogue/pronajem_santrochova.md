@@ -1,8 +1,9 @@
 ---
 title: Pronájem bytu 1+1 – Šantrochova 423/2, Hradec Králové
-date: 2025-03-01
+date: 2026-07-18
 location: Šantrochova 423/2, Hradec Králové
 description: Pronájem bytu 1+1 v klidné části města Hradce Králové, nedaleko cyklostezky.
+tags: [byt, pronájem, 1+1, bydlení, Hradec Králové]
 images:
 - pronajem_santrochova
 - pronajem_santrochova-10
@@ -20,6 +21,9 @@ images:
 - pronajem_santrochova-9
 slug: pronajem-santrochova
 thumbnail: pronajem_santrochova-8
+type: pronájem
+price: 10.500 Kč
+mapy_link: https://mapy.com/s/pefavomune
 
 
 ---
@@ -35,7 +39,7 @@ Byt je v původním stavu o podlahové ploše 34,5 m2 a tudíž je ideální pro
 Pokoj o výměře 16,4 m2 je orientován na jih.
 
 | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754810091/pronajem_santrochova-14.jpg) | ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754810089/pronajem_santrochova-13.jpg) |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 
 Koupelna je osazena vanou.
 
@@ -45,11 +49,18 @@ K bytu náleží možnost využití lodžie v mezipatře a sklep v suterénu dom
 
 ![](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/v1754810069/pronajem_santrochova-3.jpg)
 
-Byt je k nastěhování od 01.09.2025.
-Zálohy na energie činí pro jednu osobu činí 2.200 Kč. Uvedená částka nezahrnuje zálohy na elektřinu, plyn na vaření a internet.
+Byt je k nastěhování od 01.09.2026.
+
+Zálohy na energie činí pro jednu osobu 2.090 Kč:
+    ‌
+Výtah 30 Kč
+Osvětlení spol.prostor 10 Kč
+Studená voda 550 Kč
+Teplá voda 750 Kč 
+Teplo 750 Kč
 
 Vratná kauce 15.000 Kč
-Provize RK 10.000 Kč
+Provize RK 11.000 Kč
 
 Majitel si vyhrazuje právo na výběr nájemce dle jím zvolených kritérií.
 
@@ -65,4 +76,4 @@ Majitel si vyhrazuje právo na výběr nájemce dle jím zvolených kritérií.
 
 ### Kde se nemovitost nachází?:
 
-<iframe style="border:none" src="https://mapy.com/s/jumebavuge" width="700" height="466" frameborder="0"></iframe>
+<iframe style="border:none" src="https://mapy.com/s/pefavomune" width="700" height="466" frameborder="0"></iframe>
