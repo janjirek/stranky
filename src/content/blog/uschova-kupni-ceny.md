@@ -243,7 +243,7 @@ U advokáta i notáře je vhodné ověřit, že je skutečně zapsán v příslu
 
 # 11) Která úschova je nejlepší
 
-Univerzálně nejlepší způsob úschovy neexistuje.
+Univerzálně nejlepší způsob úschovy neexistuje. 
 
 Pro běžný prodej bytu nebo rodinného domu bývá advokátní úschova praktickým kompromisem mezi bezpečností, rychlostí a možností nastavit podmínky podle konkrétního obchodu.
 
