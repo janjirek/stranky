@@ -5,6 +5,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from '@/components/ui/dialog';
+import { cn } from '@/components/lib/utils';
 
 interface TermsDialogProps {
   termsTitle: string;
@@ -21,13 +22,15 @@ export default function TermsDialog({
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <p
-          className={
+        <button
+          type="button"
+          className={cn(
+            'bg-transparent border-none p-0 font-inherit',
             className || 'text-sm text-blue-500 underline cursor-pointer hover:text-blue-600'
-          }
+          )}
         >
           {triggerText}
-        </p>
+        </button>
       </DialogTrigger>
       <DialogContent className="sm:max-w-[800px] overflow-y-auto max-h-[90vh]">
         <DialogHeader>
