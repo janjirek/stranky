@@ -7,6 +7,7 @@ import SEO from '@/components/SEO.astro';
 
 import { AnimatedGridPattern } from '@/components/magicui/animated-grid-pattern';
 import { cn } from '@/components/lib/utils';
+import CookieConsentWrapper from '@/components/cookie-consent-wrapper.astro';
 
 // Import fonts using Astro's way
 import '@fontsource/inter/500.css';
@@ -64,15 +65,28 @@ const {
       location={location}
       price={price}
     />
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FQWKC8KLWN"></script>
-    <script>
+    <!-- Google tag (gtag.js) — načte se až po souhlasu s cookies, viz cookie-consent.tsx -->
+    <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         dataLayer.push(arguments);
       }
-      gtag('js', new Date());
-      gtag('config', 'G-FQWKC8KLWN');
+      window.gtag = gtag;
+
+      window.loadGoogleAnalytics = function loadGoogleAnalytics() {
+        if (window.__gaLoaded) return;
+        window.__gaLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-FQWKC8KLWN';
+        document.head.appendChild(script);
+        gtag('js', new Date());
+        gtag('config', 'G-FQWKC8KLWN');
+      };
+
+      if (localStorage.getItem('cookie-consent') === 'accepted') {
+        window.loadGoogleAnalytics();
+      }
     </script>
   </head>
   <body class="bg-white font-inter tracking-tight text-gray-800 antialiased">
@@ -96,6 +110,7 @@ const {
         <slot />
       </main>
       <Footer />
+      <CookieConsentWrapper />
     </div>
   </body>
 </html>

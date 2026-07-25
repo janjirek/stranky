@@ -21,7 +21,7 @@ Když nás kontaktujete prostřednictvím webových stránek, můžete být pož
 5. telefonní číslo nebo
 6. e-mailová adresa.
 
-Na našich webových stránkách Vás nesledujeme, takže se k nám dostanou jenom ty Vaše osobní údaje, které nám výslovně sdělíte.
+Bez Vašeho souhlasu Vás na našich webových stránkách nesledujeme, takže se k nám dostanou jenom ty Vaše osobní údaje, které nám výslovně sdělíte. Pokud udělíte souhlas s používáním analytických cookies (viz bod 7), zpracováváme prostřednictvím nástroje Google Analytics anonymní údaje o návštěvnosti webových stránek.
 
 ### 3. Účel zpracování
 

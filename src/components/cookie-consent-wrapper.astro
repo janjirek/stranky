@@ -1,0 +1,22 @@
+---
+import { render, getEntry } from 'astro:content';
+import CookieConsent from './cookie-consent';
+import TermsDialog from './terms-dialog';
+
+const terms = await getEntry('terms', 'terms');
+if (!terms) {
+  throw new Error('Terms entry not found');
+}
+const { Content: TermsContent } = await render(terms);
+---
+
+<CookieConsent client:load>
+  <TermsDialog
+    client:load
+    termsTitle={terms.data.title}
+    triggerText="Více informací"
+    className="text-blue-500 underline hover:text-blue-600"
+  >
+    <TermsContent />
+  </TermsDialog>
+</CookieConsent>
