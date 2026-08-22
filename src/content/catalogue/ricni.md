@@ -41,7 +41,7 @@ slug: ricni
 thumbnail_local: ricni-32.jpg
 price: Připravujeme
 mapy_link: https://mapy.com/s/gavabezogo
-youtube_link: https://mapy.com/s/gavabezogo
+youtube_link: https://www.youtube.com/embed/wYY5IdRGhgM?si=tZxCVp6eTyHi1zaq
 ---
 
 V Hradci si obvykle musíte vybrat – buď centrum, nebo klid a zeleň. V ulici Říční máte obojí. Podél Labe vede cyklostezka a do centra dojdete pěšky za pět minut.
@@ -91,30 +91,14 @@ Po takových bytech je v Hradci Králové na pronájem slušná poptávka. Jestl
 
 ## Praktické informace
 
-### Dispozice a plochy
+### Prohlášení vlastníka
 
 Podle prohlášení vlastníka se jednotka skládá z těchto místností:
-
-| Místnost        | Plocha       |
-| --------------- | ------------ |
-| Pokoj           | 17,30 m²     |
-| Kuchyně         | 3,70 m²      |
-| Hala, předsíň   | 2,62 m²      |
-| Komora v bytě   | 1,02 m²      |
-| Koupelna s WC   | 3,07 m²      |
-| Lodžie (balkon) | 7,20 m²      |
-| Sklep           | 1,00 m²      |
-| **Celkem**      | **35,85 m²** |
-
-Vytápěná plocha činí 21,00 m². K jednotce náleží spoluvlastnický podíl 358/13293 na společných částech domu a pozemku.
+![Byt 1+kk Říční 1181, Hradec Králové](/ricni/ricni-29.jpg)
 
 ### 3D prohlídka:
 
 <iframe width="853" height="480" src="https://my.matterport.com/show/?m=J4Vs6goMYcK" frameborder="0" allowfullscreen allow="autoplay; fullscreen; web-share; xr-spatial-tracking;"></iframe>
-
-### Prohlášení vlastníka:
-
-![Byt 1+kk Říční 1181, Hradec Králové](/ricni/ricni-29.jpg)
 
 ### Půdorys měřený laserem:
 
@@ -123,18 +107,6 @@ Vytápěná plocha činí 21,00 m². K jednotce náleží spoluvlastnický podí
 ### Měsíční poplatky
 
 Předpis měsíčních úhrad je **2 682 Kč** (platný k 1. 9. 2026, počítáno pro 2 osoby) a zahrnuje:
-
-| Položka                      | Kč / měsíc |
-| ---------------------------- | ---------- |
-| Fond oprav (PSDaP)           | 1 074      |
-| Pojištění domu               | 28         |
-| Správní činnost              | 255        |
-| Výtahy                       | 160        |
-| Elektřina společných prostor | 54         |
-| Teplo                        | 483        |
-| Teplá voda                   | 340        |
-| Studená voda                 | 288        |
-| **Celkem**                   | **2 682**  |
 
 ![Byt 1+kk Říční 1181, Hradec Králové](/ricni/ricni-25.jpg)
 
