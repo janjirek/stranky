@@ -59,7 +59,7 @@ Hlavní obytný prostor včetně kuchyně měří 21 m². Pohodlně sem umístí
 ![Byt 1+kk Říční 1181, Hradec Králové](/ricni/ricni-1.jpg)
 ![Byt 1+kk Říční 1181, Hradec Králové](/ricni/ricni-4.jpg)
 
-Linka je vybavena elektrickou troubou, digestoří a mikrovlnnou troubou. Velké okno a balkonové dveře dodávají celému prostoru dostatek světla.
+Linka je vybavena elektrickou a mikrovlnnou troubou. Velké okno a balkonové dveře dodávají celému prostoru dostatek světla.
 ![Byt 1+kk Říční 1181, Hradec Králové](/ricni/ricni-6.jpg)
 
 Zádveří lemují vestavěné skříně od podlahy až ke stropu – úložného prostoru je zde na velikost bytu opravdu dost. Nezapomnělo se ani na místo pro pračku.
