@@ -44,7 +44,7 @@ mapy_link: https://mapy.com/s/gavabezogo
 youtube_link: https://www.youtube.com/embed/wYY5IdRGhgM?si=tZxCVp6eTyHi1zaq
 ---
 
-V Hradci si obvykle musíte vybrat – buď centrum, nebo klid a zeleň. V ulici Říční máte obojí. Podél Labe vede cyklostezka a do centra dojdete pěšky za pět minut.
+
 
 Nabízím vám k prodeji byt o dispozici 1+kk s lodžií, komorou a sklepem o celkové ploše 35,85 m², který se nachází v 1. patře (2. nadzemní podlaží) domu v ulici Říční 1181, Hradec Králové.
 
