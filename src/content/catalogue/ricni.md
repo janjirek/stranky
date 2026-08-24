@@ -39,12 +39,10 @@ images_local:
   - ricni-31.jpg
 slug: ricni
 thumbnail_local: ricni-32.jpg
-price: Připravujeme
+price: 3.990.000 Kč
 mapy_link: https://mapy.com/s/gavabezogo
 youtube_link: https://www.youtube.com/embed/wYY5IdRGhgM?si=tZxCVp6eTyHi1zaq
 ---
-
-
 
 Nabízím vám k prodeji byt o dispozici 1+kk s lodžií, komorou a sklepem o celkové ploše 35,85 m², který se nachází v 1. patře (2. nadzemní podlaží) domu v ulici Říční 1181, Hradec Králové.
 
