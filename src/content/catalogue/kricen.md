@@ -38,7 +38,7 @@ Rovinatý pozemek je přístupný z asfaltové obecní komunikace, která vede z
 
 ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-17.jpg)
 
-Na pozemku je několik vzrostlých ovocných stromů a stodola určena k demolici. Máme několik nabídek na demolici současné stavby. **<u>Náklad na demolici bude odečten od kupní ceny</u>**.    ‌
+Na pozemku je několik vzrostlých ovocných stromů a stodola určena k demolici.
 
 | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-12.jpg) | ![pozemek Křičeň](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600//v1755541183/kricen-11.jpg) |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
