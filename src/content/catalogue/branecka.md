@@ -24,6 +24,8 @@ images_local:
   - DSC_8279.jpg
   - DSC_8282.jpg
   - DSC_8285.jpg
+  - DJI_0107-Edit.jpg
+  - DJI_0108.jpg
   - DSC_8231.jpg
   - DSC_8230.jpg
   - DSC_8228.jpg
@@ -77,10 +79,11 @@ Nad hlavní částí domu je rozlehlá půda s původním dřevěným krovem, kt
 | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8282.jpg) | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8285.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-Za domem se rozkládá zahrada orientovaná na západ s ovocnými a vzrostlými stromy. Ve dvoře stojí menší hospodářská stavba.
+Za domem se rozkládá zahrada orientovaná na západ s ovocnými a vzrostlými stromy. Pozemek má obdélníkový tvar a táhne se od ulice do hloubky. Ve dvoře stojí menší hospodářská stavba.
 
+| ![Rodinný dům Branecká 307, Svítkov](/branecka/DJI_0107-Edit.jpg) | ![Rodinný dům Branecká 307, Svítkov](/branecka/DJI_0108.jpg) |
+| ----------------------------------------------------------------- | ------------------------------------------------------------ |
 | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8231.jpg) | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8230.jpg) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8228.jpg) | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8235.jpg) |
 
 Dům je napojen na elektřinu, obecní vodovod, plyn a kanalizaci (připojení na kanalizaci proběhlo v roce 2008). Přístup k domu vede přímo z asfaltové ulice s chodníkem. Nachází se v klidné, zavedené zástavbě rodinných domů v městské části Svítkov.
