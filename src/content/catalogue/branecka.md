@@ -45,7 +45,7 @@ images_local:
   - situace.jpg
 slug: branecka
 thumbnail_local: thumbnail.jpeg
-price: 6.900.000 Kč
+price: 6.890.000 Kč
 mapy_link: https://mapy.com/s/juhuvoheno
 youtube_link: https://www.youtube.com/embed/khOYkdnz0j8?si=PokBiPQ5QAxWo4xx
 ---
@@ -83,8 +83,8 @@ Za domem se rozkládá zahrada orientovaná na západ s ovocnými a vzrostlými 
 
 | ![Rodinný dům Branecká 307, Svítkov](/branecka/DJI_0107-Edit.jpg) | ![Rodinný dům Branecká 307, Svítkov](/branecka/DJI_0108.jpg) |
 | ----------------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8231.jpg) | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8230.jpg) |
-| ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8228.jpg) | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8235.jpg) |
+| ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8231.jpg)      | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8230.jpg) |
+| ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8228.jpg)      | ![Rodinný dům Branecká 307, Svítkov](/branecka/DSC_8235.jpg) |
 
 Dům je napojen na elektřinu, obecní vodovod, plyn a kanalizaci (připojení na kanalizaci proběhlo v roce 2008). Přístup k domu vede přímo z asfaltové ulice s chodníkem. Nachází se v klidné, zavedené zástavbě rodinných domů v městské části Svítkov.
 
