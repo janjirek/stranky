@@ -43,7 +43,7 @@ images_local:
 - naobcinach-35.jpg
 slug: naobcinach
 thumbnail_local: naobcinach-15.jpg
-price: 7.750.000 Kč
+price: 7.450.000 Kč
 mapy_link: https://mapy.com/s/rapufekage
 youtube_link: https://www.youtube.com/embed/zvhBSkuRrTU?si=ksPEg3rqJ9LhxsTV
 ---

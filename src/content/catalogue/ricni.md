@@ -39,7 +39,7 @@ images_local:
   - ricni-31.jpg
 slug: ricni
 thumbnail_local: ricni-32.jpg
-price: 3.990.000 Kč
+price: 3.850.000 Kč
 mapy_link: https://mapy.com/s/gavabezogo
 youtube_link: https://www.youtube.com/embed/wYY5IdRGhgM?si=tZxCVp6eTyHi1zaq
 ---
