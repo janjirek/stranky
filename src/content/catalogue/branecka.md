@@ -45,7 +45,7 @@ images_local:
   - situace.jpg
 slug: branecka
 thumbnail_local: thumbnail.jpeg
-price: 6.890.000 Kč
+price: Rezervováno
 mapy_link: https://mapy.com/s/juhuvoheno
 youtube_link: https://www.youtube.com/embed/khOYkdnz0j8?si=PokBiPQ5QAxWo4xx
 ---

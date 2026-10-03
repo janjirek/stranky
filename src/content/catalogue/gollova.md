@@ -37,7 +37,10 @@ images:
 - gollova-5
 - gollova-9
 - gollova-32
+- gollova-31-4
 - gollova-31
+- gollova-31-3
+- gollova-31-2
 price: Připravuji
 location: Gollova 465, 500 09 Hradec Králové – Malšovice
 mapy_link: https://mapy.com/s/habotasezo
@@ -110,9 +113,13 @@ V domě byly v roce 2018 vyměněny stoupačky včetně rozvodů plynu a v roce 
 
 Gollova ulice leží v Malšovicích na okraji Hradeckých lesů, obchodní centrum Futurum na Brněnské ulici máte autem za 2 minuty. Nemovitost lze financovat hypotečním úvěrem.
 
-Energetická náročnost budovy: G – mimořádně nehospodárná (dle vyhlášky č. 264/2020 Sb.).
-
 ## Praktické informace
+
+### Prohlášení vlastníka:
+
+Podle údajů pro jednotlivé byty má jednotka celkovou plochu 68,58 m², z toho vytápěnou 54,04 m². Sklep je uveden s výměrou 5,18 m², lodžie 2,80 m². Spoluvlastnický podíl na domě je 686/27454.
+
+![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-31-4.jpg)
 
 ### 3D prohlídka:
 
@@ -127,6 +134,13 @@ Energetická náročnost budovy: G – mimořádně nehospodárná (dle vyhláš
 Měsíční předpis činí **3 588 Kč** (platný od 1. 1. 2025) a zahrnuje dlouhodobou zálohu na opravy, výdaje na středisko a správu, pojištění, elektrickou energii společných prostor, zálohu na studenou vodu a provozní náklady. Užitková plocha je v předpisu uvedena jako 60,60 m², podlahová plocha jako 68,60 m² a spoluvlastnický podíl jako 686/27454.
 
 ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-31.jpg)
+
+### Rozpočet a plán oprav SVJ na rok 2026:
+
+Společenství hospodaří velmi zdravě. Fond oprav měl k 1. 1. 2026 stav **3 985 608 Kč** a předpokládaný zůstatek k 31. 12. 2026 je **4 324 040 Kč**. Na letošní rok je naplánováno čerpání 904 000 Kč, z toho největší položky tvoří realizace odpočinkové zóny za domem (460 000 Kč) a projekt rekonstrukce elektroinstalace (220 000 Kč).
+
+![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-31-3.jpg)
+![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-31-2.jpg)
 
 ### Kde se nemovitost nachází?:
 
