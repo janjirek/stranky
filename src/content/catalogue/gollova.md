@@ -41,7 +41,7 @@ images:
 - gollova-31
 - gollova-31-3
 - gollova-31-2
-price: Připravuji
+price: 6.990.000 Kč
 location: Gollova 465, 500 09 Hradec Králové – Malšovice
 mapy_link: https://mapy.com/s/habotasezo
 youtube_link: https://www.youtube.com/embed/rFrz1nlKXDk?si=dUtS_iYeN0QV_ue6
