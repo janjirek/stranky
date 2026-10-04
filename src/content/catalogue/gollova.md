@@ -56,15 +56,15 @@ Nabízím vám k prodeji cihlový byt o dispozici 3+kk a celkové ploše 68,5 m�
 
 Byt vznikl z původní dispozice 3+1 a kompletní rekonstrukcí prošel v roce 2018. Dům stojí v klidné části Malšovic na okraji Hradeckých lesů.
 
-| ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-7.jpg) |
-| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova.jpg)   | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-7.jpg) |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-8.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-3.jpg) |
 
 K domu vede klidná pěší cesta mezi zelení.
 
 | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-10.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-11.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-12.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-6.jpg) |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-12.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-6.jpg)  |
 
 Z chodby o ploše 7,36 m² se vstupuje do obývacího pokoje, kuchyně, koupelny a na samostatné WC.
 
@@ -73,37 +73,37 @@ Z chodby o ploše 7,36 m² se vstupuje do obývacího pokoje, kuchyně, koupelny
 Obývací pokoj má 18,72 m², výstup na lodžii o ploše 2,99 m² a výhled do zahrady. Obývací pokoj i ložnice jsou orientované na západ.
 
 | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-23.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-19.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-20.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-18.jpg) |
 
 Na obývací pokoj navazuje ložnice o ploše 12,93 m².
 
 | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-28.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-30.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 
 Kuchyně je v samostatné místnosti o ploše 13,18 m² a vejde se do ní i jídelní stůl. Linka je vybavena vestavnou troubou, varnou deskou, myčkou a mikrovlnnou troubou.
 
 | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-25.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-26.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-27.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-29.jpg) |
 
-Vedle kuchyně vznikla menší pracovna o ploše 4,70 m² s vlastním oknem. Kuchyň i pracovna jsou orientované na východ.
+Vedle kuchyně vznikla menší pracovna o ploše 4,70 m² s vlastním oknem, kam můžete umístit i postel. Kuchyň i pracovna jsou orientované na východ.
 
 ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-16.jpg)
 
 V koupelně o ploše 2,19 m² je vana, umyvadlo a místo pro pračku. WC je samostatné.
 
 | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-17.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-24.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 
 Ze všech oken je výhled do zeleně. Okna mají trojskla, v obývacím pokoji a ložnici jsou venkovní rolety. Elektroinstalace je kompletně v mědi, rozvody topení v alpexu, nové podlahové krytiny jsou položené na původních podlahách. Vytápění zajišťuje vlastní plynový kotel umístěný v koupelně. K bytu náleží sklep o výměře 5,2 m².
 
-K domu patří zahrada o výměře přes 2 700 m² s pískovištěm a houpačkou.
+K bytové jednotce patří spoluvlastnický podíl na pozemku před domem o výměře přes 2 700 m² s pískovištěm a houpačkou.
 
 | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-13.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-14.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-15.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-4.jpg) |
-| ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-2.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-5.jpg) |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-15.jpg) | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-4.jpg)  |
+| ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-2.jpg)  | ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-5.jpg)  |
 
 Přímo před domem je možné dokoupit garáž s elektrickými vraty. Garáž není součástí ceny bytu.
 
@@ -117,7 +117,7 @@ Gollova ulice leží v Malšovicích na okraji Hradeckých lesů, obchodní cent
 
 ### Prohlášení vlastníka:
 
-Podle údajů pro jednotlivé byty má jednotka celkovou plochu 68,58 m², z toho vytápěnou 54,04 m². Sklep je uveden s výměrou 5,18 m², lodžie 2,80 m². Spoluvlastnický podíl na domě je 686/27454.
+Podle údajů pro jednotlivé byty má jednotka celkovou plochu 68,58 m². Sklep je uveden s výměrou 5,18 m², lodžie 2,80 m². Spoluvlastnický podíl na domě je 686/27454.
 
 ![Byt 3+kk Gollova, Hradec Králové](https://res.cloudinary.com/dgnpeadbj/image/upload/f_auto,q_auto,w_1600/gollova-31-4.jpg)
 
