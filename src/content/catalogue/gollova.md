@@ -48,7 +48,7 @@ youtube_link: https://www.youtube.com/embed/rFrz1nlKXDk?si=dUtS_iYeN0QV_ue6
 slug: gollova
 ---
 
-Nabízím vám k prodeji cihlový byt o dispozici 3+kk a celkové ploše 68,5 m² včetně lodžie a sklepa, který se nachází ve zvýšeném přízemí domu v Gollově ulici v Hradci Králové, v Malšovicích.
+Nabízím vám k prodeji cihlový byt o dispozici 3+kk a celkové ploše 68,5 m² včetně lodžie a sklepa, který se nachází ve zvýšeném přízemí s pouze osmi schody v Gollově ulici v Hradci Králové, v Malšovicích.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rFrz1nlKXDk?si=dUtS_iYeN0QV_ue6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -87,7 +87,7 @@ Kuchyně je v samostatné místnosti o ploše 13,18 m² a vejde se do ní i jíd
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | ![Byt 3+kk Gollova, Hradec Králové](/gollova/gollova-27.jpg) | ![Byt 3+kk Gollova, Hradec Králové](/gollova/gollova-29.jpg) |
 
-Vedle kuchyně vznikla menší pracovna o ploše 4,70 m² s vlastním oknem, kam můžete umístit i postel. Kuchyň i pracovna jsou orientované na východ.
+Vedle kuchyně vznikla pracovna o ploše 4,70 m² s vlastním oknem, kterou lze případně využít jako hernu či menší dětský pokoj. Kuchyň i pracovna jsou orientované na východ.
 
 ![Byt 3+kk Gollova, Hradec Králové](/gollova/gollova-16.jpg)
 
@@ -96,9 +96,9 @@ V koupelně o ploše 2,19 m² je vana, umyvadlo a místo pro pračku. WC je samo
 | ![Byt 3+kk Gollova, Hradec Králové](/gollova/gollova-17.jpg) | ![Byt 3+kk Gollova, Hradec Králové](/gollova/gollova-24.jpg) |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 
-Ze všech oken je výhled do zeleně. Okna mají trojskla, v obývacím pokoji a ložnici jsou venkovní rolety. Elektroinstalace je kompletně v mědi, rozvody topení v alpexu, nové podlahové krytiny jsou položené na původních podlahách. Vytápění zajišťuje vlastní plynový kotel umístěný v koupelně. K bytu náleží sklep o výměře 5,2 m².
+Ze všech oken je výhled do zeleně. Okna mají trojskla, v obývacím pokoji a ložnici jsou venkovní rolety. Elektroinstalace je kompletně v mědi, rozvody topení v alpexu. Vytápění zajišťuje vlastní plynový kotel umístěný v koupelně, který funguje bez problémů. K bytu náleží sklep o výměře 5,2 m².
 
-K bytové jednotce patří spoluvlastnický podíl na pozemku před domem o výměře přes 2 700 m² s pískovištěm a houpačkou.
+K bytové jednotce patří spoluvlastnický podíl na oplocené zahradě kolem budovy o výměře přes 2 700 m² s pískovištěm a houpačkou.
 
 | ![Byt 3+kk Gollova, Hradec Králové](/gollova/gollova-13.jpg) | ![Byt 3+kk Gollova, Hradec Králové](/gollova/gollova-14.jpg) |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -111,7 +111,7 @@ Přímo před domem je možné dokoupit garáž s elektrickými vraty. Garáž n
 
 V domě byly v roce 2018 vyměněny stoupačky včetně rozvodů plynu a v roce 2023 dostal dům novou střechu včetně zateplení. Na příští rok se připravuje revitalizace rozvodů elektřiny v domě.
 
-Gollova ulice leží v Malšovicích na okraji Hradeckých lesů, obchodní centrum Futurum na Brněnské ulici máte autem za 2 minuty. Nemovitost lze financovat hypotečním úvěrem.
+Gollova ulice leží v Malšovicích na okraji Hradeckých lesů, obchodní centrum Futurum na Brněnské ulici máte autem za 2 minuty. Nemovitost je bez právních vad a lze ji financovat hypotečním úvěrem.
 
 ## Praktické informace
 
