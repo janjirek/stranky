@@ -17,7 +17,7 @@ images:
 - garaz-pouchov-8
 - garaz-pouchov-9
 - garaz-pouchov-11
-price: 680.000 Kč
+price: 590.000 Kč
 location: Vážní, Hradec Králové – Slezské Předměstí (Pouchov)
 mapy_link: https://mapy.com/s/feceponono
 slug: garaz-pouchov
